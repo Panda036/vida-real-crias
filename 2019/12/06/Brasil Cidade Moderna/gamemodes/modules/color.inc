@@ -1,0 +1,13 @@
+#define Branco                  0xFFFFFFAA
+#define Azul                    0x0000FFAA
+#define Verde                   0x00FF40AA
+#define Verde_Escurinho         0x00C40AAA
+#define Verde_Escuro            0x00C40AAA
+#define Vermelho                0xFF0000AA
+#define Amarelo                 0xFFFF00AA
+#define Laranja                 0xFF8000AA
+#define Rosa                    0xFF00FFAA
+#define Roxo                    0x8000FFAA
+#define Erro                    0xFF4000AA
+#define adm                     0x0080FFAA
+#define C_PROPERTY              0xFFD700AA

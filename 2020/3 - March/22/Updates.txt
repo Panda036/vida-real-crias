@@ -1,0 +1,13 @@
+•» Systems: Arena 100% - Status 95% - Houses 100% - Companys 100% - Concessionaire 100% - Accounts 55% - Agency 10%;
+
+•» Database: Empresas(106) | Casas(870);
+
+•» Adicionado:
+	Doenças ( Coronavírus, Pneumonia e Dengue );
+	Arena ( KD Ratios );
+	Paramédico ( /uniforme, /cura, /vendervacina, skins e veículos profissão );
+	
+•» Bugs resolvido:
+	Arena;
+
+•» Gamemode size: 0,99mB;

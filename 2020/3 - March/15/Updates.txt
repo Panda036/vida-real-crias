@@ -1,0 +1,14 @@
+•» Systems: Arena 100% - Status 95% - Houses 100% - Companys 100% - Concessionaire 100% - Accounts 55% - Agency 10%;
+
+•» Database: Empresas(106) | Casas(870);
+
+•» Adicionado:
+	Anti-Cheater money;
+	/neon
+	Arena
+
+•» Bugs resolvido:
+	$-100 quando morria;
+
+
+•» Gamemode size: 0,97mB;

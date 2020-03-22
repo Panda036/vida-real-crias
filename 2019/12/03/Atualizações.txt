@@ -1,0 +1,12 @@
+• Sistema de status 90%;
+• Sistema de casas 100%;
+• Sistema de empresas 25%;
+• Sistema de concessionaria 0%;
+• Sistema de contas 50%;
+• Sistema de Agencia 6%;
+
+• Adicionado:
+	/CriarEmpresa, /EntrarEmpresa, /SairEmpresa, F, Enter, /IrEmpresa;
+• Terminando: 
+
+• Bugs resolvido:
