@@ -1,0 +1,4 @@
+Removido bug de upar assim que entra/registra;
+Removido o bug de não salvar Última entrada;
+Removido o bug de não salvar salário;
+Adicionado Suporte para Mobile;

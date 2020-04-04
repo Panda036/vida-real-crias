@@ -1,0 +1,5095 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:32:27] filterscripts = ""  (string)
+[10:32:27] 
+[10:32:27] Server Plugins
+[10:32:27] --------------
+[10:32:27]  Loading plugin: mysql
+[10:32:27]  >> plugin.mysql: R41-4 successfully loaded.
+[10:32:27]   Loaded.
+[10:32:27]  Loading plugin: streamer
+[10:32:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:32:27]   Loaded.
+[10:32:27]  Loading plugin: pawncmd
+[10:32:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[10:32:27]   Loaded.
+[10:32:27]  Loading plugin: sscanf
+[10:32:27] 
+
+[10:32:27]  ===============================
+
+[10:32:27]       sscanf plugin loaded.     
+
+[10:32:27]          Version:  2.8.3        
+
+[10:32:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:32:27]  ===============================
+
+[10:32:27]   Loaded.
+[10:32:27]  Loaded 4 plugins.
+
+[10:32:28] 
+[10:32:28] Filterscripts
+[10:32:28] ---------------
+[10:32:28]   Loaded 0 filterscripts.
+
+[10:32:28]  
+[10:32:28]  ======================================= 
+[10:32:28]  |                                     | 
+[10:32:28]  |        YSI version 1.04.0000        | 
+[10:32:28]  |        By Alex "Y_Less" Cole        | 
+[10:32:28]  |                                     | 
+[10:32:28]  ======================================= 
+[10:32:28]  
+[10:32:28]  =======================================
+[10:32:28]  |                                     |
+[10:32:28]  |           Banco de Dados            |
+[10:32:28]  |               Falhou                |
+[10:32:28]  |                                     |
+[10:32:28]  =======================================
+[10:32:28] Number of vehicle models: 17
+[10:32:28] --- Server Shutting Down.
+[10:32:28] plugin.mysql: Unloading plugin...
+[10:32:28] plugin.mysql: Plugin unloaded.
+[10:32:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[10:32:28] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[10:32:28] 
+
+[10:32:28]  ===============================
+
+[10:32:28]      sscanf plugin unloaded.    
+
+[10:32:28]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:35:15] filterscripts = ""  (string)
+[10:35:15] 
+[10:35:15] Server Plugins
+[10:35:15] --------------
+[10:35:15]  Loading plugin: mysql
+[10:35:15]  >> plugin.mysql: R41-4 successfully loaded.
+[10:35:15]   Loaded.
+[10:35:15]  Loading plugin: streamer
+[10:35:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:35:15]   Loaded.
+[10:35:15]  Loading plugin: pawncmd
+[10:35:15] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[10:35:15]   Loaded.
+[10:35:15]  Loading plugin: sscanf
+[10:35:15] 
+
+[10:35:15]  ===============================
+
+[10:35:15]       sscanf plugin loaded.     
+
+[10:35:15]          Version:  2.8.3        
+
+[10:35:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:35:15]  ===============================
+
+[10:35:15]   Loaded.
+[10:35:15]  Loaded 4 plugins.
+
+[10:35:15] 
+[10:35:15] Filterscripts
+[10:35:15] ---------------
+[10:35:15]   Loaded 0 filterscripts.
+
+[10:35:15]  
+[10:35:15]  ======================================= 
+[10:35:15]  |                                     | 
+[10:35:15]  |        YSI version 1.04.0000        | 
+[10:35:15]  |        By Alex "Y_Less" Cole        | 
+[10:35:15]  |                                     | 
+[10:35:15]  ======================================= 
+[10:35:15]  
+[10:35:15]  =======================================
+[10:35:15]  |                                     |
+[10:35:15]  |           Banco de Dados            |
+[10:35:15]  |        Conectado com sucesso        |
+[10:35:15]  |                                     |
+[10:35:15]  =======================================
+[10:35:15] Number of vehicle models: 17
+[10:35:37] [connection] 127.0.0.1:49989 requests connection cookie.
+[10:35:38] [connection] incoming connection: 127.0.0.1:49989 id: 0
+[10:35:39] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:12:59] filterscripts = ""  (string)
+[11:12:59] 
+[11:12:59] Server Plugins
+[11:12:59] --------------
+[11:12:59]  Loading plugin: mysql
+[11:12:59]  >> plugin.mysql: R41-4 successfully loaded.
+[11:12:59]   Loaded.
+[11:12:59]  Loading plugin: streamer
+[11:12:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:12:59]   Loaded.
+[11:12:59]  Loading plugin: pawncmd
+[11:12:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:12:59]   Loaded.
+[11:12:59]  Loading plugin: sscanf
+[11:12:59] 
+
+[11:12:59]  ===============================
+
+[11:12:59]       sscanf plugin loaded.     
+
+[11:12:59]          Version:  2.8.3        
+
+[11:12:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:12:59]  ===============================
+
+[11:12:59]   Loaded.
+[11:12:59]  Loaded 4 plugins.
+
+[11:12:59] 
+[11:12:59] Filterscripts
+[11:12:59] ---------------
+[11:12:59]   Loaded 0 filterscripts.
+
+[11:12:59]  
+[11:12:59]  ======================================= 
+[11:12:59]  |                                     | 
+[11:12:59]  |        YSI version 1.04.0000        | 
+[11:12:59]  |        By Alex "Y_Less" Cole        | 
+[11:12:59]  |                                     | 
+[11:12:59]  ======================================= 
+[11:12:59]  
+[11:12:59]  =======================================
+[11:12:59]  |                                     |
+[11:12:59]  |           Banco de Dados            |
+[11:12:59]  |        Conectado com sucesso        |
+[11:12:59]  |                                     |
+[11:12:59]  =======================================
+[11:12:59] Number of vehicle models: 17
+[11:13:01] [connection] 127.0.0.1:64376 requests connection cookie.
+[11:13:02] [connection] incoming connection: 127.0.0.1:64376 id: 0
+[11:13:03] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:23:19] filterscripts = ""  (string)
+[11:23:19] 
+[11:23:19] Server Plugins
+[11:23:19] --------------
+[11:23:19]  Loading plugin: mysql
+[11:23:19]  >> plugin.mysql: R41-4 successfully loaded.
+[11:23:19]   Loaded.
+[11:23:19]  Loading plugin: streamer
+[11:23:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:23:19]   Loaded.
+[11:23:19]  Loading plugin: pawncmd
+[11:23:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:23:19]   Loaded.
+[11:23:19]  Loading plugin: sscanf
+[11:23:19] 
+
+[11:23:19]  ===============================
+
+[11:23:19]       sscanf plugin loaded.     
+
+[11:23:19]          Version:  2.8.3        
+
+[11:23:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:23:19]  ===============================
+
+[11:23:19]   Loaded.
+[11:23:19]  Loaded 4 plugins.
+
+[11:23:19] 
+[11:23:19] Filterscripts
+[11:23:19] ---------------
+[11:23:19]   Loaded 0 filterscripts.
+
+[11:23:19]  
+[11:23:19]  ======================================= 
+[11:23:19]  |                                     | 
+[11:23:19]  |        YSI version 1.04.0000        | 
+[11:23:19]  |        By Alex "Y_Less" Cole        | 
+[11:23:19]  |                                     | 
+[11:23:19]  ======================================= 
+[11:23:19]  
+[11:23:19]  =======================================
+[11:23:19]  |                                     |
+[11:23:19]  |           Banco de Dados            |
+[11:23:19]  |        Conectado com sucesso        |
+[11:23:19]  |                                     |
+[11:23:19]  =======================================
+[11:23:19] Number of vehicle models: 17
+[11:23:21] [connection] 127.0.0.1:64012 requests connection cookie.
+[11:23:22] [connection] incoming connection: 127.0.0.1:64012 id: 0
+[11:23:23] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:36:49] filterscripts = ""  (string)
+[11:36:49] 
+[11:36:49] Server Plugins
+[11:36:49] --------------
+[11:36:49]  Loading plugin: mysql
+[11:36:49]  >> plugin.mysql: R41-4 successfully loaded.
+[11:36:49]   Loaded.
+[11:36:49]  Loading plugin: streamer
+[11:36:49] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:36:49]   Loaded.
+[11:36:49]  Loading plugin: pawncmd
+[11:36:49] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:36:49]   Loaded.
+[11:36:49]  Loading plugin: sscanf
+[11:36:49] 
+
+[11:36:49]  ===============================
+
+[11:36:49]       sscanf plugin loaded.     
+
+[11:36:49]          Version:  2.8.3        
+
+[11:36:49]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:36:49]  ===============================
+
+[11:36:49]   Loaded.
+[11:36:49]  Loaded 4 plugins.
+
+[11:36:49] 
+[11:36:49] Filterscripts
+[11:36:49] ---------------
+[11:36:49]   Loaded 0 filterscripts.
+
+[11:36:49]  
+[11:36:49]  ======================================= 
+[11:36:49]  |                                     | 
+[11:36:49]  |        YSI version 1.04.0000        | 
+[11:36:49]  |        By Alex "Y_Less" Cole        | 
+[11:36:49]  |                                     | 
+[11:36:49]  ======================================= 
+[11:36:49]  
+[11:36:49]  =======================================
+[11:36:49]  |                                     |
+[11:36:49]  |           Banco de Dados            |
+[11:36:49]  |        Conectado com sucesso        |
+[11:36:49]  |                                     |
+[11:36:49]  =======================================
+[11:36:49] Number of vehicle models: 17
+[11:36:50] [connection] 127.0.0.1:62747 requests connection cookie.
+[11:36:51] [connection] incoming connection: 127.0.0.1:62747 id: 0
+[11:36:52] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:38:13] filterscripts = ""  (string)
+[11:38:13] 
+[11:38:13] Server Plugins
+[11:38:13] --------------
+[11:38:13]  Loading plugin: mysql
+[11:38:13]  >> plugin.mysql: R41-4 successfully loaded.
+[11:38:13]   Loaded.
+[11:38:13]  Loading plugin: streamer
+[11:38:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:38:13]   Loaded.
+[11:38:13]  Loading plugin: pawncmd
+[11:38:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:38:13]   Loaded.
+[11:38:13]  Loading plugin: sscanf
+[11:38:13] 
+
+[11:38:13]  ===============================
+
+[11:38:13]       sscanf plugin loaded.     
+
+[11:38:13]          Version:  2.8.3        
+
+[11:38:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:38:13]  ===============================
+
+[11:38:13]   Loaded.
+[11:38:13]  Loaded 4 plugins.
+
+[11:38:13] 
+[11:38:13] Filterscripts
+[11:38:13] ---------------
+[11:38:13]   Loaded 0 filterscripts.
+
+[11:38:13]  
+[11:38:13]  ======================================= 
+[11:38:13]  |                                     | 
+[11:38:13]  |        YSI version 1.04.0000        | 
+[11:38:13]  |        By Alex "Y_Less" Cole        | 
+[11:38:13]  |                                     | 
+[11:38:13]  ======================================= 
+[11:38:13]  
+[11:38:13]  =======================================
+[11:38:13]  |                                     |
+[11:38:13]  |           Banco de Dados            |
+[11:38:13]  |        Conectado com sucesso        |
+[11:38:13]  |                                     |
+[11:38:13]  =======================================
+[11:38:13] Number of vehicle models: 17
+[11:38:15] [connection] 127.0.0.1:60876 requests connection cookie.
+[11:38:16] [connection] incoming connection: 127.0.0.1:60876 id: 0
+[11:38:16] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:05:52] filterscripts = ""  (string)
+[12:05:52] 
+[12:05:52] Server Plugins
+[12:05:52] --------------
+[12:05:52]  Loading plugin: mysql
+[12:05:52]  >> plugin.mysql: R41-4 successfully loaded.
+[12:05:52]   Loaded.
+[12:05:52]  Loading plugin: streamer
+[12:05:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:05:52]   Loaded.
+[12:05:52]  Loading plugin: pawncmd
+[12:05:52] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:05:52]   Loaded.
+[12:05:52]  Loading plugin: sscanf
+[12:05:52] 
+
+[12:05:52]  ===============================
+
+[12:05:52]       sscanf plugin loaded.     
+
+[12:05:52]          Version:  2.8.3        
+
+[12:05:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:05:52]  ===============================
+
+[12:05:52]   Loaded.
+[12:05:52]  Loaded 4 plugins.
+
+[12:05:52] 
+[12:05:52] Filterscripts
+[12:05:52] ---------------
+[12:05:52]   Loaded 0 filterscripts.
+
+[12:05:52]  
+[12:05:52]  ======================================= 
+[12:05:52]  |                                     | 
+[12:05:52]  |        YSI version 1.04.0000        | 
+[12:05:52]  |        By Alex "Y_Less" Cole        | 
+[12:05:52]  |                                     | 
+[12:05:52]  ======================================= 
+[12:05:52]  
+[12:05:52]  =======================================
+[12:05:52]  |                                     |
+[12:05:52]  |           Banco de Dados            |
+[12:05:52]  |        Conectado com sucesso        |
+[12:05:52]  |                                     |
+[12:05:52]  =======================================
+[12:05:52] Number of vehicle models: 17
+[12:05:53] [connection] 127.0.0.1:61116 requests connection cookie.
+[12:05:55] [connection] incoming connection: 127.0.0.1:61116 id: 0
+[12:05:55] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:08:37] filterscripts = ""  (string)
+[12:08:37] 
+[12:08:37] Server Plugins
+[12:08:37] --------------
+[12:08:37]  Loading plugin: mysql
+[12:08:37]  >> plugin.mysql: R41-4 successfully loaded.
+[12:08:37]   Loaded.
+[12:08:37]  Loading plugin: streamer
+[12:08:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:08:37]   Loaded.
+[12:08:37]  Loading plugin: pawncmd
+[12:08:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:08:37]   Loaded.
+[12:08:37]  Loading plugin: sscanf
+[12:08:37] 
+
+[12:08:37]  ===============================
+
+[12:08:37]       sscanf plugin loaded.     
+
+[12:08:37]          Version:  2.8.3        
+
+[12:08:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:08:37]  ===============================
+
+[12:08:37]   Loaded.
+[12:08:37]  Loaded 4 plugins.
+
+[12:08:37] 
+[12:08:37] Filterscripts
+[12:08:37] ---------------
+[12:08:37]   Loaded 0 filterscripts.
+
+[12:08:37]  
+[12:08:37]  ======================================= 
+[12:08:37]  |                                     | 
+[12:08:37]  |        YSI version 1.04.0000        | 
+[12:08:37]  |        By Alex "Y_Less" Cole        | 
+[12:08:37]  |                                     | 
+[12:08:37]  ======================================= 
+[12:08:37]  
+[12:08:37]  =======================================
+[12:08:37]  |                                     |
+[12:08:37]  |           Banco de Dados            |
+[12:08:37]  |        Conectado com sucesso        |
+[12:08:37]  |                                     |
+[12:08:37]  =======================================
+[12:08:37] Number of vehicle models: 17
+[12:08:39] [connection] 127.0.0.1:51823 requests connection cookie.
+[12:08:40] [connection] incoming connection: 127.0.0.1:51823 id: 0
+[12:08:40] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:09:34] filterscripts = ""  (string)
+[12:09:34] 
+[12:09:34] Server Plugins
+[12:09:34] --------------
+[12:09:34]  Loading plugin: mysql
+[12:09:34]  >> plugin.mysql: R41-4 successfully loaded.
+[12:09:34]   Loaded.
+[12:09:34]  Loading plugin: streamer
+[12:09:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:09:34]   Loaded.
+[12:09:34]  Loading plugin: pawncmd
+[12:09:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:09:34]   Loaded.
+[12:09:34]  Loading plugin: sscanf
+[12:09:34] 
+
+[12:09:34]  ===============================
+
+[12:09:34]       sscanf plugin loaded.     
+
+[12:09:34]          Version:  2.8.3        
+
+[12:09:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:09:34]  ===============================
+
+[12:09:34]   Loaded.
+[12:09:34]  Loaded 4 plugins.
+
+[12:09:34] 
+[12:09:34] Filterscripts
+[12:09:34] ---------------
+[12:09:34]   Loaded 0 filterscripts.
+
+[12:09:34]  
+[12:09:34]  ======================================= 
+[12:09:34]  |                                     | 
+[12:09:34]  |        YSI version 1.04.0000        | 
+[12:09:34]  |        By Alex "Y_Less" Cole        | 
+[12:09:34]  |                                     | 
+[12:09:34]  ======================================= 
+[12:09:34]  
+[12:09:34]  =======================================
+[12:09:34]  |                                     |
+[12:09:34]  |           Banco de Dados            |
+[12:09:34]  |        Conectado com sucesso        |
+[12:09:34]  |                                     |
+[12:09:34]  =======================================
+[12:09:34] Number of vehicle models: 17
+[12:09:35] [connection] 127.0.0.1:51827 requests connection cookie.
+[12:09:36] [connection] incoming connection: 127.0.0.1:51827 id: 0
+[12:09:37] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:10:38] filterscripts = ""  (string)
+[12:10:38] 
+[12:10:38] Server Plugins
+[12:10:38] --------------
+[12:10:38]  Loading plugin: mysql
+[12:10:38]  >> plugin.mysql: R41-4 successfully loaded.
+[12:10:38]   Loaded.
+[12:10:38]  Loading plugin: streamer
+[12:10:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:10:38]   Loaded.
+[12:10:38]  Loading plugin: pawncmd
+[12:10:38] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:10:38]   Loaded.
+[12:10:38]  Loading plugin: sscanf
+[12:10:38] 
+
+[12:10:38]  ===============================
+
+[12:10:38]       sscanf plugin loaded.     
+
+[12:10:38]          Version:  2.8.3        
+
+[12:10:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:10:38]  ===============================
+
+[12:10:38]   Loaded.
+[12:10:38]  Loaded 4 plugins.
+
+[12:10:38] 
+[12:10:38] Filterscripts
+[12:10:38] ---------------
+[12:10:38]   Loaded 0 filterscripts.
+
+[12:10:38]  
+[12:10:38]  ======================================= 
+[12:10:38]  |                                     | 
+[12:10:38]  |        YSI version 1.04.0000        | 
+[12:10:38]  |        By Alex "Y_Less" Cole        | 
+[12:10:38]  |                                     | 
+[12:10:38]  ======================================= 
+[12:10:38]  
+[12:10:38]  =======================================
+[12:10:38]  |                                     |
+[12:10:38]  |           Banco de Dados            |
+[12:10:38]  |        Conectado com sucesso        |
+[12:10:38]  |                                     |
+[12:10:38]  =======================================
+[12:10:38] Number of vehicle models: 17
+[12:10:44] [connection] 127.0.0.1:58576 requests connection cookie.
+[12:10:45] [connection] incoming connection: 127.0.0.1:58576 id: 0
+[12:10:45] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:11:34] filterscripts = ""  (string)
+[12:11:34] 
+[12:11:34] Server Plugins
+[12:11:34] --------------
+[12:11:34]  Loading plugin: mysql
+[12:11:34]  >> plugin.mysql: R41-4 successfully loaded.
+[12:11:34]   Loaded.
+[12:11:34]  Loading plugin: streamer
+[12:11:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:11:34]   Loaded.
+[12:11:34]  Loading plugin: pawncmd
+[12:11:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:11:34]   Loaded.
+[12:11:34]  Loading plugin: sscanf
+[12:11:34] 
+
+[12:11:34]  ===============================
+
+[12:11:34]       sscanf plugin loaded.     
+
+[12:11:34]          Version:  2.8.3        
+
+[12:11:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:11:34]  ===============================
+
+[12:11:34]   Loaded.
+[12:11:34]  Loaded 4 plugins.
+
+[12:11:34] 
+[12:11:34] Filterscripts
+[12:11:34] ---------------
+[12:11:34]   Loaded 0 filterscripts.
+
+[12:11:34]  
+[12:11:34]  ======================================= 
+[12:11:34]  |                                     | 
+[12:11:34]  |        YSI version 1.04.0000        | 
+[12:11:34]  |        By Alex "Y_Less" Cole        | 
+[12:11:34]  |                                     | 
+[12:11:34]  ======================================= 
+[12:11:34]  
+[12:11:34]  =======================================
+[12:11:34]  |                                     |
+[12:11:34]  |           Banco de Dados            |
+[12:11:34]  |        Conectado com sucesso        |
+[12:11:34]  |                                     |
+[12:11:34]  =======================================
+[12:11:34] Number of vehicle models: 17
+[12:11:40] [connection] 127.0.0.1:65277 requests connection cookie.
+[12:11:41] [connection] incoming connection: 127.0.0.1:65277 id: 0
+[12:11:41] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:13:04] filterscripts = ""  (string)
+[12:13:04] 
+[12:13:04] Server Plugins
+[12:13:04] --------------
+[12:13:04]  Loading plugin: mysql
+[12:13:04]  >> plugin.mysql: R41-4 successfully loaded.
+[12:13:04]   Loaded.
+[12:13:04]  Loading plugin: streamer
+[12:13:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:13:04]   Loaded.
+[12:13:04]  Loading plugin: pawncmd
+[12:13:04] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:13:04]   Loaded.
+[12:13:04]  Loading plugin: sscanf
+[12:13:04] 
+
+[12:13:04]  ===============================
+
+[12:13:04]       sscanf plugin loaded.     
+
+[12:13:04]          Version:  2.8.3        
+
+[12:13:04]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:13:04]  ===============================
+
+[12:13:04]   Loaded.
+[12:13:04]  Loaded 4 plugins.
+
+[12:13:04] 
+[12:13:04] Filterscripts
+[12:13:04] ---------------
+[12:13:04]   Loaded 0 filterscripts.
+
+[12:13:04]  
+[12:13:04]  ======================================= 
+[12:13:04]  |                                     | 
+[12:13:04]  |        YSI version 1.04.0000        | 
+[12:13:04]  |        By Alex "Y_Less" Cole        | 
+[12:13:04]  |                                     | 
+[12:13:04]  ======================================= 
+[12:13:04]  
+[12:13:04]  =======================================
+[12:13:04]  |                                     |
+[12:13:04]  |           Banco de Dados            |
+[12:13:04]  |        Conectado com sucesso        |
+[12:13:04]  |                                     |
+[12:13:04]  =======================================
+[12:13:04] Number of vehicle models: 17
+[12:13:06] [connection] 127.0.0.1:59484 requests connection cookie.
+[12:13:07] [connection] incoming connection: 127.0.0.1:59484 id: 0
+[12:13:07] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:13:52] filterscripts = ""  (string)
+[12:13:52] 
+[12:13:52] Server Plugins
+[12:13:52] --------------
+[12:13:52]  Loading plugin: mysql
+[12:13:52]  >> plugin.mysql: R41-4 successfully loaded.
+[12:13:52]   Loaded.
+[12:13:52]  Loading plugin: streamer
+[12:13:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:13:52]   Loaded.
+[12:13:52]  Loading plugin: pawncmd
+[12:13:52] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:13:52]   Loaded.
+[12:13:52]  Loading plugin: sscanf
+[12:13:52] 
+
+[12:13:52]  ===============================
+
+[12:13:52]       sscanf plugin loaded.     
+
+[12:13:52]          Version:  2.8.3        
+
+[12:13:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:13:52]  ===============================
+
+[12:13:52]   Loaded.
+[12:13:52]  Loaded 4 plugins.
+
+[12:13:52] 
+[12:13:52] Filterscripts
+[12:13:52] ---------------
+[12:13:52]   Loaded 0 filterscripts.
+
+[12:13:52]  
+[12:13:52]  ======================================= 
+[12:13:52]  |                                     | 
+[12:13:52]  |        YSI version 1.04.0000        | 
+[12:13:52]  |        By Alex "Y_Less" Cole        | 
+[12:13:52]  |                                     | 
+[12:13:52]  ======================================= 
+[12:13:52]  
+[12:13:52]  =======================================
+[12:13:52]  |                                     |
+[12:13:52]  |           Banco de Dados            |
+[12:13:52]  |        Conectado com sucesso        |
+[12:13:52]  |                                     |
+[12:13:52]  =======================================
+[12:13:52] Number of vehicle models: 17
+[12:13:54] [connection] 127.0.0.1:59493 requests connection cookie.
+[12:13:55] [connection] incoming connection: 127.0.0.1:59493 id: 0
+[12:13:55] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:18:27] filterscripts = ""  (string)
+[12:18:27] 
+[12:18:27] Server Plugins
+[12:18:27] --------------
+[12:18:27]  Loading plugin: mysql
+[12:18:27]  >> plugin.mysql: R41-4 successfully loaded.
+[12:18:27]   Loaded.
+[12:18:27]  Loading plugin: streamer
+[12:18:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:18:27]   Loaded.
+[12:18:27]  Loading plugin: pawncmd
+[12:18:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:18:27]   Loaded.
+[12:18:27]  Loading plugin: sscanf
+[12:18:27] 
+
+[12:18:27]  ===============================
+
+[12:18:27]       sscanf plugin loaded.     
+
+[12:18:27]          Version:  2.8.3        
+
+[12:18:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:18:27]  ===============================
+
+[12:18:27]   Loaded.
+[12:18:27]  Loaded 4 plugins.
+
+[12:18:27] 
+[12:18:27] Filterscripts
+[12:18:27] ---------------
+[12:18:27]   Loaded 0 filterscripts.
+
+[12:18:27]  
+[12:18:27]  ======================================= 
+[12:18:27]  |                                     | 
+[12:18:27]  |        YSI version 1.04.0000        | 
+[12:18:27]  |        By Alex "Y_Less" Cole        | 
+[12:18:27]  |                                     | 
+[12:18:27]  ======================================= 
+[12:18:27]  
+[12:18:28]  =======================================
+[12:18:28]  |                                     |
+[12:18:28]  |           Banco de Dados            |
+[12:18:28]  |        Conectado com sucesso        |
+[12:18:28]  |                                     |
+[12:18:28]  =======================================
+[12:18:28] Number of vehicle models: 17
+[12:18:29] [connection] 127.0.0.1:56094 requests connection cookie.
+[12:18:30] [connection] incoming connection: 127.0.0.1:56094 id: 0
+[12:18:30] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:21:55] filterscripts = ""  (string)
+[12:21:55] 
+[12:21:55] Server Plugins
+[12:21:55] --------------
+[12:21:55]  Loading plugin: mysql
+[12:21:55]  >> plugin.mysql: R41-4 successfully loaded.
+[12:21:55]   Loaded.
+[12:21:55]  Loading plugin: streamer
+[12:21:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:21:55]   Loaded.
+[12:21:55]  Loading plugin: pawncmd
+[12:21:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:21:55]   Loaded.
+[12:21:55]  Loading plugin: sscanf
+[12:21:55] 
+
+[12:21:55]  ===============================
+
+[12:21:55]       sscanf plugin loaded.     
+
+[12:21:55]          Version:  2.8.3        
+
+[12:21:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:21:55]  ===============================
+
+[12:21:55]   Loaded.
+[12:21:55]  Loaded 4 plugins.
+
+[12:21:55] 
+[12:21:55] Filterscripts
+[12:21:55] ---------------
+[12:21:55]   Loaded 0 filterscripts.
+
+[12:21:55]  
+[12:21:55]  ======================================= 
+[12:21:55]  |                                     | 
+[12:21:55]  |        YSI version 1.04.0000        | 
+[12:21:55]  |        By Alex "Y_Less" Cole        | 
+[12:21:55]  |                                     | 
+[12:21:55]  ======================================= 
+[12:21:55]  
+[12:21:55]  =======================================
+[12:21:55]  |                                     |
+[12:21:55]  |           Banco de Dados            |
+[12:21:55]  |        Conectado com sucesso        |
+[12:21:55]  |                                     |
+[12:21:55]  =======================================
+[12:21:55] Number of vehicle models: 17
+[12:21:57] [connection] 127.0.0.1:64527 requests connection cookie.
+[12:21:58] [connection] incoming connection: 127.0.0.1:64527 id: 0
+[12:21:58] [join] Henrique has joined the server (0:127.0.0.1)
+[12:22:37] [part] Henrique has left the server (0:0)
+[12:22:51] [connection] 127.0.0.1:57485 requests connection cookie.
+[12:22:52] [connection] incoming connection: 127.0.0.1:57485 id: 0
+[12:22:52] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[12:25:50] filterscripts = ""  (string)
+[12:25:50] 
+[12:25:50] Server Plugins
+[12:25:50] --------------
+[12:25:50]  Loading plugin: mysql
+[12:25:50]  >> plugin.mysql: R41-4 successfully loaded.
+[12:25:50]   Loaded.
+[12:25:50]  Loading plugin: streamer
+[12:25:50] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[12:25:50]   Loaded.
+[12:25:50]  Loading plugin: pawncmd
+[12:25:50] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[12:25:50]   Loaded.
+[12:25:50]  Loading plugin: sscanf
+[12:25:50] 
+
+[12:25:50]  ===============================
+
+[12:25:50]       sscanf plugin loaded.     
+
+[12:25:50]          Version:  2.8.3        
+
+[12:25:50]   (c) 2018 Alex "Y_Less" Cole  
+
+[12:25:50]  ===============================
+
+[12:25:50]   Loaded.
+[12:25:50]  Loaded 4 plugins.
+
+[12:25:50] 
+[12:25:50] Filterscripts
+[12:25:50] ---------------
+[12:25:50]   Loaded 0 filterscripts.
+
+[12:25:50]  
+[12:25:50]  ======================================= 
+[12:25:50]  |                                     | 
+[12:25:50]  |        YSI version 1.04.0000        | 
+[12:25:50]  |        By Alex "Y_Less" Cole        | 
+[12:25:50]  |                                     | 
+[12:25:50]  ======================================= 
+[12:25:50]  
+[12:25:51]  =======================================
+[12:25:51]  |                                     |
+[12:25:51]  |           Banco de Dados            |
+[12:25:51]  |        Conectado com sucesso        |
+[12:25:51]  |                                     |
+[12:25:51]  =======================================
+[12:25:51] Number of vehicle models: 17
+[12:25:53] [connection] 127.0.0.1:55718 requests connection cookie.
+[12:25:54] [connection] incoming connection: 127.0.0.1:55718 id: 0
+[12:25:54] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:20:44] filterscripts = ""  (string)
+[14:20:44] 
+[14:20:44] Server Plugins
+[14:20:44] --------------
+[14:20:44]  Loading plugin: mysql
+[14:20:44]  >> plugin.mysql: R41-4 successfully loaded.
+[14:20:44]   Loaded.
+[14:20:44]  Loading plugin: streamer
+[14:20:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[14:20:44]   Loaded.
+[14:20:44]  Loading plugin: pawncmd
+[14:20:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[14:20:44]   Loaded.
+[14:20:44]  Loading plugin: sscanf
+[14:20:44] 
+
+[14:20:44]  ===============================
+
+[14:20:44]       sscanf plugin loaded.     
+
+[14:20:44]          Version:  2.8.3        
+
+[14:20:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[14:20:44]  ===============================
+
+[14:20:44]   Loaded.
+[14:20:44]  Loaded 4 plugins.
+
+[14:20:44] 
+[14:20:44] Filterscripts
+[14:20:44] ---------------
+[14:20:44]   Loaded 0 filterscripts.
+
+[14:20:44]  
+[14:20:44]  ======================================= 
+[14:20:44]  |                                     | 
+[14:20:44]  |        YSI version 1.04.0000        | 
+[14:20:44]  |        By Alex "Y_Less" Cole        | 
+[14:20:44]  |                                     | 
+[14:20:44]  ======================================= 
+[14:20:44]  
+[14:20:44]  =======================================
+[14:20:44]  |                                     |
+[14:20:44]  |           Banco de Dados            |
+[14:20:44]  |        Conectado com sucesso        |
+[14:20:44]  |                                     |
+[14:20:44]  =======================================
+[14:20:44] Number of vehicle models: 17
+[14:21:07] [connection] 127.0.0.1:63061 requests connection cookie.
+[14:21:08] [connection] incoming connection: 127.0.0.1:63061 id: 0
+[14:21:08] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:08:57] filterscripts = ""  (string)
+[18:08:57] 
+[18:08:57] Server Plugins
+[18:08:57] --------------
+[18:08:57]  Loading plugin: mysql
+[18:08:57]  >> plugin.mysql: R41-4 successfully loaded.
+[18:08:57]   Loaded.
+[18:08:57]  Loading plugin: streamer
+[18:08:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:08:57]   Loaded.
+[18:08:57]  Loading plugin: pawncmd
+[18:08:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:08:57]   Loaded.
+[18:08:57]  Loading plugin: sscanf
+[18:08:57] 
+
+[18:08:57]  ===============================
+
+[18:08:57]       sscanf plugin loaded.     
+
+[18:08:57]          Version:  2.8.3        
+
+[18:08:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:08:57]  ===============================
+
+[18:08:57]   Loaded.
+[18:08:57]  Loaded 4 plugins.
+
+[18:08:57] 
+[18:08:57] Filterscripts
+[18:08:57] ---------------
+[18:08:57]   Loaded 0 filterscripts.
+
+[18:08:57]  
+[18:08:57]  ======================================= 
+[18:08:57]  |                                     | 
+[18:08:57]  |        YSI version 1.04.0000        | 
+[18:08:57]  |        By Alex "Y_Less" Cole        | 
+[18:08:57]  |                                     | 
+[18:08:57]  ======================================= 
+[18:08:57]  
+[18:08:57]  =======================================
+[18:08:57]  |                                     |
+[18:08:57]  |           Banco de Dados            |
+[18:08:57]  |        Conectado com sucesso        |
+[18:08:57]  |                                     |
+[18:08:57]  =======================================
+[18:08:57] Number of vehicle models: 18
+[18:09:20] [connection] 127.0.0.1:53264 requests connection cookie.
+[18:09:21] [connection] incoming connection: 127.0.0.1:53264 id: 0
+[18:09:21] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:43:52] filterscripts = ""  (string)
+[23:43:52] 
+[23:43:52] Server Plugins
+[23:43:52] --------------
+[23:43:52]  Loading plugin: mysql
+[23:43:52]  >> plugin.mysql: R41-4 successfully loaded.
+[23:43:52]   Loaded.
+[23:43:52]  Loading plugin: streamer
+[23:43:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:43:52]   Loaded.
+[23:43:52]  Loading plugin: pawncmd
+[23:43:52] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:43:52]   Loaded.
+[23:43:52]  Loading plugin: sscanf
+[23:43:52] 
+
+[23:43:52]  ===============================
+
+[23:43:52]       sscanf plugin loaded.     
+
+[23:43:52]          Version:  2.8.3        
+
+[23:43:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:43:52]  ===============================
+
+[23:43:52]   Loaded.
+[23:43:52]  Loaded 4 plugins.
+
+[23:43:52] 
+[23:43:52] Filterscripts
+[23:43:52] ---------------
+[23:43:52]   Loaded 0 filterscripts.
+
+[23:43:52]  
+[23:43:52]  ======================================= 
+[23:43:52]  |                                     | 
+[23:43:52]  |        YSI version 1.04.0000        | 
+[23:43:52]  |        By Alex "Y_Less" Cole        | 
+[23:43:52]  |                                     | 
+[23:43:52]  ======================================= 
+[23:43:52]  
+[23:43:52]  =======================================
+[23:43:52]  |                                     |
+[23:43:52]  |           Banco de Dados            |
+[23:43:52]  |        Conectado com sucesso        |
+[23:43:52]  |                                     |
+[23:43:52]  =======================================
+[23:43:52] Number of vehicle models: 18
+[23:44:18] [connection] 127.0.0.1:63435 requests connection cookie.
+[23:44:19] [connection] incoming connection: 127.0.0.1:63435 id: 0
+[23:44:19] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:48:55] filterscripts = ""  (string)
+[23:48:55] 
+[23:48:55] Server Plugins
+[23:48:55] --------------
+[23:48:55]  Loading plugin: mysql
+[23:48:55]  >> plugin.mysql: R41-4 successfully loaded.
+[23:48:55]   Loaded.
+[23:48:55]  Loading plugin: streamer
+[23:48:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:48:55]   Loaded.
+[23:48:55]  Loading plugin: pawncmd
+[23:48:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:48:55]   Loaded.
+[23:48:55]  Loading plugin: sscanf
+[23:48:55] 
+
+[23:48:55]  ===============================
+
+[23:48:55]       sscanf plugin loaded.     
+
+[23:48:55]          Version:  2.8.3        
+
+[23:48:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:48:55]  ===============================
+
+[23:48:55]   Loaded.
+[23:48:55]  Loaded 4 plugins.
+
+[23:48:55] 
+[23:48:55] Filterscripts
+[23:48:55] ---------------
+[23:48:55]   Loaded 0 filterscripts.
+
+[23:48:55]  
+[23:48:55]  ======================================= 
+[23:48:55]  |                                     | 
+[23:48:55]  |        YSI version 1.04.0000        | 
+[23:48:55]  |        By Alex "Y_Less" Cole        | 
+[23:48:55]  |                                     | 
+[23:48:55]  ======================================= 
+[23:48:55]  
+[23:48:55]  =======================================
+[23:48:55]  |                                     |
+[23:48:55]  |           Banco de Dados            |
+[23:48:55]  |        Conectado com sucesso        |
+[23:48:55]  |                                     |
+[23:48:55]  =======================================
+[23:48:55] Number of vehicle models: 18
+[23:48:57] [connection] 127.0.0.1:53880 requests connection cookie.
+[23:48:58] [connection] incoming connection: 127.0.0.1:53880 id: 0
+[23:48:58] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:52:53] filterscripts = ""  (string)
+[23:52:53] 
+[23:52:53] Server Plugins
+[23:52:53] --------------
+[23:52:53]  Loading plugin: mysql
+[23:52:53]  >> plugin.mysql: R41-4 successfully loaded.
+[23:52:53]   Loaded.
+[23:52:53]  Loading plugin: streamer
+[23:52:53] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:52:53]   Loaded.
+[23:52:53]  Loading plugin: pawncmd
+[23:52:53] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:52:53]   Loaded.
+[23:52:53]  Loading plugin: sscanf
+[23:52:53] 
+
+[23:52:53]  ===============================
+
+[23:52:53]       sscanf plugin loaded.     
+
+[23:52:53]          Version:  2.8.3        
+
+[23:52:53]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:52:53]  ===============================
+
+[23:52:53]   Loaded.
+[23:52:53]  Loaded 4 plugins.
+
+[23:52:53] 
+[23:52:53] Filterscripts
+[23:52:53] ---------------
+[23:52:53]   Loaded 0 filterscripts.
+
+[23:52:53]  
+[23:52:53]  ======================================= 
+[23:52:53]  |                                     | 
+[23:52:53]  |        YSI version 1.04.0000        | 
+[23:52:53]  |        By Alex "Y_Less" Cole        | 
+[23:52:53]  |                                     | 
+[23:52:53]  ======================================= 
+[23:52:53]  
+[23:52:53]  =======================================
+[23:52:53]  |                                     |
+[23:52:53]  |           Banco de Dados            |
+[23:52:53]  |        Conectado com sucesso        |
+[23:52:53]  |                                     |
+[23:52:53]  =======================================
+[23:52:53] Number of vehicle models: 18
+[23:52:54] [connection] 127.0.0.1:53981 requests connection cookie.
+[23:52:55] [connection] incoming connection: 127.0.0.1:53981 id: 0
+[23:52:55] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:54:00] filterscripts = ""  (string)
+[23:54:00] 
+[23:54:00] Server Plugins
+[23:54:00] --------------
+[23:54:00]  Loading plugin: mysql
+[23:54:00]  >> plugin.mysql: R41-4 successfully loaded.
+[23:54:00]   Loaded.
+[23:54:00]  Loading plugin: streamer
+[23:54:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:54:00]   Loaded.
+[23:54:00]  Loading plugin: pawncmd
+[23:54:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:54:00]   Loaded.
+[23:54:00]  Loading plugin: sscanf
+[23:54:00] 
+
+[23:54:00]  ===============================
+
+[23:54:00]       sscanf plugin loaded.     
+
+[23:54:00]          Version:  2.8.3        
+
+[23:54:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:54:00]  ===============================
+
+[23:54:00]   Loaded.
+[23:54:00]  Loaded 4 plugins.
+
+[23:54:00] 
+[23:54:00] Filterscripts
+[23:54:00] ---------------
+[23:54:00]   Loaded 0 filterscripts.
+
+[23:54:00]  
+[23:54:00]  ======================================= 
+[23:54:00]  |                                     | 
+[23:54:00]  |        YSI version 1.04.0000        | 
+[23:54:00]  |        By Alex "Y_Less" Cole        | 
+[23:54:00]  |                                     | 
+[23:54:00]  ======================================= 
+[23:54:00]  
+[23:54:00]  =======================================
+[23:54:00]  |                                     |
+[23:54:00]  |           Banco de Dados            |
+[23:54:00]  |        Conectado com sucesso        |
+[23:54:00]  |                                     |
+[23:54:00]  =======================================
+[23:54:00] Number of vehicle models: 18
+[23:54:02] [connection] 127.0.0.1:60494 requests connection cookie.
+[23:54:03] [connection] incoming connection: 127.0.0.1:60494 id: 0
+[23:54:03] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:59] filterscripts = ""  (string)
+[00:09:59] 
+[00:09:59] Server Plugins
+[00:09:59] --------------
+[00:09:59]  Loading plugin: mysql
+[00:09:59]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:59]   Loaded.
+[00:09:59]  Loading plugin: streamer
+[00:09:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:09:59]   Loaded.
+[00:09:59]  Loading plugin: pawncmd
+[00:09:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:09:59]   Loaded.
+[00:09:59]  Loading plugin: sscanf
+[00:09:59] 
+
+[00:09:59]  ===============================
+
+[00:09:59]       sscanf plugin loaded.     
+
+[00:09:59]          Version:  2.8.3        
+
+[00:09:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:09:59]  ===============================
+
+[00:09:59]   Loaded.
+[00:09:59]  Loaded 4 plugins.
+
+[00:10:00] 
+[00:10:00] Filterscripts
+[00:10:00] ---------------
+[00:10:00]   Loaded 0 filterscripts.
+
+[00:10:00]  
+[00:10:00]  ======================================= 
+[00:10:00]  |                                     | 
+[00:10:00]  |        YSI version 1.04.0000        | 
+[00:10:00]  |        By Alex "Y_Less" Cole        | 
+[00:10:00]  |                                     | 
+[00:10:00]  ======================================= 
+[00:10:00]  
+[00:10:00]  =======================================
+[00:10:00]  |                                     |
+[00:10:00]  |           Banco de Dados            |
+[00:10:00]  |        Conectado com sucesso        |
+[00:10:00]  |                                     |
+[00:10:00]  =======================================
+[00:10:00] Number of vehicle models: 18
+[00:10:02] [connection] 127.0.0.1:59604 requests connection cookie.
+[00:10:03] [connection] incoming connection: 127.0.0.1:59604 id: 0
+[00:10:03] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:15:06] filterscripts = ""  (string)
+[00:15:06] 
+[00:15:06] Server Plugins
+[00:15:06] --------------
+[00:15:06]  Loading plugin: mysql
+[00:15:06]  >> plugin.mysql: R41-4 successfully loaded.
+[00:15:06]   Loaded.
+[00:15:06]  Loading plugin: streamer
+[00:15:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:15:06]   Loaded.
+[00:15:06]  Loading plugin: pawncmd
+[00:15:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:15:06]   Loaded.
+[00:15:06]  Loading plugin: sscanf
+[00:15:06] 
+
+[00:15:06]  ===============================
+
+[00:15:06]       sscanf plugin loaded.     
+
+[00:15:06]          Version:  2.8.3        
+
+[00:15:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:15:06]  ===============================
+
+[00:15:06]   Loaded.
+[00:15:06]  Loaded 4 plugins.
+
+[00:15:06] 
+[00:15:06] Filterscripts
+[00:15:06] ---------------
+[00:15:06]   Loaded 0 filterscripts.
+
+[00:15:06]  
+[00:15:06]  ======================================= 
+[00:15:06]  |                                     | 
+[00:15:06]  |        YSI version 1.04.0000        | 
+[00:15:06]  |        By Alex "Y_Less" Cole        | 
+[00:15:06]  |                                     | 
+[00:15:06]  ======================================= 
+[00:15:06]  
+[00:15:06]  =======================================
+[00:15:06]  |                                     |
+[00:15:06]  |           Banco de Dados            |
+[00:15:06]  |        Conectado com sucesso        |
+[00:15:06]  |                                     |
+[00:15:06]  =======================================
+[00:15:06] Number of vehicle models: 18
+[00:15:07] [connection] 127.0.0.1:50850 requests connection cookie.
+[00:15:08] [connection] incoming connection: 127.0.0.1:50850 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:19:39] filterscripts = ""  (string)
+[00:19:39] 
+[00:19:39] Server Plugins
+[00:19:39] --------------
+[00:19:39]  Loading plugin: mysql
+[00:19:39]  >> plugin.mysql: R41-4 successfully loaded.
+[00:19:39]   Loaded.
+[00:19:39]  Loading plugin: streamer
+[00:19:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:19:39]   Loaded.
+[00:19:39]  Loading plugin: pawncmd
+[00:19:39] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:19:39]   Loaded.
+[00:19:39]  Loading plugin: sscanf
+[00:19:39] 
+
+[00:19:39]  ===============================
+
+[00:19:39]       sscanf plugin loaded.     
+
+[00:19:39]          Version:  2.8.3        
+
+[00:19:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:19:39]  ===============================
+
+[00:19:39]   Loaded.
+[00:19:39]  Loaded 4 plugins.
+
+[00:19:40] 
+[00:19:40] Filterscripts
+[00:19:40] ---------------
+[00:19:40]   Loaded 0 filterscripts.
+
+[00:19:40]  
+[00:19:40]  ======================================= 
+[00:19:40]  |                                     | 
+[00:19:40]  |        YSI version 1.04.0000        | 
+[00:19:40]  |        By Alex "Y_Less" Cole        | 
+[00:19:40]  |                                     | 
+[00:19:40]  ======================================= 
+[00:19:40]  
+[00:19:40]  =======================================
+[00:19:40]  |                                     |
+[00:19:40]  |           Banco de Dados            |
+[00:19:40]  |        Conectado com sucesso        |
+[00:19:40]  |                                     |
+[00:19:40]  =======================================
+[00:19:40] Number of vehicle models: 18
+[00:19:47] [connection] 127.0.0.1:62946 requests connection cookie.
+[00:19:48] [connection] incoming connection: 127.0.0.1:62946 id: 0
+[00:19:48] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:22:55] filterscripts = ""  (string)
+[00:22:55] 
+[00:22:55] Server Plugins
+[00:22:55] --------------
+[00:22:55]  Loading plugin: mysql
+[00:22:55]  >> plugin.mysql: R41-4 successfully loaded.
+[00:22:55]   Loaded.
+[00:22:55]  Loading plugin: streamer
+[00:22:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:22:55]   Loaded.
+[00:22:55]  Loading plugin: pawncmd
+[00:22:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:22:55]   Loaded.
+[00:22:55]  Loading plugin: sscanf
+[00:22:55] 
+
+[00:22:55]  ===============================
+
+[00:22:55]       sscanf plugin loaded.     
+
+[00:22:55]          Version:  2.8.3        
+
+[00:22:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:22:55]  ===============================
+
+[00:22:55]   Loaded.
+[00:22:55]  Loaded 4 plugins.
+
+[00:22:55] 
+[00:22:55] Filterscripts
+[00:22:55] ---------------
+[00:22:55]   Loaded 0 filterscripts.
+
+[00:22:55]  
+[00:22:55]  ======================================= 
+[00:22:55]  |                                     | 
+[00:22:55]  |        YSI version 1.04.0000        | 
+[00:22:55]  |        By Alex "Y_Less" Cole        | 
+[00:22:55]  |                                     | 
+[00:22:55]  ======================================= 
+[00:22:55]  
+[00:22:55]  =======================================
+[00:22:55]  |                                     |
+[00:22:55]  |           Banco de Dados            |
+[00:22:55]  |        Conectado com sucesso        |
+[00:22:55]  |                                     |
+[00:22:55]  =======================================
+[00:22:55] Number of vehicle models: 18
+[00:22:57] [connection] 127.0.0.1:59435 requests connection cookie.
+[00:22:58] [connection] incoming connection: 127.0.0.1:59435 id: 0
+[00:22:58] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:29:02] filterscripts = ""  (string)
+[15:29:02] 
+[15:29:02] Server Plugins
+[15:29:02] --------------
+[15:29:02]  Loading plugin: mysql
+[15:29:02]  >> plugin.mysql: R41-4 successfully loaded.
+[15:29:02]   Loaded.
+[15:29:02]  Loading plugin: streamer
+[15:29:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:29:02]   Loaded.
+[15:29:02]  Loading plugin: pawncmd
+[15:29:02] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:29:02]   Loaded.
+[15:29:02]  Loading plugin: sscanf
+[15:29:02] 
+
+[15:29:02]  ===============================
+
+[15:29:02]       sscanf plugin loaded.     
+
+[15:29:02]          Version:  2.8.3        
+
+[15:29:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:29:02]  ===============================
+
+[15:29:02]   Loaded.
+[15:29:02]  Loaded 4 plugins.
+
+[15:29:02] 
+[15:29:02] Filterscripts
+[15:29:02] ---------------
+[15:29:02]   Loaded 0 filterscripts.
+
+[15:29:02]  
+[15:29:02]  ======================================= 
+[15:29:02]  |                                     | 
+[15:29:02]  |        YSI version 1.04.0000        | 
+[15:29:02]  |        By Alex "Y_Less" Cole        | 
+[15:29:02]  |                                     | 
+[15:29:02]  ======================================= 
+[15:29:02]  
+[15:29:02]  =======================================
+[15:29:02]  |                                     |
+[15:29:02]  |           Banco de Dados            |
+[15:29:02]  |               Falhou                |
+[15:29:02]  |                                     |
+[15:29:02]  =======================================
+[15:29:02] Number of vehicle models: 18
+[15:29:02] --- Server Shutting Down.
+[15:29:02] plugin.mysql: Unloading plugin...
+[15:29:02] plugin.mysql: Plugin unloaded.
+[15:29:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[15:29:02] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[15:29:02] 
+
+[15:29:02]  ===============================
+
+[15:29:02]      sscanf plugin unloaded.    
+
+[15:29:02]  ===============================
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:29:30] filterscripts = ""  (string)
+[15:29:30] 
+[15:29:30] Server Plugins
+[15:29:30] --------------
+[15:29:30]  Loading plugin: mysql
+[15:29:30]  >> plugin.mysql: R41-4 successfully loaded.
+[15:29:30]   Loaded.
+[15:29:30]  Loading plugin: streamer
+[15:29:30] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:29:30]   Loaded.
+[15:29:30]  Loading plugin: pawncmd
+[15:29:30] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:29:30]   Loaded.
+[15:29:30]  Loading plugin: sscanf
+[15:29:30] 
+
+[15:29:30]  ===============================
+
+[15:29:30]       sscanf plugin loaded.     
+
+[15:29:30]          Version:  2.8.3        
+
+[15:29:30]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:29:30]  ===============================
+
+[15:29:30]   Loaded.
+[15:29:30]  Loaded 4 plugins.
+
+[15:29:30] 
+[15:29:30] Filterscripts
+[15:29:30] ---------------
+[15:29:30]   Loaded 0 filterscripts.
+
+[15:29:30]  
+[15:29:30]  ======================================= 
+[15:29:30]  |                                     | 
+[15:29:30]  |        YSI version 1.04.0000        | 
+[15:29:30]  |        By Alex "Y_Less" Cole        | 
+[15:29:30]  |                                     | 
+[15:29:30]  ======================================= 
+[15:29:30]  
+[15:29:30]  =======================================
+[15:29:30]  |                                     |
+[15:29:30]  |           Banco de Dados            |
+[15:29:30]  |        Conectado com sucesso        |
+[15:29:30]  |                                     |
+[15:29:30]  =======================================
+[15:29:31] Number of vehicle models: 18
+[15:30:04] [connection] 127.0.0.1:50956 requests connection cookie.
+[15:30:05] [connection] incoming connection: 127.0.0.1:50956 id: 0
+[15:30:05] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:32:11] filterscripts = ""  (string)
+[15:32:11] 
+[15:32:11] Server Plugins
+[15:32:11] --------------
+[15:32:11]  Loading plugin: mysql
+[15:32:11]  >> plugin.mysql: R41-4 successfully loaded.
+[15:32:11]   Loaded.
+[15:32:11]  Loading plugin: streamer
+[15:32:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:32:11]   Loaded.
+[15:32:11]  Loading plugin: pawncmd
+[15:32:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:32:11]   Loaded.
+[15:32:11]  Loading plugin: sscanf
+[15:32:11] 
+
+[15:32:11]  ===============================
+
+[15:32:11]       sscanf plugin loaded.     
+
+[15:32:11]          Version:  2.8.3        
+
+[15:32:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:32:11]  ===============================
+
+[15:32:11]   Loaded.
+[15:32:11]  Loaded 4 plugins.
+
+[15:32:11] 
+[15:32:11] Filterscripts
+[15:32:11] ---------------
+[15:32:11]   Loaded 0 filterscripts.
+
+[15:32:11]  
+[15:32:11]  ======================================= 
+[15:32:11]  |                                     | 
+[15:32:11]  |        YSI version 1.04.0000        | 
+[15:32:11]  |        By Alex "Y_Less" Cole        | 
+[15:32:11]  |                                     | 
+[15:32:11]  ======================================= 
+[15:32:11]  
+[15:32:11]  =======================================
+[15:32:11]  |                                     |
+[15:32:11]  |           Banco de Dados            |
+[15:32:11]  |        Conectado com sucesso        |
+[15:32:11]  |                                     |
+[15:32:11]  =======================================
+[15:32:11] Number of vehicle models: 18
+[15:32:13] [connection] 127.0.0.1:52164 requests connection cookie.
+[15:32:14] [connection] incoming connection: 127.0.0.1:52164 id: 0
+[15:32:14] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:36:21] filterscripts = ""  (string)
+[15:36:21] 
+[15:36:21] Server Plugins
+[15:36:21] --------------
+[15:36:21]  Loading plugin: mysql
+[15:36:21]  >> plugin.mysql: R41-4 successfully loaded.
+[15:36:21]   Loaded.
+[15:36:21]  Loading plugin: streamer
+[15:36:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:36:21]   Loaded.
+[15:36:21]  Loading plugin: pawncmd
+[15:36:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:36:21]   Loaded.
+[15:36:21]  Loading plugin: sscanf
+[15:36:21] 
+
+[15:36:21]  ===============================
+
+[15:36:21]       sscanf plugin loaded.     
+
+[15:36:21]          Version:  2.8.3        
+
+[15:36:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:36:21]  ===============================
+
+[15:36:21]   Loaded.
+[15:36:21]  Loaded 4 plugins.
+
+[15:36:21] 
+[15:36:21] Filterscripts
+[15:36:21] ---------------
+[15:36:21]   Loaded 0 filterscripts.
+
+[15:36:21]  
+[15:36:21]  ======================================= 
+[15:36:21]  |                                     | 
+[15:36:21]  |        YSI version 1.04.0000        | 
+[15:36:21]  |        By Alex "Y_Less" Cole        | 
+[15:36:21]  |                                     | 
+[15:36:21]  ======================================= 
+[15:36:21]  
+[15:36:21]  =======================================
+[15:36:21]  |                                     |
+[15:36:21]  |           Banco de Dados            |
+[15:36:21]  |        Conectado com sucesso        |
+[15:36:21]  |                                     |
+[15:36:21]  =======================================
+[15:36:21] Number of vehicle models: 18
+[15:36:22] [connection] 127.0.0.1:62946 requests connection cookie.
+[15:36:23] [connection] incoming connection: 127.0.0.1:62946 id: 0
+[15:36:24] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:37:02] filterscripts = ""  (string)
+[15:37:02] 
+[15:37:02] Server Plugins
+[15:37:02] --------------
+[15:37:02]  Loading plugin: mysql
+[15:37:02]  >> plugin.mysql: R41-4 successfully loaded.
+[15:37:02]   Loaded.
+[15:37:02]  Loading plugin: streamer
+[15:37:02] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:37:02]   Loaded.
+[15:37:02]  Loading plugin: pawncmd
+[15:37:02] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:37:02]   Loaded.
+[15:37:02]  Loading plugin: sscanf
+[15:37:02] 
+
+[15:37:02]  ===============================
+
+[15:37:02]       sscanf plugin loaded.     
+
+[15:37:02]          Version:  2.8.3        
+
+[15:37:02]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:37:02]  ===============================
+
+[15:37:02]   Loaded.
+[15:37:02]  Loaded 4 plugins.
+
+[15:37:03] 
+[15:37:03] Filterscripts
+[15:37:03] ---------------
+[15:37:03]   Loaded 0 filterscripts.
+
+[15:37:03]  
+[15:37:03]  ======================================= 
+[15:37:03]  |                                     | 
+[15:37:03]  |        YSI version 1.04.0000        | 
+[15:37:03]  |        By Alex "Y_Less" Cole        | 
+[15:37:03]  |                                     | 
+[15:37:03]  ======================================= 
+[15:37:03]  
+[15:37:03]  =======================================
+[15:37:03]  |                                     |
+[15:37:03]  |           Banco de Dados            |
+[15:37:03]  |        Conectado com sucesso        |
+[15:37:03]  |                                     |
+[15:37:03]  =======================================
+[15:37:03] Number of vehicle models: 18
+[15:37:04] [connection] 127.0.0.1:53042 requests connection cookie.
+[15:37:05] [connection] incoming connection: 127.0.0.1:53042 id: 0
+[15:37:05] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:48:34] filterscripts = ""  (string)
+[15:48:34] 
+[15:48:34] Server Plugins
+[15:48:34] --------------
+[15:48:34]  Loading plugin: mysql
+[15:48:34]  >> plugin.mysql: R41-4 successfully loaded.
+[15:48:34]   Loaded.
+[15:48:34]  Loading plugin: streamer
+[15:48:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:48:34]   Loaded.
+[15:48:34]  Loading plugin: pawncmd
+[15:48:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:48:34]   Loaded.
+[15:48:34]  Loading plugin: sscanf
+[15:48:34] 
+
+[15:48:34]  ===============================
+
+[15:48:34]       sscanf plugin loaded.     
+
+[15:48:34]          Version:  2.8.3        
+
+[15:48:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:48:34]  ===============================
+
+[15:48:34]   Loaded.
+[15:48:34]  Loaded 4 plugins.
+
+[15:48:34] 
+[15:48:34] Filterscripts
+[15:48:34] ---------------
+[15:48:34]   Loaded 0 filterscripts.
+
+[15:48:34]  
+[15:48:34]  ======================================= 
+[15:48:34]  |                                     | 
+[15:48:34]  |        YSI version 1.04.0000        | 
+[15:48:34]  |        By Alex "Y_Less" Cole        | 
+[15:48:34]  |                                     | 
+[15:48:34]  ======================================= 
+[15:48:34]  
+[15:48:34]  =======================================
+[15:48:34]  |                                     |
+[15:48:34]  |           Banco de Dados            |
+[15:48:34]  |        Conectado com sucesso        |
+[15:48:34]  |                                     |
+[15:48:34]  =======================================
+[15:48:34] Number of vehicle models: 18
+[15:48:36] [connection] 127.0.0.1:57636 requests connection cookie.
+[15:48:37] [connection] incoming connection: 127.0.0.1:57636 id: 0
+[15:48:37] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:52:13] filterscripts = ""  (string)
+[15:52:13] 
+[15:52:13] Server Plugins
+[15:52:13] --------------
+[15:52:13]  Loading plugin: mysql
+[15:52:13]  >> plugin.mysql: R41-4 successfully loaded.
+[15:52:13]   Loaded.
+[15:52:13]  Loading plugin: streamer
+[15:52:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:52:13]   Loaded.
+[15:52:13]  Loading plugin: pawncmd
+[15:52:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:52:13]   Loaded.
+[15:52:13]  Loading plugin: sscanf
+[15:52:13] 
+
+[15:52:13]  ===============================
+
+[15:52:13]       sscanf plugin loaded.     
+
+[15:52:13]          Version:  2.8.3        
+
+[15:52:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:52:13]  ===============================
+
+[15:52:13]   Loaded.
+[15:52:13]  Loaded 4 plugins.
+
+[15:52:14] 
+[15:52:14] Filterscripts
+[15:52:14] ---------------
+[15:52:14]   Loaded 0 filterscripts.
+
+[15:52:14]  
+[15:52:14]  ======================================= 
+[15:52:14]  |                                     | 
+[15:52:14]  |        YSI version 1.04.0000        | 
+[15:52:14]  |        By Alex "Y_Less" Cole        | 
+[15:52:14]  |                                     | 
+[15:52:14]  ======================================= 
+[15:52:14]  
+[15:52:14]  =======================================
+[15:52:14]  |                                     |
+[15:52:14]  |           Banco de Dados            |
+[15:52:14]  |        Conectado com sucesso        |
+[15:52:14]  |                                     |
+[15:52:14]  =======================================
+[15:52:14] Number of vehicle models: 18
+[15:52:15] [connection] 127.0.0.1:53376 requests connection cookie.
+[15:52:16] [connection] incoming connection: 127.0.0.1:53376 id: 0
+[15:52:16] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:27] filterscripts = ""  (string)
+[15:53:27] 
+[15:53:27] Server Plugins
+[15:53:27] --------------
+[15:53:27]  Loading plugin: mysql
+[15:53:27]  >> plugin.mysql: R41-4 successfully loaded.
+[15:53:27]   Loaded.
+[15:53:27]  Loading plugin: streamer
+[15:53:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[15:53:27]   Loaded.
+[15:53:27]  Loading plugin: pawncmd
+[15:53:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[15:53:27]   Loaded.
+[15:53:27]  Loading plugin: sscanf
+[15:53:27] 
+
+[15:53:27]  ===============================
+
+[15:53:27]       sscanf plugin loaded.     
+
+[15:53:27]          Version:  2.8.3        
+
+[15:53:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[15:53:27]  ===============================
+
+[15:53:27]   Loaded.
+[15:53:27]  Loaded 4 plugins.
+
+[15:53:28] 
+[15:53:28] Filterscripts
+[15:53:28] ---------------
+[15:53:28]   Loaded 0 filterscripts.
+
+[15:53:28]  
+[15:53:28]  ======================================= 
+[15:53:28]  |                                     | 
+[15:53:28]  |        YSI version 1.04.0000        | 
+[15:53:28]  |        By Alex "Y_Less" Cole        | 
+[15:53:28]  |                                     | 
+[15:53:28]  ======================================= 
+[15:53:28]  
+[15:53:28]  =======================================
+[15:53:28]  |                                     |
+[15:53:28]  |           Banco de Dados            |
+[15:53:28]  |        Conectado com sucesso        |
+[15:53:28]  |                                     |
+[15:53:28]  =======================================
+[15:53:28] Number of vehicle models: 18
+[15:53:29] [connection] 127.0.0.1:53387 requests connection cookie.
+[15:53:30] [connection] incoming connection: 127.0.0.1:53387 id: 0
+[15:53:30] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:24:35] filterscripts = ""  (string)
+[18:24:35] 
+[18:24:35] Server Plugins
+[18:24:35] --------------
+[18:24:35]  Loading plugin: mysql
+[18:24:35]  >> plugin.mysql: R41-4 successfully loaded.
+[18:24:35]   Loaded.
+[18:24:35]  Loading plugin: streamer
+[18:24:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:24:35]   Loaded.
+[18:24:35]  Loading plugin: pawncmd
+[18:24:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:24:35]   Loaded.
+[18:24:35]  Loading plugin: sscanf
+[18:24:35] 
+
+[18:24:35]  ===============================
+
+[18:24:35]       sscanf plugin loaded.     
+
+[18:24:35]          Version:  2.8.3        
+
+[18:24:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:24:35]  ===============================
+
+[18:24:35]   Loaded.
+[18:24:35]  Loaded 4 plugins.
+
+[18:24:35] 
+[18:24:35] Filterscripts
+[18:24:35] ---------------
+[18:24:35]   Loaded 0 filterscripts.
+
+[18:24:35]  
+[18:24:35]  ======================================= 
+[18:24:35]  |                                     | 
+[18:24:35]  |        YSI version 1.04.0000        | 
+[18:24:35]  |        By Alex "Y_Less" Cole        | 
+[18:24:35]  |                                     | 
+[18:24:35]  ======================================= 
+[18:24:35]  
+[18:24:35]  =======================================
+[18:24:35]  |                                     |
+[18:24:35]  |           Banco de Dados            |
+[18:24:35]  |        Conectado com sucesso        |
+[18:24:35]  |                                     |
+[18:24:35]  =======================================
+[18:24:35] Number of vehicle models: 18
+[18:25:11] [connection] 127.0.0.1:59744 requests connection cookie.
+[18:25:12] [connection] incoming connection: 127.0.0.1:59744 id: 0
+[18:25:12] [join] hcc has joined the server (0:127.0.0.1)
+[18:33:51] [part] Henrique has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:14] filterscripts = ""  (string)
+[19:33:14] 
+[19:33:14] Server Plugins
+[19:33:14] --------------
+[19:33:14]  Loading plugin: mysql
+[19:33:14]  >> plugin.mysql: R41-4 successfully loaded.
+[19:33:14]   Loaded.
+[19:33:14]  Loading plugin: streamer
+[19:33:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:33:14]   Loaded.
+[19:33:14]  Loading plugin: pawncmd
+[19:33:14] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:33:14]   Loaded.
+[19:33:14]  Loading plugin: sscanf
+[19:33:14] 
+
+[19:33:14]  ===============================
+
+[19:33:14]       sscanf plugin loaded.     
+
+[19:33:14]          Version:  2.8.3        
+
+[19:33:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:33:14]  ===============================
+
+[19:33:14]   Loaded.
+[19:33:14]  Loaded 4 plugins.
+
+[19:33:14] 
+[19:33:14] Filterscripts
+[19:33:14] ---------------
+[19:33:14]   Loaded 0 filterscripts.
+
+[19:33:14]  
+[19:33:14]  ======================================= 
+[19:33:14]  |                                     | 
+[19:33:14]  |        YSI version 1.04.0000        | 
+[19:33:14]  |        By Alex "Y_Less" Cole        | 
+[19:33:14]  |                                     | 
+[19:33:14]  ======================================= 
+[19:33:14]  
+[19:33:14]  =======================================
+[19:33:14]  |                                     |
+[19:33:14]  |           Banco de Dados            |
+[19:33:14]  |        Conectado com sucesso        |
+[19:33:14]  |                                     |
+[19:33:14]  =======================================
+[19:33:14] Number of vehicle models: 18
+[19:33:48] [connection] 127.0.0.1:60175 requests connection cookie.
+[19:33:49] [connection] incoming connection: 127.0.0.1:60175 id: 0
+[19:33:49] [join] hcc has joined the server (0:127.0.0.1)
+[19:34:13] [part] Henrique has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:35:48] filterscripts = ""  (string)
+[19:35:48] 
+[19:35:48] Server Plugins
+[19:35:48] --------------
+[19:35:48]  Loading plugin: mysql
+[19:35:48]  >> plugin.mysql: R41-4 successfully loaded.
+[19:35:48]   Loaded.
+[19:35:48]  Loading plugin: streamer
+[19:35:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:35:48]   Loaded.
+[19:35:48]  Loading plugin: pawncmd
+[19:35:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:35:48]   Loaded.
+[19:35:48]  Loading plugin: sscanf
+[19:35:48] 
+
+[19:35:48]  ===============================
+
+[19:35:48]       sscanf plugin loaded.     
+
+[19:35:48]          Version:  2.8.3        
+
+[19:35:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:35:48]  ===============================
+
+[19:35:48]   Loaded.
+[19:35:48]  Loaded 4 plugins.
+
+[19:35:48] 
+[19:35:48] Filterscripts
+[19:35:48] ---------------
+[19:35:48]   Loaded 0 filterscripts.
+
+[19:35:48]  
+[19:35:48]  ======================================= 
+[19:35:48]  |                                     | 
+[19:35:48]  |        YSI version 1.04.0000        | 
+[19:35:48]  |        By Alex "Y_Less" Cole        | 
+[19:35:48]  |                                     | 
+[19:35:48]  ======================================= 
+[19:35:48]  
+[19:35:48]  =======================================
+[19:35:48]  |                                     |
+[19:35:48]  |           Banco de Dados            |
+[19:35:48]  |        Conectado com sucesso        |
+[19:35:48]  |                                     |
+[19:35:48]  =======================================
+[19:35:48] Number of vehicle models: 18
+[19:36:10] [connection] 127.0.0.1:50781 requests connection cookie.
+[19:36:11] [connection] incoming connection: 127.0.0.1:50781 id: 0
+[19:36:11] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:38:00] filterscripts = ""  (string)
+[19:38:00] 
+[19:38:00] Server Plugins
+[19:38:00] --------------
+[19:38:00]  Loading plugin: mysql
+[19:38:00]  >> plugin.mysql: R41-4 successfully loaded.
+[19:38:00]   Loaded.
+[19:38:00]  Loading plugin: streamer
+[19:38:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:38:00]   Loaded.
+[19:38:00]  Loading plugin: pawncmd
+[19:38:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:38:00]   Loaded.
+[19:38:00]  Loading plugin: sscanf
+[19:38:00] 
+
+[19:38:00]  ===============================
+
+[19:38:00]       sscanf plugin loaded.     
+
+[19:38:00]          Version:  2.8.3        
+
+[19:38:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:38:00]  ===============================
+
+[19:38:00]   Loaded.
+[19:38:00]  Loaded 4 plugins.
+
+[19:38:01] 
+[19:38:01] Filterscripts
+[19:38:01] ---------------
+[19:38:01]   Loaded 0 filterscripts.
+
+[19:38:01]  
+[19:38:01]  ======================================= 
+[19:38:01]  |                                     | 
+[19:38:01]  |        YSI version 1.04.0000        | 
+[19:38:01]  |        By Alex "Y_Less" Cole        | 
+[19:38:01]  |                                     | 
+[19:38:01]  ======================================= 
+[19:38:01]  
+[19:38:01]  =======================================
+[19:38:01]  |                                     |
+[19:38:01]  |           Banco de Dados            |
+[19:38:01]  |        Conectado com sucesso        |
+[19:38:01]  |                                     |
+[19:38:01]  =======================================
+[19:38:01] Number of vehicle models: 18
+[19:38:02] [connection] 127.0.0.1:61457 requests connection cookie.
+[19:38:03] [connection] incoming connection: 127.0.0.1:61457 id: 0
+[19:38:03] [join] Henrique has joined the server (0:127.0.0.1)
+[19:38:14] [part] Henrique has left the server (0:1)
+[19:38:38] [connection] 127.0.0.1:51247 requests connection cookie.
+[19:38:39] [connection] incoming connection: 127.0.0.1:51247 id: 0
+[19:38:39] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:39:52] filterscripts = ""  (string)
+[19:39:52] 
+[19:39:52] Server Plugins
+[19:39:52] --------------
+[19:39:52]  Loading plugin: mysql
+[19:39:52]  >> plugin.mysql: R41-4 successfully loaded.
+[19:39:52]   Loaded.
+[19:39:52]  Loading plugin: streamer
+[19:39:52] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:39:52]   Loaded.
+[19:39:52]  Loading plugin: pawncmd
+[19:39:52] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:39:52]   Loaded.
+[19:39:52]  Loading plugin: sscanf
+[19:39:52] 
+
+[19:39:52]  ===============================
+
+[19:39:52]       sscanf plugin loaded.     
+
+[19:39:52]          Version:  2.8.3        
+
+[19:39:52]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:39:52]  ===============================
+
+[19:39:52]   Loaded.
+[19:39:52]  Loaded 4 plugins.
+
+[19:39:52] 
+[19:39:52] Filterscripts
+[19:39:52] ---------------
+[19:39:52]   Loaded 0 filterscripts.
+
+[19:39:52]  
+[19:39:52]  ======================================= 
+[19:39:52]  |                                     | 
+[19:39:52]  |        YSI version 1.04.0000        | 
+[19:39:52]  |        By Alex "Y_Less" Cole        | 
+[19:39:52]  |                                     | 
+[19:39:52]  ======================================= 
+[19:39:52]  
+[19:39:52]  =======================================
+[19:39:52]  |                                     |
+[19:39:52]  |           Banco de Dados            |
+[19:39:52]  |        Conectado com sucesso        |
+[19:39:52]  |                                     |
+[19:39:52]  =======================================
+[19:39:52] Number of vehicle models: 18
+[19:39:57] [connection] 127.0.0.1:53195 requests connection cookie.
+[19:39:58] [connection] incoming connection: 127.0.0.1:53195 id: 0
+[19:39:58] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:42:37] filterscripts = ""  (string)
+[19:42:37] 
+[19:42:37] Server Plugins
+[19:42:37] --------------
+[19:42:37]  Loading plugin: mysql
+[19:42:37]  >> plugin.mysql: R41-4 successfully loaded.
+[19:42:37]   Loaded.
+[19:42:37]  Loading plugin: streamer
+[19:42:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:42:37]   Loaded.
+[19:42:37]  Loading plugin: pawncmd
+[19:42:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:42:37]   Loaded.
+[19:42:37]  Loading plugin: sscanf
+[19:42:37] 
+
+[19:42:37]  ===============================
+
+[19:42:37]       sscanf plugin loaded.     
+
+[19:42:37]          Version:  2.8.3        
+
+[19:42:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:42:37]  ===============================
+
+[19:42:37]   Loaded.
+[19:42:37]  Loaded 4 plugins.
+
+[19:42:37] 
+[19:42:37] Filterscripts
+[19:42:37] ---------------
+[19:42:37]   Loaded 0 filterscripts.
+
+[19:42:37]  
+[19:42:37]  ======================================= 
+[19:42:37]  |                                     | 
+[19:42:37]  |        YSI version 1.04.0000        | 
+[19:42:37]  |        By Alex "Y_Less" Cole        | 
+[19:42:37]  |                                     | 
+[19:42:37]  ======================================= 
+[19:42:37]  
+[19:42:37]  =======================================
+[19:42:37]  |                                     |
+[19:42:37]  |           Banco de Dados            |
+[19:42:37]  |        Conectado com sucesso        |
+[19:42:37]  |                                     |
+[19:42:37]  =======================================
+[19:42:37] Number of vehicle models: 18
+[19:42:39] [connection] 127.0.0.1:53223 requests connection cookie.
+[19:42:40] [connection] incoming connection: 127.0.0.1:53223 id: 0
+[19:42:40] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:22] filterscripts = ""  (string)
+[19:43:22] 
+[19:43:22] Server Plugins
+[19:43:22] --------------
+[19:43:22]  Loading plugin: mysql
+[19:43:22]  >> plugin.mysql: R41-4 successfully loaded.
+[19:43:22]   Loaded.
+[19:43:22]  Loading plugin: streamer
+[19:43:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:43:22]   Loaded.
+[19:43:22]  Loading plugin: pawncmd
+[19:43:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:43:22]   Loaded.
+[19:43:22]  Loading plugin: sscanf
+[19:43:22] 
+
+[19:43:22]  ===============================
+
+[19:43:22]       sscanf plugin loaded.     
+
+[19:43:22]          Version:  2.8.3        
+
+[19:43:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:43:22]  ===============================
+
+[19:43:22]   Loaded.
+[19:43:22]  Loaded 4 plugins.
+
+[19:43:22] 
+[19:43:22] Filterscripts
+[19:43:22] ---------------
+[19:43:22]   Loaded 0 filterscripts.
+
+[19:43:22]  
+[19:43:22]  ======================================= 
+[19:43:22]  |                                     | 
+[19:43:22]  |        YSI version 1.04.0000        | 
+[19:43:22]  |        By Alex "Y_Less" Cole        | 
+[19:43:22]  |                                     | 
+[19:43:22]  ======================================= 
+[19:43:22]  
+[19:43:22]  =======================================
+[19:43:22]  |                                     |
+[19:43:22]  |           Banco de Dados            |
+[19:43:22]  |        Conectado com sucesso        |
+[19:43:22]  |                                     |
+[19:43:22]  =======================================
+[19:43:22] Number of vehicle models: 18
+[19:43:24] [connection] 127.0.0.1:58086 requests connection cookie.
+[19:43:25] [connection] incoming connection: 127.0.0.1:58086 id: 0
+[19:43:25] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:45:10] filterscripts = ""  (string)
+[19:45:10] 
+[19:45:10] Server Plugins
+[19:45:10] --------------
+[19:45:10]  Loading plugin: mysql
+[19:45:10]  >> plugin.mysql: R41-4 successfully loaded.
+[19:45:10]   Loaded.
+[19:45:10]  Loading plugin: streamer
+[19:45:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:45:10]   Loaded.
+[19:45:10]  Loading plugin: pawncmd
+[19:45:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:45:10]   Loaded.
+[19:45:10]  Loading plugin: sscanf
+[19:45:10] 
+
+[19:45:10]  ===============================
+
+[19:45:10]       sscanf plugin loaded.     
+
+[19:45:10]          Version:  2.8.3        
+
+[19:45:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:45:10]  ===============================
+
+[19:45:10]   Loaded.
+[19:45:10]  Loaded 4 plugins.
+
+[19:45:10] 
+[19:45:10] Filterscripts
+[19:45:10] ---------------
+[19:45:10]   Loaded 0 filterscripts.
+
+[19:45:10]  
+[19:45:10]  ======================================= 
+[19:45:10]  |                                     | 
+[19:45:10]  |        YSI version 1.04.0000        | 
+[19:45:10]  |        By Alex "Y_Less" Cole        | 
+[19:45:10]  |                                     | 
+[19:45:10]  ======================================= 
+[19:45:10]  
+[19:45:10]  =======================================
+[19:45:10]  |                                     |
+[19:45:10]  |           Banco de Dados            |
+[19:45:10]  |        Conectado com sucesso        |
+[19:45:10]  |                                     |
+[19:45:10]  =======================================
+[19:45:10] Number of vehicle models: 18
+[19:45:18] [connection] 127.0.0.1:61553 requests connection cookie.
+[19:45:19] [connection] incoming connection: 127.0.0.1:61553 id: 0
+[19:45:19] [join] Henrique has joined the server (0:127.0.0.1)
+[19:46:41] [part] Henrique has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:21] filterscripts = ""  (string)
+[19:48:21] 
+[19:48:21] Server Plugins
+[19:48:21] --------------
+[19:48:21]  Loading plugin: mysql
+[19:48:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:48:21]   Loaded.
+[19:48:21]  Loading plugin: streamer
+[19:48:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:48:21]   Loaded.
+[19:48:21]  Loading plugin: pawncmd
+[19:48:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:48:21]   Loaded.
+[19:48:21]  Loading plugin: sscanf
+[19:48:21] 
+
+[19:48:21]  ===============================
+
+[19:48:21]       sscanf plugin loaded.     
+
+[19:48:21]          Version:  2.8.3        
+
+[19:48:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:48:21]  ===============================
+
+[19:48:21]   Loaded.
+[19:48:21]  Loaded 4 plugins.
+
+[19:48:21] 
+[19:48:21] Filterscripts
+[19:48:21] ---------------
+[19:48:21]   Loaded 0 filterscripts.
+
+[19:48:21]  
+[19:48:21]  ======================================= 
+[19:48:21]  |                                     | 
+[19:48:21]  |        YSI version 1.04.0000        | 
+[19:48:21]  |        By Alex "Y_Less" Cole        | 
+[19:48:21]  |                                     | 
+[19:48:21]  ======================================= 
+[19:48:21]  
+[19:48:21]  =======================================
+[19:48:21]  |                                     |
+[19:48:21]  |           Banco de Dados            |
+[19:48:21]  |        Conectado com sucesso        |
+[19:48:21]  |                                     |
+[19:48:21]  =======================================
+[19:48:21] Number of vehicle models: 18
+[19:48:45] [connection] 127.0.0.1:64227 requests connection cookie.
+[19:48:46] [connection] incoming connection: 127.0.0.1:64227 id: 0
+[19:48:46] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:52:28] filterscripts = ""  (string)
+[21:52:28] 
+[21:52:28] Server Plugins
+[21:52:28] --------------
+[21:52:28]  Loading plugin: mysql
+[21:52:28]  >> plugin.mysql: R41-4 successfully loaded.
+[21:52:28]   Loaded.
+[21:52:28]  Loading plugin: streamer
+[21:52:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:52:28]   Loaded.
+[21:52:28]  Loading plugin: pawncmd
+[21:52:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:52:28]   Loaded.
+[21:52:28]  Loading plugin: sscanf
+[21:52:28] 
+
+[21:52:28]  ===============================
+
+[21:52:28]       sscanf plugin loaded.     
+
+[21:52:28]          Version:  2.8.3        
+
+[21:52:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:52:28]  ===============================
+
+[21:52:28]   Loaded.
+[21:52:28]  Loaded 4 plugins.
+
+[21:52:28] 
+[21:52:28] Filterscripts
+[21:52:28] ---------------
+[21:52:28]   Loaded 0 filterscripts.
+
+[21:52:28]  
+[21:52:28]  ======================================= 
+[21:52:28]  |                                     | 
+[21:52:28]  |        YSI version 1.04.0000        | 
+[21:52:28]  |        By Alex "Y_Less" Cole        | 
+[21:52:28]  |                                     | 
+[21:52:28]  ======================================= 
+[21:52:28]  
+[21:52:28]  =======================================
+[21:52:28]  |                                     |
+[21:52:28]  |           Banco de Dados            |
+[21:52:28]  |        Conectado com sucesso        |
+[21:52:28]  |                                     |
+[21:52:28]  =======================================
+[21:52:28] Number of vehicle models: 18
+[21:52:51] [connection] 127.0.0.1:58979 requests connection cookie.
+[21:52:52] [connection] incoming connection: 127.0.0.1:58979 id: 0
+[21:52:52] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:55:57] filterscripts = ""  (string)
+[21:55:57] 
+[21:55:57] Server Plugins
+[21:55:57] --------------
+[21:55:57]  Loading plugin: mysql
+[21:55:57]  >> plugin.mysql: R41-4 successfully loaded.
+[21:55:57]   Loaded.
+[21:55:57]  Loading plugin: streamer
+[21:55:57] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:55:57]   Loaded.
+[21:55:57]  Loading plugin: pawncmd
+[21:55:57] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:55:57]   Loaded.
+[21:55:57]  Loading plugin: sscanf
+[21:55:57] 
+
+[21:55:57]  ===============================
+
+[21:55:57]       sscanf plugin loaded.     
+
+[21:55:57]          Version:  2.8.3        
+
+[21:55:57]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:55:57]  ===============================
+
+[21:55:57]   Loaded.
+[21:55:57]  Loaded 4 plugins.
+
+[21:55:57] 
+[21:55:57] Filterscripts
+[21:55:57] ---------------
+[21:55:57]   Loaded 0 filterscripts.
+
+[21:55:57]  
+[21:55:57]  ======================================= 
+[21:55:57]  |                                     | 
+[21:55:57]  |        YSI version 1.04.0000        | 
+[21:55:57]  |        By Alex "Y_Less" Cole        | 
+[21:55:57]  |                                     | 
+[21:55:57]  ======================================= 
+[21:55:57]  
+[21:55:57]  =======================================
+[21:55:57]  |                                     |
+[21:55:57]  |           Banco de Dados            |
+[21:55:57]  |        Conectado com sucesso        |
+[21:55:57]  |                                     |
+[21:55:57]  =======================================
+[21:55:57] Number of vehicle models: 18
+[21:55:59] [connection] 127.0.0.1:56347 requests connection cookie.
+[21:56:00] [connection] incoming connection: 127.0.0.1:56347 id: 0
+[21:56:00] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:56:37] filterscripts = ""  (string)
+[21:56:37] 
+[21:56:37] Server Plugins
+[21:56:37] --------------
+[21:56:37]  Loading plugin: mysql
+[21:56:37]  >> plugin.mysql: R41-4 successfully loaded.
+[21:56:37]   Loaded.
+[21:56:37]  Loading plugin: streamer
+[21:56:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:56:37]   Loaded.
+[21:56:37]  Loading plugin: pawncmd
+[21:56:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:56:37]   Loaded.
+[21:56:37]  Loading plugin: sscanf
+[21:56:37] 
+
+[21:56:37]  ===============================
+
+[21:56:37]       sscanf plugin loaded.     
+
+[21:56:37]          Version:  2.8.3        
+
+[21:56:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:56:37]  ===============================
+
+[21:56:37]   Loaded.
+[21:56:37]  Loaded 4 plugins.
+
+[21:56:37] 
+[21:56:37] Filterscripts
+[21:56:37] ---------------
+[21:56:37]   Loaded 0 filterscripts.
+
+[21:56:37]  
+[21:56:37]  ======================================= 
+[21:56:37]  |                                     | 
+[21:56:37]  |        YSI version 1.04.0000        | 
+[21:56:37]  |        By Alex "Y_Less" Cole        | 
+[21:56:37]  |                                     | 
+[21:56:37]  ======================================= 
+[21:56:37]  
+[21:56:37]  =======================================
+[21:56:37]  |                                     |
+[21:56:37]  |           Banco de Dados            |
+[21:56:37]  |        Conectado com sucesso        |
+[21:56:37]  |                                     |
+[21:56:37]  =======================================
+[21:56:37] Number of vehicle models: 18
+[21:56:39] [connection] 127.0.0.1:62969 requests connection cookie.
+[21:56:40] [connection] incoming connection: 127.0.0.1:62969 id: 0
+[21:56:40] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:57:16] filterscripts = ""  (string)
+[21:57:16] 
+[21:57:16] Server Plugins
+[21:57:16] --------------
+[21:57:16]  Loading plugin: mysql
+[21:57:16]  >> plugin.mysql: R41-4 successfully loaded.
+[21:57:16]   Loaded.
+[21:57:16]  Loading plugin: streamer
+[21:57:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:57:16]   Loaded.
+[21:57:16]  Loading plugin: pawncmd
+[21:57:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:57:16]   Loaded.
+[21:57:16]  Loading plugin: sscanf
+[21:57:16] 
+
+[21:57:16]  ===============================
+
+[21:57:16]       sscanf plugin loaded.     
+
+[21:57:16]          Version:  2.8.3        
+
+[21:57:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:57:16]  ===============================
+
+[21:57:16]   Loaded.
+[21:57:16]  Loaded 4 plugins.
+
+[21:57:16] 
+[21:57:16] Filterscripts
+[21:57:16] ---------------
+[21:57:16]   Loaded 0 filterscripts.
+
+[21:57:16]  
+[21:57:16]  ======================================= 
+[21:57:16]  |                                     | 
+[21:57:16]  |        YSI version 1.04.0000        | 
+[21:57:16]  |        By Alex "Y_Less" Cole        | 
+[21:57:16]  |                                     | 
+[21:57:16]  ======================================= 
+[21:57:16]  
+[21:57:16]  =======================================
+[21:57:16]  |                                     |
+[21:57:16]  |           Banco de Dados            |
+[21:57:16]  |        Conectado com sucesso        |
+[21:57:16]  |                                     |
+[21:57:16]  =======================================
+[21:57:16] Number of vehicle models: 18
+[21:57:18] [connection] 127.0.0.1:62977 requests connection cookie.
+[21:57:19] [connection] incoming connection: 127.0.0.1:62977 id: 0
+[21:57:19] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:25:19] filterscripts = ""  (string)
+[13:25:19] 
+[13:25:19] Server Plugins
+[13:25:19] --------------
+[13:25:19]  Loading plugin: mysql
+[13:25:19]  >> plugin.mysql: R41-4 successfully loaded.
+[13:25:19]   Loaded.
+[13:25:19]  Loading plugin: streamer
+[13:25:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:25:19]   Loaded.
+[13:25:19]  Loading plugin: pawncmd
+[13:25:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:25:19]   Loaded.
+[13:25:19]  Loading plugin: sscanf
+[13:25:19] 
+
+[13:25:19]  ===============================
+
+[13:25:19]       sscanf plugin loaded.     
+
+[13:25:19]          Version:  2.8.3        
+
+[13:25:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:25:19]  ===============================
+
+[13:25:19]   Loaded.
+[13:25:19]  Loaded 4 plugins.
+
+[13:25:19] 
+[13:25:19] Filterscripts
+[13:25:19] ---------------
+[13:25:19]   Loaded 0 filterscripts.
+
+[13:25:19]  
+[13:25:19]  ======================================= 
+[13:25:19]  |                                     | 
+[13:25:19]  |        YSI version 1.04.0000        | 
+[13:25:19]  |        By Alex "Y_Less" Cole        | 
+[13:25:19]  |                                     | 
+[13:25:19]  ======================================= 
+[13:25:19]  
+[13:25:19]  =======================================
+[13:25:19]  |                                     |
+[13:25:19]  |           Banco de Dados            |
+[13:25:19]  |        Conectado com sucesso        |
+[13:25:19]  |                                     |
+[13:25:19]  =======================================
+[13:25:19] Number of vehicle models: 18
+[13:25:41] [connection] 127.0.0.1:65220 requests connection cookie.
+[13:25:42] [connection] incoming connection: 127.0.0.1:65220 id: 0
+[13:25:42] [join] hcc has joined the server (0:127.0.0.1)
+[13:26:02] [part] Henrique has left the server (0:1)
+[13:26:24] [connection] 127.0.0.1:54582 requests connection cookie.
+[13:26:25] [connection] incoming connection: 127.0.0.1:54582 id: 0
+[13:26:26] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:31:16] filterscripts = ""  (string)
+[13:31:16] 
+[13:31:16] Server Plugins
+[13:31:16] --------------
+[13:31:16]  Loading plugin: mysql
+[13:31:16]  >> plugin.mysql: R41-4 successfully loaded.
+[13:31:16]   Loaded.
+[13:31:16]  Loading plugin: streamer
+[13:31:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:31:16]   Loaded.
+[13:31:16]  Loading plugin: pawncmd
+[13:31:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:31:16]   Loaded.
+[13:31:16]  Loading plugin: sscanf
+[13:31:16] 
+
+[13:31:16]  ===============================
+
+[13:31:16]       sscanf plugin loaded.     
+
+[13:31:16]          Version:  2.8.3        
+
+[13:31:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:31:16]  ===============================
+
+[13:31:16]   Loaded.
+[13:31:16]  Loaded 4 plugins.
+
+[13:31:16] 
+[13:31:16] Filterscripts
+[13:31:16] ---------------
+[13:31:16]   Loaded 0 filterscripts.
+
+[13:31:16]  
+[13:31:16]  ======================================= 
+[13:31:16]  |                                     | 
+[13:31:16]  |        YSI version 1.04.0000        | 
+[13:31:16]  |        By Alex "Y_Less" Cole        | 
+[13:31:16]  |                                     | 
+[13:31:16]  ======================================= 
+[13:31:16]  
+[13:31:16]  =======================================
+[13:31:16]  |                                     |
+[13:31:16]  |           Banco de Dados            |
+[13:31:16]  |        Conectado com sucesso        |
+[13:31:16]  |                                     |
+[13:31:16]  =======================================
+[13:31:16] Number of vehicle models: 18
+[13:31:17] [connection] 127.0.0.1:56416 requests connection cookie.
+[13:31:18] [connection] incoming connection: 127.0.0.1:56416 id: 0
+[13:31:18] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:32:38] filterscripts = ""  (string)
+[13:32:38] 
+[13:32:38] Server Plugins
+[13:32:38] --------------
+[13:32:38]  Loading plugin: mysql
+[13:32:38]  >> plugin.mysql: R41-4 successfully loaded.
+[13:32:38]   Loaded.
+[13:32:38]  Loading plugin: streamer
+[13:32:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:32:38]   Loaded.
+[13:32:38]  Loading plugin: pawncmd
+[13:32:38] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:32:38]   Loaded.
+[13:32:38]  Loading plugin: sscanf
+[13:32:38] 
+
+[13:32:38]  ===============================
+
+[13:32:38]       sscanf plugin loaded.     
+
+[13:32:38]          Version:  2.8.3        
+
+[13:32:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:32:38]  ===============================
+
+[13:32:38]   Loaded.
+[13:32:38]  Loaded 4 plugins.
+
+[13:32:38] 
+[13:32:38] Filterscripts
+[13:32:38] ---------------
+[13:32:38]   Loaded 0 filterscripts.
+
+[13:32:38]  
+[13:32:38]  ======================================= 
+[13:32:38]  |                                     | 
+[13:32:38]  |        YSI version 1.04.0000        | 
+[13:32:38]  |        By Alex "Y_Less" Cole        | 
+[13:32:38]  |                                     | 
+[13:32:38]  ======================================= 
+[13:32:38]  
+[13:32:38]  =======================================
+[13:32:38]  |                                     |
+[13:32:38]  |           Banco de Dados            |
+[13:32:38]  |        Conectado com sucesso        |
+[13:32:38]  |                                     |
+[13:32:38]  =======================================
+[13:32:38] Number of vehicle models: 18
+[13:32:39] [connection] 127.0.0.1:51077 requests connection cookie.
+[13:32:40] [connection] incoming connection: 127.0.0.1:51077 id: 0
+[13:32:40] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:34:39] filterscripts = ""  (string)
+[13:34:39] 
+[13:34:39] Server Plugins
+[13:34:39] --------------
+[13:34:39]  Loading plugin: mysql
+[13:34:39]  >> plugin.mysql: R41-4 successfully loaded.
+[13:34:39]   Loaded.
+[13:34:39]  Loading plugin: streamer
+[13:34:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:34:39]   Loaded.
+[13:34:39]  Loading plugin: pawncmd
+[13:34:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:34:40]   Loaded.
+[13:34:40]  Loading plugin: sscanf
+[13:34:40] 
+
+[13:34:40]  ===============================
+
+[13:34:40]       sscanf plugin loaded.     
+
+[13:34:40]          Version:  2.8.3        
+
+[13:34:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:34:40]  ===============================
+
+[13:34:40]   Loaded.
+[13:34:40]  Loaded 4 plugins.
+
+[13:34:40] 
+[13:34:40] Filterscripts
+[13:34:40] ---------------
+[13:34:40]   Loaded 0 filterscripts.
+
+[13:34:40]  
+[13:34:40]  ======================================= 
+[13:34:40]  |                                     | 
+[13:34:40]  |        YSI version 1.04.0000        | 
+[13:34:40]  |        By Alex "Y_Less" Cole        | 
+[13:34:40]  |                                     | 
+[13:34:40]  ======================================= 
+[13:34:40]  
+[13:34:40]  =======================================
+[13:34:40]  |                                     |
+[13:34:40]  |           Banco de Dados            |
+[13:34:40]  |        Conectado com sucesso        |
+[13:34:40]  |                                     |
+[13:34:40]  =======================================
+[13:34:40] Number of vehicle models: 18
+[13:34:41] [connection] 127.0.0.1:58215 requests connection cookie.
+[13:34:42] [connection] incoming connection: 127.0.0.1:58215 id: 0
+[13:34:42] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:38:29] filterscripts = ""  (string)
+[13:38:29] 
+[13:38:29] Server Plugins
+[13:38:29] --------------
+[13:38:29]  Loading plugin: mysql
+[13:38:29]  >> plugin.mysql: R41-4 successfully loaded.
+[13:38:29]   Loaded.
+[13:38:29]  Loading plugin: streamer
+[13:38:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:38:29]   Loaded.
+[13:38:29]  Loading plugin: pawncmd
+[13:38:29] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:38:29]   Loaded.
+[13:38:29]  Loading plugin: sscanf
+[13:38:29] 
+
+[13:38:29]  ===============================
+
+[13:38:29]       sscanf plugin loaded.     
+
+[13:38:29]          Version:  2.8.3        
+
+[13:38:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:38:29]  ===============================
+
+[13:38:29]   Loaded.
+[13:38:29]  Loaded 4 plugins.
+
+[13:38:29] 
+[13:38:29] Filterscripts
+[13:38:29] ---------------
+[13:38:29]   Loaded 0 filterscripts.
+
+[13:38:29]  
+[13:38:29]  ======================================= 
+[13:38:29]  |                                     | 
+[13:38:29]  |        YSI version 1.04.0000        | 
+[13:38:29]  |        By Alex "Y_Less" Cole        | 
+[13:38:29]  |                                     | 
+[13:38:29]  ======================================= 
+[13:38:29]  
+[13:38:29]  =======================================
+[13:38:29]  |                                     |
+[13:38:29]  |           Banco de Dados            |
+[13:38:29]  |        Conectado com sucesso        |
+[13:38:29]  |                                     |
+[13:38:29]  =======================================
+[13:38:29] Number of vehicle models: 18
+[13:38:30] [connection] 127.0.0.1:51475 requests connection cookie.
+[13:38:31] [connection] incoming connection: 127.0.0.1:51475 id: 0
+[13:38:32] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:39:28] filterscripts = ""  (string)
+[13:39:28] 
+[13:39:28] Server Plugins
+[13:39:28] --------------
+[13:39:28]  Loading plugin: mysql
+[13:39:28]  >> plugin.mysql: R41-4 successfully loaded.
+[13:39:28]   Loaded.
+[13:39:28]  Loading plugin: streamer
+[13:39:28] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:39:28]   Loaded.
+[13:39:28]  Loading plugin: pawncmd
+[13:39:28] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:39:28]   Loaded.
+[13:39:28]  Loading plugin: sscanf
+[13:39:28] 
+
+[13:39:28]  ===============================
+
+[13:39:28]       sscanf plugin loaded.     
+
+[13:39:28]          Version:  2.8.3        
+
+[13:39:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:39:28]  ===============================
+
+[13:39:28]   Loaded.
+[13:39:28]  Loaded 4 plugins.
+
+[13:39:28] 
+[13:39:28] Filterscripts
+[13:39:28] ---------------
+[13:39:28]   Loaded 0 filterscripts.
+
+[13:39:28]  
+[13:39:28]  ======================================= 
+[13:39:28]  |                                     | 
+[13:39:28]  |        YSI version 1.04.0000        | 
+[13:39:28]  |        By Alex "Y_Less" Cole        | 
+[13:39:28]  |                                     | 
+[13:39:28]  ======================================= 
+[13:39:28]  
+[13:39:28]  =======================================
+[13:39:28]  |                                     |
+[13:39:28]  |           Banco de Dados            |
+[13:39:28]  |        Conectado com sucesso        |
+[13:39:28]  |                                     |
+[13:39:28]  =======================================
+[13:39:28] Number of vehicle models: 18
+[13:39:29] [connection] 127.0.0.1:51484 requests connection cookie.
+[13:39:30] [connection] incoming connection: 127.0.0.1:51484 id: 0
+[13:39:30] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:42:34] filterscripts = ""  (string)
+[13:42:34] 
+[13:42:34] Server Plugins
+[13:42:34] --------------
+[13:42:34]  Loading plugin: mysql
+[13:42:34]  >> plugin.mysql: R41-4 successfully loaded.
+[13:42:34]   Loaded.
+[13:42:34]  Loading plugin: streamer
+[13:42:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[13:42:34]   Loaded.
+[13:42:34]  Loading plugin: pawncmd
+[13:42:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[13:42:34]   Loaded.
+[13:42:34]  Loading plugin: sscanf
+[13:42:34] 
+
+[13:42:34]  ===============================
+
+[13:42:34]       sscanf plugin loaded.     
+
+[13:42:34]          Version:  2.8.3        
+
+[13:42:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[13:42:34]  ===============================
+
+[13:42:34]   Loaded.
+[13:42:34]  Loaded 4 plugins.
+
+[13:42:34] 
+[13:42:34] Filterscripts
+[13:42:34] ---------------
+[13:42:34]   Loaded 0 filterscripts.
+
+[13:42:34]  
+[13:42:34]  ======================================= 
+[13:42:34]  |                                     | 
+[13:42:34]  |        YSI version 1.04.0000        | 
+[13:42:34]  |        By Alex "Y_Less" Cole        | 
+[13:42:34]  |                                     | 
+[13:42:34]  ======================================= 
+[13:42:34]  
+[13:42:34]  =======================================
+[13:42:34]  |                                     |
+[13:42:34]  |           Banco de Dados            |
+[13:42:34]  |        Conectado com sucesso        |
+[13:42:34]  |                                     |
+[13:42:34]  =======================================
+[13:42:34] Number of vehicle models: 18
+[13:42:35] [connection] 127.0.0.1:55392 requests connection cookie.
+[13:42:36] [connection] incoming connection: 127.0.0.1:55392 id: 0
+[13:42:46] [connection] incoming connection: 127.0.0.1:55394 id: 0
+[13:42:56] [connection] incoming connection: 127.0.0.1:55395 id: 0
+[13:42:56] [join] Entrando_0 has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:28:29] filterscripts = ""  (string)
+[18:28:29] 
+[18:28:29] Server Plugins
+[18:28:29] --------------
+[18:28:29]  Loading plugin: mysql
+[18:28:29]  >> plugin.mysql: R41-4 successfully loaded.
+[18:28:29]   Loaded.
+[18:28:29]  Loading plugin: streamer
+[18:28:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:28:29]   Loaded.
+[18:28:29]  Loading plugin: pawncmd
+[18:28:29] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:28:29]   Loaded.
+[18:28:29]  Loading plugin: sscanf
+[18:28:29] 
+
+[18:28:29]  ===============================
+
+[18:28:29]       sscanf plugin loaded.     
+
+[18:28:29]          Version:  2.8.3        
+
+[18:28:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:28:29]  ===============================
+
+[18:28:29]   Loaded.
+[18:28:29]  Loaded 4 plugins.
+
+[18:28:29] 
+[18:28:29] Filterscripts
+[18:28:29] ---------------
+[18:28:29]   Loaded 0 filterscripts.
+
+[18:28:29]  
+[18:28:29]  ======================================= 
+[18:28:29]  |                                     | 
+[18:28:29]  |        YSI version 1.04.0000        | 
+[18:28:29]  |        By Alex "Y_Less" Cole        | 
+[18:28:29]  |                                     | 
+[18:28:29]  ======================================= 
+[18:28:29]  
+[18:28:29]  =======================================
+[18:28:29]  |                                     |
+[18:28:29]  |           Banco de Dados            |
+[18:28:29]  |        Conectado com sucesso        |
+[18:28:29]  |                                     |
+[18:28:29]  =======================================
+[18:28:29] Number of vehicle models: 18
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:29:55] filterscripts = ""  (string)
+[18:29:55] 
+[18:29:55] Server Plugins
+[18:29:55] --------------
+[18:29:55]  Loading plugin: mysql
+[18:29:55]  >> plugin.mysql: R41-4 successfully loaded.
+[18:29:55]   Loaded.
+[18:29:55]  Loading plugin: streamer
+[18:29:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:29:55]   Loaded.
+[18:29:55]  Loading plugin: pawncmd
+[18:29:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:29:55]   Loaded.
+[18:29:55]  Loading plugin: sscanf
+[18:29:55] 
+
+[18:29:55]  ===============================
+
+[18:29:55]       sscanf plugin loaded.     
+
+[18:29:55]          Version:  2.8.3        
+
+[18:29:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:29:55]  ===============================
+
+[18:29:55]   Loaded.
+[18:29:55]  Loaded 4 plugins.
+
+[18:29:55] 
+[18:29:55] Filterscripts
+[18:29:55] ---------------
+[18:29:55]   Loaded 0 filterscripts.
+
+[18:29:55]  
+[18:29:55]  ======================================= 
+[18:29:55]  |                                     | 
+[18:29:55]  |        YSI version 1.04.0000        | 
+[18:29:55]  |        By Alex "Y_Less" Cole        | 
+[18:29:55]  |                                     | 
+[18:29:55]  ======================================= 
+[18:29:55]  
+[18:29:55]  =======================================
+[18:29:55]  |                                     |
+[18:29:55]  |           Banco de Dados            |
+[18:29:55]  |        Conectado com sucesso        |
+[18:29:55]  |                                     |
+[18:29:55]  =======================================
+[18:29:55] Number of vehicle models: 18
+[18:30:00] [connection] 127.0.0.1:57146 requests connection cookie.
+[18:30:01] [connection] incoming connection: 127.0.0.1:57146 id: 0
+[18:30:01] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:32:48] filterscripts = ""  (string)
+[18:32:48] 
+[18:32:48] Server Plugins
+[18:32:48] --------------
+[18:32:48]  Loading plugin: mysql
+[18:32:48]  >> plugin.mysql: R41-4 successfully loaded.
+[18:32:48]   Loaded.
+[18:32:48]  Loading plugin: streamer
+[18:32:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:32:48]   Loaded.
+[18:32:48]  Loading plugin: pawncmd
+[18:32:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:32:48]   Loaded.
+[18:32:48]  Loading plugin: sscanf
+[18:32:48] 
+
+[18:32:48]  ===============================
+
+[18:32:48]       sscanf plugin loaded.     
+
+[18:32:48]          Version:  2.8.3        
+
+[18:32:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:32:48]  ===============================
+
+[18:32:48]   Loaded.
+[18:32:48]  Loaded 4 plugins.
+
+[18:32:48] 
+[18:32:48] Filterscripts
+[18:32:48] ---------------
+[18:32:48]   Loaded 0 filterscripts.
+
+[18:32:48]  
+[18:32:48]  ======================================= 
+[18:32:48]  |                                     | 
+[18:32:48]  |        YSI version 1.04.0000        | 
+[18:32:48]  |        By Alex "Y_Less" Cole        | 
+[18:32:48]  |                                     | 
+[18:32:48]  ======================================= 
+[18:32:48]  
+[18:32:48]  =======================================
+[18:32:48]  |                                     |
+[18:32:48]  |           Banco de Dados            |
+[18:32:48]  |        Conectado com sucesso        |
+[18:32:48]  |                                     |
+[18:32:48]  =======================================
+[18:32:48] Number of vehicle models: 18
+[18:32:50] [connection] 127.0.0.1:55581 requests connection cookie.
+[18:32:51] [connection] incoming connection: 127.0.0.1:55581 id: 0
+[18:32:51] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:34:25] filterscripts = ""  (string)
+[18:34:25] 
+[18:34:25] Server Plugins
+[18:34:25] --------------
+[18:34:25]  Loading plugin: mysql
+[18:34:25]  >> plugin.mysql: R41-4 successfully loaded.
+[18:34:25]   Loaded.
+[18:34:25]  Loading plugin: streamer
+[18:34:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:34:25]   Loaded.
+[18:34:25]  Loading plugin: pawncmd
+[18:34:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:34:25]   Loaded.
+[18:34:25]  Loading plugin: sscanf
+[18:34:25] 
+
+[18:34:25]  ===============================
+
+[18:34:25]       sscanf plugin loaded.     
+
+[18:34:25]          Version:  2.8.3        
+
+[18:34:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:34:25]  ===============================
+
+[18:34:25]   Loaded.
+[18:34:25]  Loaded 4 plugins.
+
+[18:34:25] 
+[18:34:25] Filterscripts
+[18:34:25] ---------------
+[18:34:25]   Loaded 0 filterscripts.
+
+[18:34:25]  
+[18:34:25]  ======================================= 
+[18:34:25]  |                                     | 
+[18:34:25]  |        YSI version 1.04.0000        | 
+[18:34:25]  |        By Alex "Y_Less" Cole        | 
+[18:34:25]  |                                     | 
+[18:34:25]  ======================================= 
+[18:34:25]  
+[18:34:26]  =======================================
+[18:34:26]  |                                     |
+[18:34:26]  |           Banco de Dados            |
+[18:34:26]  |        Conectado com sucesso        |
+[18:34:26]  |                                     |
+[18:34:26]  =======================================
+[18:34:26] Number of vehicle models: 18
+[18:34:27] [connection] 127.0.0.1:54530 requests connection cookie.
+[18:34:28] [connection] incoming connection: 127.0.0.1:54530 id: 0
+[18:34:28] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:35:34] filterscripts = ""  (string)
+[18:35:34] 
+[18:35:34] Server Plugins
+[18:35:34] --------------
+[18:35:34]  Loading plugin: mysql
+[18:35:34]  >> plugin.mysql: R41-4 successfully loaded.
+[18:35:34]   Loaded.
+[18:35:34]  Loading plugin: streamer
+[18:35:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:35:34]   Loaded.
+[18:35:34]  Loading plugin: pawncmd
+[18:35:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:35:34]   Loaded.
+[18:35:34]  Loading plugin: sscanf
+[18:35:34] 
+
+[18:35:34]  ===============================
+
+[18:35:34]       sscanf plugin loaded.     
+
+[18:35:34]          Version:  2.8.3        
+
+[18:35:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:35:34]  ===============================
+
+[18:35:34]   Loaded.
+[18:35:34]  Loaded 4 plugins.
+
+[18:35:34] 
+[18:35:34] Filterscripts
+[18:35:34] ---------------
+[18:35:34]   Loaded 0 filterscripts.
+
+[18:35:34]  
+[18:35:34]  ======================================= 
+[18:35:34]  |                                     | 
+[18:35:34]  |        YSI version 1.04.0000        | 
+[18:35:34]  |        By Alex "Y_Less" Cole        | 
+[18:35:34]  |                                     | 
+[18:35:34]  ======================================= 
+[18:35:34]  
+[18:35:34]  =======================================
+[18:35:34]  |                                     |
+[18:35:34]  |           Banco de Dados            |
+[18:35:34]  |        Conectado com sucesso        |
+[18:35:34]  |                                     |
+[18:35:34]  =======================================
+[18:35:34] Number of vehicle models: 18
+[18:35:36] [connection] 127.0.0.1:60852 requests connection cookie.
+[18:35:37] [connection] incoming connection: 127.0.0.1:60852 id: 0
+[18:35:37] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:36:40] filterscripts = ""  (string)
+[18:36:40] 
+[18:36:40] Server Plugins
+[18:36:40] --------------
+[18:36:40]  Loading plugin: mysql
+[18:36:40]  >> plugin.mysql: R41-4 successfully loaded.
+[18:36:40]   Loaded.
+[18:36:40]  Loading plugin: streamer
+[18:36:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:36:40]   Loaded.
+[18:36:40]  Loading plugin: pawncmd
+[18:36:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:36:40]   Loaded.
+[18:36:40]  Loading plugin: sscanf
+[18:36:40] 
+
+[18:36:40]  ===============================
+
+[18:36:40]       sscanf plugin loaded.     
+
+[18:36:40]          Version:  2.8.3        
+
+[18:36:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:36:40]  ===============================
+
+[18:36:40]   Loaded.
+[18:36:40]  Loaded 4 plugins.
+
+[18:36:40] 
+[18:36:40] Filterscripts
+[18:36:40] ---------------
+[18:36:40]   Loaded 0 filterscripts.
+
+[18:36:41]  
+[18:36:41]  ======================================= 
+[18:36:41]  |                                     | 
+[18:36:41]  |        YSI version 1.04.0000        | 
+[18:36:41]  |        By Alex "Y_Less" Cole        | 
+[18:36:41]  |                                     | 
+[18:36:41]  ======================================= 
+[18:36:41]  
+[18:36:41]  =======================================
+[18:36:41]  |                                     |
+[18:36:41]  |           Banco de Dados            |
+[18:36:41]  |        Conectado com sucesso        |
+[18:36:41]  |                                     |
+[18:36:41]  =======================================
+[18:36:41] Number of vehicle models: 18
+[18:36:42] [connection] 127.0.0.1:60864 requests connection cookie.
+[18:36:43] [connection] incoming connection: 127.0.0.1:60864 id: 0
+[18:36:43] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:39:18] filterscripts = ""  (string)
+[18:39:18] 
+[18:39:18] Server Plugins
+[18:39:18] --------------
+[18:39:18]  Loading plugin: mysql
+[18:39:18]  >> plugin.mysql: R41-4 successfully loaded.
+[18:39:18]   Loaded.
+[18:39:18]  Loading plugin: streamer
+[18:39:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:39:18]   Loaded.
+[18:39:18]  Loading plugin: pawncmd
+[18:39:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:39:18]   Loaded.
+[18:39:18]  Loading plugin: sscanf
+[18:39:18] 
+
+[18:39:18]  ===============================
+
+[18:39:18]       sscanf plugin loaded.     
+
+[18:39:18]          Version:  2.8.3        
+
+[18:39:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:39:18]  ===============================
+
+[18:39:18]   Loaded.
+[18:39:18]  Loaded 4 plugins.
+
+[18:39:18] 
+[18:39:18] Filterscripts
+[18:39:18] ---------------
+[18:39:18]   Loaded 0 filterscripts.
+
+[18:39:18]  
+[18:39:18]  ======================================= 
+[18:39:18]  |                                     | 
+[18:39:18]  |        YSI version 1.04.0000        | 
+[18:39:18]  |        By Alex "Y_Less" Cole        | 
+[18:39:18]  |                                     | 
+[18:39:18]  ======================================= 
+[18:39:18]  
+[18:39:19]  =======================================
+[18:39:19]  |                                     |
+[18:39:19]  |           Banco de Dados            |
+[18:39:19]  |        Conectado com sucesso        |
+[18:39:19]  |                                     |
+[18:39:19]  =======================================
+[18:39:19] Number of vehicle models: 18
+[18:39:20] [connection] 127.0.0.1:58154 requests connection cookie.
+[18:39:21] [connection] incoming connection: 127.0.0.1:58154 id: 0
+[18:39:22] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:41:12] filterscripts = ""  (string)
+[18:41:12] 
+[18:41:12] Server Plugins
+[18:41:12] --------------
+[18:41:12]  Loading plugin: mysql
+[18:41:12]  >> plugin.mysql: R41-4 successfully loaded.
+[18:41:12]   Loaded.
+[18:41:12]  Loading plugin: streamer
+[18:41:12] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:41:12]   Loaded.
+[18:41:12]  Loading plugin: pawncmd
+[18:41:12] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:41:12]   Loaded.
+[18:41:12]  Loading plugin: sscanf
+[18:41:12] 
+
+[18:41:12]  ===============================
+
+[18:41:12]       sscanf plugin loaded.     
+
+[18:41:12]          Version:  2.8.3        
+
+[18:41:12]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:41:12]  ===============================
+
+[18:41:12]   Loaded.
+[18:41:12]  Loaded 4 plugins.
+
+[18:41:12] 
+[18:41:12] Filterscripts
+[18:41:12] ---------------
+[18:41:12]   Loaded 0 filterscripts.
+
+[18:41:12]  
+[18:41:12]  ======================================= 
+[18:41:12]  |                                     | 
+[18:41:12]  |        YSI version 1.04.0000        | 
+[18:41:12]  |        By Alex "Y_Less" Cole        | 
+[18:41:12]  |                                     | 
+[18:41:12]  ======================================= 
+[18:41:12]  
+[18:41:12]  =======================================
+[18:41:12]  |                                     |
+[18:41:12]  |           Banco de Dados            |
+[18:41:12]  |        Conectado com sucesso        |
+[18:41:12]  |                                     |
+[18:41:12]  =======================================
+[18:41:12] Number of vehicle models: 18
+[18:41:14] [connection] 127.0.0.1:60045 requests connection cookie.
+[18:41:15] [connection] incoming connection: 127.0.0.1:60045 id: 0
+[18:41:15] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:44:06] filterscripts = ""  (string)
+[18:44:06] 
+[18:44:06] Server Plugins
+[18:44:06] --------------
+[18:44:06]  Loading plugin: mysql
+[18:44:06]  >> plugin.mysql: R41-4 successfully loaded.
+[18:44:06]   Loaded.
+[18:44:06]  Loading plugin: streamer
+[18:44:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:44:06]   Loaded.
+[18:44:06]  Loading plugin: pawncmd
+[18:44:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:44:06]   Loaded.
+[18:44:06]  Loading plugin: sscanf
+[18:44:06] 
+
+[18:44:06]  ===============================
+
+[18:44:06]       sscanf plugin loaded.     
+
+[18:44:06]          Version:  2.8.3        
+
+[18:44:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:44:06]  ===============================
+
+[18:44:06]   Loaded.
+[18:44:06]  Loaded 4 plugins.
+
+[18:44:06] 
+[18:44:06] Filterscripts
+[18:44:06] ---------------
+[18:44:06]   Loaded 0 filterscripts.
+
+[18:44:06]  
+[18:44:06]  ======================================= 
+[18:44:06]  |                                     | 
+[18:44:06]  |        YSI version 1.04.0000        | 
+[18:44:06]  |        By Alex "Y_Less" Cole        | 
+[18:44:06]  |                                     | 
+[18:44:06]  ======================================= 
+[18:44:06]  
+[18:44:06]  =======================================
+[18:44:06]  |                                     |
+[18:44:06]  |           Banco de Dados            |
+[18:44:06]  |        Conectado com sucesso        |
+[18:44:06]  |                                     |
+[18:44:06]  =======================================
+[18:44:06] Number of vehicle models: 18
+[18:44:07] [connection] 127.0.0.1:56014 requests connection cookie.
+[18:44:08] [connection] incoming connection: 127.0.0.1:56014 id: 0
+[18:44:09] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:45:33] filterscripts = ""  (string)
+[18:45:33] 
+[18:45:33] Server Plugins
+[18:45:33] --------------
+[18:45:33]  Loading plugin: mysql
+[18:45:33]  >> plugin.mysql: R41-4 successfully loaded.
+[18:45:33]   Loaded.
+[18:45:33]  Loading plugin: streamer
+[18:45:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:45:33]   Loaded.
+[18:45:33]  Loading plugin: pawncmd
+[18:45:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:45:33]   Loaded.
+[18:45:33]  Loading plugin: sscanf
+[18:45:33] 
+
+[18:45:33]  ===============================
+
+[18:45:33]       sscanf plugin loaded.     
+
+[18:45:33]          Version:  2.8.3        
+
+[18:45:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:45:33]  ===============================
+
+[18:45:33]   Loaded.
+[18:45:33]  Loaded 4 plugins.
+
+[18:45:33] 
+[18:45:33] Filterscripts
+[18:45:33] ---------------
+[18:45:33]   Loaded 0 filterscripts.
+
+[18:45:33]  
+[18:45:33]  ======================================= 
+[18:45:33]  |                                     | 
+[18:45:33]  |        YSI version 1.04.0000        | 
+[18:45:33]  |        By Alex "Y_Less" Cole        | 
+[18:45:33]  |                                     | 
+[18:45:33]  ======================================= 
+[18:45:33]  
+[18:45:33]  =======================================
+[18:45:33]  |                                     |
+[18:45:33]  |           Banco de Dados            |
+[18:45:33]  |        Conectado com sucesso        |
+[18:45:33]  |                                     |
+[18:45:33]  =======================================
+[18:45:33] Number of vehicle models: 18
+[18:45:34] [connection] 127.0.0.1:59261 requests connection cookie.
+[18:45:35] [connection] incoming connection: 127.0.0.1:59261 id: 0
+[18:45:36] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:48:06] filterscripts = ""  (string)
+[18:48:06] 
+[18:48:06] Server Plugins
+[18:48:06] --------------
+[18:48:06]  Loading plugin: mysql
+[18:48:06]  >> plugin.mysql: R41-4 successfully loaded.
+[18:48:06]   Loaded.
+[18:48:06]  Loading plugin: streamer
+[18:48:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:48:06]   Loaded.
+[18:48:06]  Loading plugin: pawncmd
+[18:48:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:48:06]   Loaded.
+[18:48:06]  Loading plugin: sscanf
+[18:48:06] 
+
+[18:48:06]  ===============================
+
+[18:48:06]       sscanf plugin loaded.     
+
+[18:48:06]          Version:  2.8.3        
+
+[18:48:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:48:06]  ===============================
+
+[18:48:06]   Loaded.
+[18:48:06]  Loaded 4 plugins.
+
+[18:48:06] 
+[18:48:06] Filterscripts
+[18:48:06] ---------------
+[18:48:06]   Loaded 0 filterscripts.
+
+[18:48:06]  
+[18:48:06]  ======================================= 
+[18:48:06]  |                                     | 
+[18:48:06]  |        YSI version 1.04.0000        | 
+[18:48:06]  |        By Alex "Y_Less" Cole        | 
+[18:48:06]  |                                     | 
+[18:48:06]  ======================================= 
+[18:48:06]  
+[18:48:06]  =======================================
+[18:48:06]  |                                     |
+[18:48:06]  |           Banco de Dados            |
+[18:48:06]  |        Conectado com sucesso        |
+[18:48:06]  |                                     |
+[18:48:06]  =======================================
+[18:48:06] Number of vehicle models: 18
+[18:48:08] [connection] 127.0.0.1:62740 requests connection cookie.
+[18:48:09] [connection] incoming connection: 127.0.0.1:62740 id: 0
+[18:48:09] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:49:48] filterscripts = ""  (string)
+[18:49:48] 
+[18:49:48] Server Plugins
+[18:49:48] --------------
+[18:49:48]  Loading plugin: mysql
+[18:49:48]  >> plugin.mysql: R41-4 successfully loaded.
+[18:49:48]   Loaded.
+[18:49:48]  Loading plugin: streamer
+[18:49:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:49:48]   Loaded.
+[18:49:48]  Loading plugin: pawncmd
+[18:49:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:49:48]   Loaded.
+[18:49:48]  Loading plugin: sscanf
+[18:49:48] 
+
+[18:49:48]  ===============================
+
+[18:49:48]       sscanf plugin loaded.     
+
+[18:49:48]          Version:  2.8.3        
+
+[18:49:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:49:48]  ===============================
+
+[18:49:48]   Loaded.
+[18:49:48]  Loaded 4 plugins.
+
+[18:49:48] 
+[18:49:48] Filterscripts
+[18:49:48] ---------------
+[18:49:48]   Loaded 0 filterscripts.
+
+[18:49:48]  
+[18:49:48]  ======================================= 
+[18:49:48]  |                                     | 
+[18:49:48]  |        YSI version 1.04.0000        | 
+[18:49:48]  |        By Alex "Y_Less" Cole        | 
+[18:49:48]  |                                     | 
+[18:49:48]  ======================================= 
+[18:49:48]  
+[18:49:48]  =======================================
+[18:49:48]  |                                     |
+[18:49:48]  |           Banco de Dados            |
+[18:49:48]  |        Conectado com sucesso        |
+[18:49:48]  |                                     |
+[18:49:48]  =======================================
+[18:49:48] Number of vehicle models: 18
+[18:50:00] [connection] 127.0.0.1:64744 requests connection cookie.
+[18:50:01] [connection] incoming connection: 127.0.0.1:64744 id: 0
+[18:50:01] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:58:32] filterscripts = ""  (string)
+[18:58:32] 
+[18:58:32] Server Plugins
+[18:58:32] --------------
+[18:58:32]  Loading plugin: mysql
+[18:58:32]  >> plugin.mysql: R41-4 successfully loaded.
+[18:58:32]   Loaded.
+[18:58:32]  Loading plugin: streamer
+[18:58:32] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:58:32]   Loaded.
+[18:58:32]  Loading plugin: pawncmd
+[18:58:32] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:58:32]   Loaded.
+[18:58:32]  Loading plugin: sscanf
+[18:58:32] 
+
+[18:58:32]  ===============================
+
+[18:58:32]       sscanf plugin loaded.     
+
+[18:58:32]          Version:  2.8.3        
+
+[18:58:32]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:58:32]  ===============================
+
+[18:58:32]   Loaded.
+[18:58:32]  Loaded 4 plugins.
+
+[18:58:32] 
+[18:58:32] Filterscripts
+[18:58:32] ---------------
+[18:58:32]   Loaded 0 filterscripts.
+
+[18:58:32]  
+[18:58:32]  ======================================= 
+[18:58:32]  |                                     | 
+[18:58:32]  |        YSI version 1.04.0000        | 
+[18:58:32]  |        By Alex "Y_Less" Cole        | 
+[18:58:32]  |                                     | 
+[18:58:32]  ======================================= 
+[18:58:32]  
+[18:58:32]  =======================================
+[18:58:32]  |                                     |
+[18:58:32]  |           Banco de Dados            |
+[18:58:32]  |        Conectado com sucesso        |
+[18:58:32]  |                                     |
+[18:58:32]  =======================================
+[18:58:32] Number of vehicle models: 18
+[18:58:33] [connection] 127.0.0.1:55905 requests connection cookie.
+[18:58:34] [connection] incoming connection: 127.0.0.1:55905 id: 0
+[18:58:34] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:59:48] filterscripts = ""  (string)
+[18:59:48] 
+[18:59:48] Server Plugins
+[18:59:48] --------------
+[18:59:48]  Loading plugin: mysql
+[18:59:48]  >> plugin.mysql: R41-4 successfully loaded.
+[18:59:48]   Loaded.
+[18:59:48]  Loading plugin: streamer
+[18:59:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:59:48]   Loaded.
+[18:59:48]  Loading plugin: pawncmd
+[18:59:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:59:48]   Loaded.
+[18:59:48]  Loading plugin: sscanf
+[18:59:48] 
+
+[18:59:48]  ===============================
+
+[18:59:48]       sscanf plugin loaded.     
+
+[18:59:48]          Version:  2.8.3        
+
+[18:59:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:59:48]  ===============================
+
+[18:59:48]   Loaded.
+[18:59:48]  Loaded 4 plugins.
+
+[18:59:48] 
+[18:59:48] Filterscripts
+[18:59:48] ---------------
+[18:59:48]   Loaded 0 filterscripts.
+
+[18:59:48]  
+[18:59:48]  ======================================= 
+[18:59:48]  |                                     | 
+[18:59:48]  |        YSI version 1.04.0000        | 
+[18:59:48]  |        By Alex "Y_Less" Cole        | 
+[18:59:48]  |                                     | 
+[18:59:48]  ======================================= 
+[18:59:48]  
+[18:59:48]  =======================================
+[18:59:48]  |                                     |
+[18:59:48]  |           Banco de Dados            |
+[18:59:48]  |        Conectado com sucesso        |
+[18:59:48]  |                                     |
+[18:59:48]  =======================================
+[18:59:48] Number of vehicle models: 18
+[18:59:50] [connection] 127.0.0.1:55921 requests connection cookie.
+[18:59:51] [connection] incoming connection: 127.0.0.1:55921 id: 0
+[18:59:51] [join] Henrique has joined the server (0:127.0.0.1)
+[19:13:02] [part] Henrique has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:13:48] filterscripts = ""  (string)
+[19:13:48] 
+[19:13:48] Server Plugins
+[19:13:48] --------------
+[19:13:48]  Loading plugin: mysql
+[19:13:48]  >> plugin.mysql: R41-4 successfully loaded.
+[19:13:48]   Loaded.
+[19:13:48]  Loading plugin: streamer
+[19:13:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:13:48]   Loaded.
+[19:13:48]  Loading plugin: pawncmd
+[19:13:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[19:13:48]   Loaded.
+[19:13:48]  Loading plugin: sscanf
+[19:13:48] 
+
+[19:13:48]  ===============================
+
+[19:13:48]       sscanf plugin loaded.     
+
+[19:13:48]          Version:  2.8.3        
+
+[19:13:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[19:13:48]  ===============================
+
+[19:13:48]   Loaded.
+[19:13:48]  Loaded 4 plugins.
+
+[19:13:48] 
+[19:13:48] Filterscripts
+[19:13:48] ---------------
+[19:13:48]   Loaded 0 filterscripts.
+
+[19:13:48]  
+[19:13:48]  ======================================= 
+[19:13:48]  |                                     | 
+[19:13:48]  |        YSI version 1.04.0000        | 
+[19:13:48]  |        By Alex "Y_Less" Cole        | 
+[19:13:48]  |                                     | 
+[19:13:48]  ======================================= 
+[19:13:48]  
+[19:13:48]  =======================================
+[19:13:48]  |                                     |
+[19:13:48]  |           Banco de Dados            |
+[19:13:48]  |        Conectado com sucesso        |
+[19:13:48]  |                                     |
+[19:13:48]  =======================================
+[19:13:48] Number of vehicle models: 18
+[19:14:11] [connection] 127.0.0.1:59518 requests connection cookie.
+[19:14:12] [connection] incoming connection: 127.0.0.1:59518 id: 0
+[19:14:13] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:35] filterscripts = ""  (string)
+[21:45:35] 
+[21:45:35] Server Plugins
+[21:45:35] --------------
+[21:45:35]  Loading plugin: mysql
+[21:45:35]  >> plugin.mysql: R41-4 successfully loaded.
+[21:45:35]   Loaded.
+[21:45:35]  Loading plugin: streamer
+[21:45:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:45:35]   Loaded.
+[21:45:35]  Loading plugin: pawncmd
+[21:45:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:45:35]   Loaded.
+[21:45:35]  Loading plugin: sscanf
+[21:45:35] 
+
+[21:45:35]  ===============================
+
+[21:45:35]       sscanf plugin loaded.     
+
+[21:45:35]          Version:  2.8.3        
+
+[21:45:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:45:35]  ===============================
+
+[21:45:35]   Loaded.
+[21:45:35]  Loaded 4 plugins.
+
+[21:45:35] 
+[21:45:35] Filterscripts
+[21:45:35] ---------------
+[21:45:35]   Loaded 0 filterscripts.
+
+[21:45:35]  
+[21:45:35]  ======================================= 
+[21:45:35]  |                                     | 
+[21:45:35]  |        YSI version 1.04.0000        | 
+[21:45:35]  |        By Alex "Y_Less" Cole        | 
+[21:45:35]  |                                     | 
+[21:45:35]  ======================================= 
+[21:45:35]  
+[21:45:35]  =======================================
+[21:45:35]  |                                     |
+[21:45:35]  |           Banco de Dados            |
+[21:45:35]  |        Conectado com sucesso        |
+[21:45:35]  |                                     |
+[21:45:35]  =======================================
+[21:45:35] Number of vehicle models: 18
+[21:45:36] [connection] 127.0.0.1:64410 requests connection cookie.
+[21:45:37] [connection] incoming connection: 127.0.0.1:64410 id: 0
+[21:45:38] [join] Henrique has joined the server (0:127.0.0.1)
+[22:10:03] [part] Henrique has left the server (0:2)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:19:11] filterscripts = ""  (string)
+[22:19:11] 
+[22:19:11] Server Plugins
+[22:19:11] --------------
+[22:19:11]  Loading plugin: mysql
+[22:19:11]  >> plugin.mysql: R41-4 successfully loaded.
+[22:19:11]   Loaded.
+[22:19:11]  Loading plugin: streamer
+[22:19:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:19:11]   Loaded.
+[22:19:11]  Loading plugin: pawncmd
+[22:19:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:19:11]   Loaded.
+[22:19:11]  Loading plugin: sscanf
+[22:19:11] 
+
+[22:19:11]  ===============================
+
+[22:19:11]       sscanf plugin loaded.     
+
+[22:19:11]          Version:  2.8.3        
+
+[22:19:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:19:11]  ===============================
+
+[22:19:11]   Loaded.
+[22:19:11]  Loaded 4 plugins.
+
+[22:19:11] 
+[22:19:11] Filterscripts
+[22:19:11] ---------------
+[22:19:11]   Loaded 0 filterscripts.
+
+[22:19:11]  
+[22:19:11]  ======================================= 
+[22:19:11]  |                                     | 
+[22:19:11]  |        YSI version 1.04.0000        | 
+[22:19:11]  |        By Alex "Y_Less" Cole        | 
+[22:19:11]  |                                     | 
+[22:19:11]  ======================================= 
+[22:19:11]  
+[22:19:11]  =======================================
+[22:19:11]  |                                     |
+[22:19:11]  |           Banco de Dados            |
+[22:19:11]  |        Conectado com sucesso        |
+[22:19:11]  |                                     |
+[22:19:11]  =======================================
+[22:19:11] Number of vehicle models: 18
+[22:19:33] [connection] 127.0.0.1:59134 requests connection cookie.
+[22:19:34] [connection] incoming connection: 127.0.0.1:59134 id: 0
+[22:19:34] [join] hcc has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:22:27] filterscripts = ""  (string)
+[22:22:27] 
+[22:22:27] Server Plugins
+[22:22:27] --------------
+[22:22:27]  Loading plugin: mysql
+[22:22:27]  >> plugin.mysql: R41-4 successfully loaded.
+[22:22:27]   Loaded.
+[22:22:27]  Loading plugin: streamer
+[22:22:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:22:27]   Loaded.
+[22:22:27]  Loading plugin: pawncmd
+[22:22:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:22:27]   Loaded.
+[22:22:27]  Loading plugin: sscanf
+[22:22:27] 
+
+[22:22:27]  ===============================
+
+[22:22:27]       sscanf plugin loaded.     
+
+[22:22:27]          Version:  2.8.3        
+
+[22:22:28]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:22:28]  ===============================
+
+[22:22:28]   Loaded.
+[22:22:28]  Loaded 4 plugins.
+
+[22:22:28] 
+[22:22:28] Filterscripts
+[22:22:28] ---------------
+[22:22:28]   Loaded 0 filterscripts.
+
+[22:22:28]  
+[22:22:28]  ======================================= 
+[22:22:28]  |                                     | 
+[22:22:28]  |        YSI version 1.04.0000        | 
+[22:22:28]  |        By Alex "Y_Less" Cole        | 
+[22:22:28]  |                                     | 
+[22:22:28]  ======================================= 
+[22:22:28]  
+[22:22:28]  =======================================
+[22:22:28]  |                                     |
+[22:22:28]  |           Banco de Dados            |
+[22:22:28]  |        Conectado com sucesso        |
+[22:22:28]  |                                     |
+[22:22:28]  =======================================
+[22:22:28] Number of vehicle models: 18
+[22:22:29] [connection] 127.0.0.1:63819 requests connection cookie.
+[22:22:30] [connection] incoming connection: 127.0.0.1:63819 id: 0
+[22:22:31] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:25:08] filterscripts = ""  (string)
+[22:25:08] 
+[22:25:08] Server Plugins
+[22:25:08] --------------
+[22:25:08]  Loading plugin: mysql
+[22:25:08]  >> plugin.mysql: R41-4 successfully loaded.
+[22:25:08]   Loaded.
+[22:25:08]  Loading plugin: streamer
+[22:25:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:25:08]   Loaded.
+[22:25:08]  Loading plugin: pawncmd
+[22:25:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:25:08]   Loaded.
+[22:25:08]  Loading plugin: sscanf
+[22:25:08] 
+
+[22:25:08]  ===============================
+
+[22:25:08]       sscanf plugin loaded.     
+
+[22:25:08]          Version:  2.8.3        
+
+[22:25:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:25:08]  ===============================
+
+[22:25:08]   Loaded.
+[22:25:08]  Loaded 4 plugins.
+
+[22:25:08] 
+[22:25:08] Filterscripts
+[22:25:08] ---------------
+[22:25:08]   Loaded 0 filterscripts.
+
+[22:25:08]  
+[22:25:08]  ======================================= 
+[22:25:08]  |                                     | 
+[22:25:08]  |        YSI version 1.04.0000        | 
+[22:25:08]  |        By Alex "Y_Less" Cole        | 
+[22:25:08]  |                                     | 
+[22:25:08]  ======================================= 
+[22:25:08]  
+[22:25:08]  =======================================
+[22:25:08]  |                                     |
+[22:25:08]  |           Banco de Dados            |
+[22:25:08]  |        Conectado com sucesso        |
+[22:25:08]  |                                     |
+[22:25:08]  =======================================
+[22:25:08] Number of vehicle models: 18
+[22:25:10] [connection] 127.0.0.1:54571 requests connection cookie.
+[22:25:11] [connection] incoming connection: 127.0.0.1:54571 id: 0
+[22:25:11] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:26:18] filterscripts = ""  (string)
+[22:26:18] 
+[22:26:18] Server Plugins
+[22:26:18] --------------
+[22:26:18]  Loading plugin: mysql
+[22:26:18]  >> plugin.mysql: R41-4 successfully loaded.
+[22:26:18]   Loaded.
+[22:26:18]  Loading plugin: streamer
+[22:26:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:26:18]   Loaded.
+[22:26:18]  Loading plugin: pawncmd
+[22:26:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:26:18]   Loaded.
+[22:26:18]  Loading plugin: sscanf
+[22:26:18] 
+
+[22:26:18]  ===============================
+
+[22:26:18]       sscanf plugin loaded.     
+
+[22:26:18]          Version:  2.8.3        
+
+[22:26:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:26:18]  ===============================
+
+[22:26:18]   Loaded.
+[22:26:18]  Loaded 4 plugins.
+
+[22:26:18] 
+[22:26:18] Filterscripts
+[22:26:18] ---------------
+[22:26:18]   Loaded 0 filterscripts.
+
+[22:26:18]  
+[22:26:18]  ======================================= 
+[22:26:18]  |                                     | 
+[22:26:18]  |        YSI version 1.04.0000        | 
+[22:26:18]  |        By Alex "Y_Less" Cole        | 
+[22:26:18]  |                                     | 
+[22:26:18]  ======================================= 
+[22:26:18]  
+[22:26:18]  =======================================
+[22:26:18]  |                                     |
+[22:26:18]  |           Banco de Dados            |
+[22:26:18]  |        Conectado com sucesso        |
+[22:26:18]  |                                     |
+[22:26:18]  =======================================
+[22:26:18] Number of vehicle models: 18
+[22:26:20] [connection] 127.0.0.1:54573 requests connection cookie.
+[22:26:21] [connection] incoming connection: 127.0.0.1:54573 id: 0
+[22:26:22] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:14:19] filterscripts = ""  (string)
+[23:14:19] 
+[23:14:19] Server Plugins
+[23:14:19] --------------
+[23:14:19]  Loading plugin: mysql
+[23:14:19]  >> plugin.mysql: R41-4 successfully loaded.
+[23:14:19]   Loaded.
+[23:14:19]  Loading plugin: streamer
+[23:14:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:14:19]   Loaded.
+[23:14:19]  Loading plugin: pawncmd
+[23:14:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:14:19]   Loaded.
+[23:14:19]  Loading plugin: sscanf
+[23:14:19] 
+
+[23:14:19]  ===============================
+
+[23:14:19]       sscanf plugin loaded.     
+
+[23:14:19]          Version:  2.8.3        
+
+[23:14:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:14:19]  ===============================
+
+[23:14:19]   Loaded.
+[23:14:19]  Loaded 4 plugins.
+
+[23:14:19] 
+[23:14:19] Filterscripts
+[23:14:19] ---------------
+[23:14:19]   Loaded 0 filterscripts.
+
+[23:14:19]  
+[23:14:19]  ======================================= 
+[23:14:19]  |                                     | 
+[23:14:19]  |        YSI version 1.04.0000        | 
+[23:14:19]  |        By Alex "Y_Less" Cole        | 
+[23:14:19]  |                                     | 
+[23:14:19]  ======================================= 
+[23:14:19]  
+[23:14:19]  =======================================
+[23:14:19]  |                                     |
+[23:14:19]  |           Banco de Dados            |
+[23:14:19]  |        Conectado com sucesso        |
+[23:14:19]  |                                     |
+[23:14:19]  =======================================
+[23:14:19] Number of vehicle models: 18
+[23:14:21] [connection] 127.0.0.1:65348 requests connection cookie.
+[23:14:22] [connection] incoming connection: 127.0.0.1:65348 id: 0
+[23:14:22] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:33:25] filterscripts = ""  (string)
+[23:33:25] 
+[23:33:25] Server Plugins
+[23:33:25] --------------
+[23:33:25]  Loading plugin: mysql
+[23:33:25]  >> plugin.mysql: R41-4 successfully loaded.
+[23:33:25]   Loaded.
+[23:33:25]  Loading plugin: streamer
+[23:33:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:33:25]   Loaded.
+[23:33:25]  Loading plugin: pawncmd
+[23:33:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:33:25]   Loaded.
+[23:33:25]  Loading plugin: sscanf
+[23:33:25] 
+
+[23:33:25]  ===============================
+
+[23:33:25]       sscanf plugin loaded.     
+
+[23:33:25]          Version:  2.8.3        
+
+[23:33:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:33:25]  ===============================
+
+[23:33:25]   Loaded.
+[23:33:25]  Loaded 4 plugins.
+
+[23:33:25] 
+[23:33:25] Filterscripts
+[23:33:25] ---------------
+[23:33:25]   Loaded 0 filterscripts.
+
+[23:33:25]  
+[23:33:25]  ======================================= 
+[23:33:25]  |                                     | 
+[23:33:25]  |        YSI version 1.04.0000        | 
+[23:33:25]  |        By Alex "Y_Less" Cole        | 
+[23:33:25]  |                                     | 
+[23:33:25]  ======================================= 
+[23:33:25]  
+[23:33:26] [connection] 127.0.0.1:50721 requests connection cookie.
+[23:33:26]  =======================================
+[23:33:26]  |                                     |
+[23:33:26]  |           Banco de Dados            |
+[23:33:26]  |        Conectado com sucesso        |
+[23:33:26]  |                                     |
+[23:33:26]  =======================================
+[23:33:26] Number of vehicle models: 18
+[23:33:27] [connection] incoming connection: 127.0.0.1:50721 id: 0
+[23:33:30] [join] Henrique has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:36:40] filterscripts = ""  (string)
+[23:36:40] 
+[23:36:40] Server Plugins
+[23:36:40] --------------
+[23:36:40]  Loading plugin: mysql
+[23:36:40]  >> plugin.mysql: R41-4 successfully loaded.
+[23:36:40]   Loaded.
+[23:36:40]  Loading plugin: streamer
+[23:36:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:36:40]   Loaded.
+[23:36:40]  Loading plugin: pawncmd
+[23:36:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:36:40]   Loaded.
+[23:36:40]  Loading plugin: sscanf
+[23:36:40] 
+
+[23:36:40]  ===============================
+
+[23:36:40]       sscanf plugin loaded.     
+
+[23:36:40]          Version:  2.8.3        
+
+[23:36:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:36:40]  ===============================
+
+[23:36:40]   Loaded.
+[23:36:40]  Loaded 4 plugins.
+
+[23:36:40] 
+[23:36:40] Filterscripts
+[23:36:40] ---------------
+[23:36:40]   Loaded 0 filterscripts.
+
+[23:36:40]  
+[23:36:40]  ======================================= 
+[23:36:40]  |                                     | 
+[23:36:40]  |        YSI version 1.04.0000        | 
+[23:36:40]  |        By Alex "Y_Less" Cole        | 
+[23:36:40]  |                                     | 
+[23:36:40]  ======================================= 
+[23:36:40]  
+[23:36:40]  =======================================
+[23:36:40]  |                                     |
+[23:36:40]  |           Banco de Dados            |
+[23:36:40]  |        Conectado com sucesso        |
+[23:36:40]  |                                     |
+[23:36:40]  =======================================
+[23:36:40] Number of vehicle models: 18
+[23:36:44] [connection] 127.0.0.1:53380 requests connection cookie.
+[23:36:45] [connection] incoming connection: 127.0.0.1:53380 id: 0
+[23:36:45] [join] Henrique has joined the server (0:127.0.0.1)
+[23:41:01] [part] Henrique has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:42:05] filterscripts = ""  (string)
+[23:42:05] 
+[23:42:05] Server Plugins
+[23:42:05] --------------
+[23:42:05]  Loading plugin: mysql
+[23:42:05]  >> plugin.mysql: R41-4 successfully loaded.
+[23:42:05]   Loaded.
+[23:42:05]  Loading plugin: streamer
+[23:42:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:42:05]   Loaded.
+[23:42:05]  Loading plugin: pawncmd
+[23:42:05] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:42:05]   Loaded.
+[23:42:05]  Loading plugin: sscanf
+[23:42:05] 
+
+[23:42:05]  ===============================
+
+[23:42:05]       sscanf plugin loaded.     
+
+[23:42:05]          Version:  2.8.3        
+
+[23:42:05]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:42:05]  ===============================
+
+[23:42:05]   Loaded.
+[23:42:05]  Loaded 4 plugins.
+
+[23:42:05] 
+[23:42:05] Filterscripts
+[23:42:05] ---------------
+[23:42:05]   Loaded 0 filterscripts.
+
+[23:42:05]  
+[23:42:05]  ======================================= 
+[23:42:05]  |                                     | 
+[23:42:05]  |        YSI version 1.04.0000        | 
+[23:42:05]  |        By Alex "Y_Less" Cole        | 
+[23:42:05]  |                                     | 
+[23:42:05]  ======================================= 
+[23:42:05]  
+[23:42:05]  =======================================
+[23:42:05]  |                                     |
+[23:42:05]  |           Banco de Dados            |
+[23:42:05]  |        Conectado com sucesso        |
+[23:42:05]  |                                     |
+[23:42:05]  =======================================
+[23:42:05] Number of vehicle models: 18
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:51:42] filterscripts = ""  (string)
+[23:51:42] 
+[23:51:42] Server Plugins
+[23:51:42] --------------
+[23:51:42]  Loading plugin: mysql
+[23:51:42]  >> plugin.mysql: R41-4 successfully loaded.
+[23:51:42]   Loaded.
+[23:51:42]  Loading plugin: streamer
+[23:51:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:51:42]   Loaded.
+[23:51:42]  Loading plugin: pawncmd
+[23:51:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:51:42]   Loaded.
+[23:51:42]  Loading plugin: sscanf
+[23:51:42] 
+
+[23:51:42]  ===============================
+
+[23:51:42]       sscanf plugin loaded.     
+
+[23:51:42]          Version:  2.8.3        
+
+[23:51:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[23:51:42]  ===============================
+
+[23:51:42]   Loaded.
+[23:51:42]  Loaded 4 plugins.
+
+[23:51:42] 
+[23:51:42] Filterscripts
+[23:51:42] ---------------
+[23:51:42]   Loaded 0 filterscripts.
+
+[23:51:42]  
+[23:51:42]  ======================================= 
+[23:51:42]  |                                     | 
+[23:51:42]  |        YSI version 1.04.0000        | 
+[23:51:42]  |        By Alex "Y_Less" Cole        | 
+[23:51:42]  |                                     | 
+[23:51:42]  ======================================= 
+[23:51:42]  
+[23:51:43]  =======================================
+[23:51:43]  |                                     |
+[23:51:43]  |           Banco de Dados            |
+[23:51:43]  |        Conectado com sucesso        |
+[23:51:43]  |                                     |
+[23:51:43]  =======================================
+[23:51:43] Number of vehicle models: 18
+[23:52:23] [connection] 127.0.0.1:60178 requests connection cookie.
+[23:52:24] [connection] incoming connection: 127.0.0.1:60178 id: 0
+[23:52:24] [join] hcc has joined the server (0:127.0.0.1)
