@@ -1,0 +1,43 @@
+==========[ Vida Real Crias ]==========
+
+Máfia      : 5
+Honesta    : 30
+Transporte : 25, 35, 45  
+
+---------------------------------------
+
+REGRA DOS 5 MINUTOS *******************************
+
+¤ ATUALIZAR:
+
+¤ BUGS:
+	Android (Concessionaria);
+	Falta do interior(19 e 20) casas; *
+	/Localizar flood;
+	Pararespiar;
+	Adicionar caixa eletronicos;
+
+¤ CRIAR:
+	Tag Youtube;
+	/TopGrana;
+	/TopSkill;
+	DarVip;
+	Plantador de maconhas;
+		
+¤ TERMINAR:
+	Sistema de eventos;
+
+¤ REFAZER:
+
+PRIORIDADE:
+	Remover os tanques de gasolina e add outros;
+	PLANTADOR DE MACONHA, CABANAS;
+	
+
+¤ TESTES:
+	Enchervida 20 hp empresa;
+	VIP tempo;
+	VIPS ( MenuVeiculos );
+	Deletar Veículo;
+
+==========[ Vida Real Crias ]==========

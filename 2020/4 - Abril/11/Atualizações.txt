@@ -1,0 +1,5 @@
+/Pararespiar consertado;
+Perder HP quando tiver com muita sede/fome ou doente e encher o mesmo em empresa;
+/DV pode deletar de "outros";
+Terminando /topskill e /topdinheiro;
+Cargo Plantador de Cannabis sem bug;
