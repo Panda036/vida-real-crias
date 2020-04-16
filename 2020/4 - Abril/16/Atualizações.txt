@@ -1,0 +1,16 @@
+Servidor:	
+
+Adicionado +2 locais de pegar mafia(Las Venturas e San Fierro);
+Adicionado tanques de combustível nos postos;
+Adicionado mais lixeiras;
+Adicionado mochila ( /mochila );
+
+Atualizado Cargo Máfia Plantador de Cannabis;
+	Valores : 750 até 1500;
+	Comandos: /plantar, /colher e /fornecedor;	
+
+Adicionado /Tab ( ver jogadores onlines );
+
+Começando a criar Light;
+
+Fórum:
