@@ -1,0 +1,428 @@
+//Global TextDraws: 
+
+
+new Text:TDEditor_TD[28];
+
+TDEditor_TD[0] = TextDrawCreate(247.100860, 92.177764, "box");
+TextDrawLetterSize(TDEditor_TD[0], 0.000000, 24.849990);
+TextDrawTextSize(TDEditor_TD[0], 392.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[0], 1);
+TextDrawColor(TDEditor_TD[0], -1);
+TextDrawUseBox(TDEditor_TD[0], 1);
+TextDrawBoxColor(TDEditor_TD[0], 100);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+TextDrawSetOutline(TDEditor_TD[0], 0);
+TextDrawBackgroundColor(TDEditor_TD[0], 255);
+TextDrawFont(TDEditor_TD[0], 1);
+TextDrawSetProportional(TDEditor_TD[0], 1);
+TextDrawSetShadow(TDEditor_TD[0], 0);
+
+TDEditor_TD[1] = TextDrawCreate(262.000000, 145.866668, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[1], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[1], 25.000000, 26.000000);
+TextDrawAlignment(TDEditor_TD[1], 1);
+TextDrawColor(TDEditor_TD[1], -92724737);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+TextDrawSetOutline(TDEditor_TD[1], 0);
+TextDrawBackgroundColor(TDEditor_TD[1], 255);
+TextDrawFont(TDEditor_TD[1], 4);
+TextDrawSetProportional(TDEditor_TD[1], 0);
+TextDrawSetShadow(TDEditor_TD[1], 0);
+
+TDEditor_TD[2] = TextDrawCreate(349.605346, 145.866668, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[2], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[2], 25.000000, 26.000000);
+TextDrawAlignment(TDEditor_TD[2], 1);
+TextDrawColor(TDEditor_TD[2], -92724737);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+TextDrawSetOutline(TDEditor_TD[2], 0);
+TextDrawBackgroundColor(TDEditor_TD[2], 255);
+TextDrawFont(TDEditor_TD[2], 4);
+TextDrawSetProportional(TDEditor_TD[2], 0);
+TextDrawSetShadow(TDEditor_TD[2], 0);
+
+TDEditor_TD[3] = TextDrawCreate(276.100036, 149.133300, "box");
+TextDrawLetterSize(TDEditor_TD[3], 0.000000, 2.162992);
+TextDrawTextSize(TDEditor_TD[3], 362.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[3], 1);
+TextDrawColor(TDEditor_TD[3], -1);
+TextDrawUseBox(TDEditor_TD[3], 1);
+TextDrawBoxColor(TDEditor_TD[3], -92724737);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+TextDrawSetOutline(TDEditor_TD[3], 0);
+TextDrawBackgroundColor(TDEditor_TD[3], 255);
+TextDrawFont(TDEditor_TD[3], 1);
+TextDrawSetProportional(TDEditor_TD[3], 1);
+TextDrawSetShadow(TDEditor_TD[3], 0);
+
+TDEditor_TD[4] = TextDrawCreate(264.200134, 147.544586, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[4], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[4], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[4], 1);
+TextDrawColor(TDEditor_TD[4], 255);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+TextDrawSetOutline(TDEditor_TD[4], 0);
+TextDrawBackgroundColor(TDEditor_TD[4], 255);
+TextDrawFont(TDEditor_TD[4], 4);
+TextDrawSetProportional(TDEditor_TD[4], 0);
+TextDrawSetShadow(TDEditor_TD[4], 0);
+
+TDEditor_TD[5] = TextDrawCreate(350.105377, 147.544586, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[5], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[5], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[5], 1);
+TextDrawColor(TDEditor_TD[5], 255);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+TextDrawSetOutline(TDEditor_TD[5], 0);
+TextDrawBackgroundColor(TDEditor_TD[5], 255);
+TextDrawFont(TDEditor_TD[5], 4);
+TextDrawSetProportional(TDEditor_TD[5], 0);
+TextDrawSetShadow(TDEditor_TD[5], 0);
+
+TDEditor_TD[6] = TextDrawCreate(276.100036, 150.433380, "box");
+TextDrawLetterSize(TDEditor_TD[6], 0.000000, 1.837996);
+TextDrawTextSize(TDEditor_TD[6], 362.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[6], 1);
+TextDrawColor(TDEditor_TD[6], -1);
+TextDrawUseBox(TDEditor_TD[6], 1);
+TextDrawBoxColor(TDEditor_TD[6], 255);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+TextDrawSetOutline(TDEditor_TD[6], 0);
+TextDrawBackgroundColor(TDEditor_TD[6], 255);
+TextDrawFont(TDEditor_TD[6], 1);
+TextDrawSetProportional(TDEditor_TD[6], 1);
+TextDrawSetShadow(TDEditor_TD[6], 0);
+
+TDEditor_TD[7] = TextDrawCreate(261.500000, 192.969543, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[7], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[7], 25.000000, 26.000000);
+TextDrawAlignment(TDEditor_TD[7], 1);
+TextDrawColor(TDEditor_TD[7], -92724737);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+TextDrawSetOutline(TDEditor_TD[7], 0);
+TextDrawBackgroundColor(TDEditor_TD[7], 255);
+TextDrawFont(TDEditor_TD[7], 4);
+TextDrawSetProportional(TDEditor_TD[7], 0);
+TextDrawSetShadow(TDEditor_TD[7], 0);
+
+TDEditor_TD[8] = TextDrawCreate(349.605346, 192.969543, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[8], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[8], 25.000000, 25.509988);
+TextDrawAlignment(TDEditor_TD[8], 1);
+TextDrawColor(TDEditor_TD[8], -92724737);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+TextDrawSetOutline(TDEditor_TD[8], 0);
+TextDrawBackgroundColor(TDEditor_TD[8], 255);
+TextDrawFont(TDEditor_TD[8], 4);
+TextDrawSetProportional(TDEditor_TD[8], 0);
+TextDrawSetShadow(TDEditor_TD[8], 0);
+
+TDEditor_TD[9] = TextDrawCreate(276.100036, 195.958343, "box");
+TextDrawLetterSize(TDEditor_TD[9], 0.000000, 2.146992);
+TextDrawTextSize(TDEditor_TD[9], 362.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[9], 1);
+TextDrawColor(TDEditor_TD[9], -1);
+TextDrawUseBox(TDEditor_TD[9], 1);
+TextDrawBoxColor(TDEditor_TD[9], -92724737);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+TextDrawSetOutline(TDEditor_TD[9], 0);
+TextDrawBackgroundColor(TDEditor_TD[9], 255);
+TextDrawFont(TDEditor_TD[9], 1);
+TextDrawSetProportional(TDEditor_TD[9], 1);
+TextDrawSetShadow(TDEditor_TD[9], 0);
+
+TDEditor_TD[10] = TextDrawCreate(263.100067, 194.569641, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[10], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[10], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[10], 1);
+TextDrawColor(TDEditor_TD[10], 255);
+TextDrawSetShadow(TDEditor_TD[10], 0);
+TextDrawSetOutline(TDEditor_TD[10], 0);
+TextDrawBackgroundColor(TDEditor_TD[10], 255);
+TextDrawFont(TDEditor_TD[10], 4);
+TextDrawSetProportional(TDEditor_TD[10], 0);
+TextDrawSetShadow(TDEditor_TD[10], 0);
+
+TDEditor_TD[11] = TextDrawCreate(350.105377, 194.447448, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[11], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[11], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[11], 1);
+TextDrawColor(TDEditor_TD[11], 255);
+TextDrawSetShadow(TDEditor_TD[11], 0);
+TextDrawSetOutline(TDEditor_TD[11], 0);
+TextDrawBackgroundColor(TDEditor_TD[11], 255);
+TextDrawFont(TDEditor_TD[11], 4);
+TextDrawSetProportional(TDEditor_TD[11], 0);
+TextDrawSetShadow(TDEditor_TD[11], 0);
+
+TDEditor_TD[12] = TextDrawCreate(276.100036, 197.136230, "box");
+TextDrawLetterSize(TDEditor_TD[12], 0.000000, 1.837996);
+TextDrawTextSize(TDEditor_TD[12], 362.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[12], 1);
+TextDrawColor(TDEditor_TD[12], -1);
+TextDrawUseBox(TDEditor_TD[12], 1);
+TextDrawBoxColor(TDEditor_TD[12], 255);
+TextDrawSetShadow(TDEditor_TD[12], 0);
+TextDrawSetOutline(TDEditor_TD[12], 0);
+TextDrawBackgroundColor(TDEditor_TD[12], 255);
+TextDrawFont(TDEditor_TD[12], 1);
+TextDrawSetProportional(TDEditor_TD[12], 1);
+TextDrawSetShadow(TDEditor_TD[12], 0);
+
+TDEditor_TD[13] = TextDrawCreate(261.500000, 235.472137, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[13], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[13], 25.000000, 27.000000);
+TextDrawAlignment(TDEditor_TD[13], 1);
+TextDrawColor(TDEditor_TD[13], -16776961);
+TextDrawSetShadow(TDEditor_TD[13], 0);
+TextDrawSetOutline(TDEditor_TD[13], 0);
+TextDrawBackgroundColor(TDEditor_TD[13], 255);
+TextDrawFont(TDEditor_TD[13], 4);
+TextDrawSetProportional(TDEditor_TD[13], 0);
+TextDrawSetShadow(TDEditor_TD[13], 0);
+
+TDEditor_TD[14] = TextDrawCreate(290.301757, 235.372131, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[14], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[14], 25.000000, 27.000000);
+TextDrawAlignment(TDEditor_TD[14], 1);
+TextDrawColor(TDEditor_TD[14], -16776961);
+TextDrawSetShadow(TDEditor_TD[14], 0);
+TextDrawSetOutline(TDEditor_TD[14], 0);
+TextDrawBackgroundColor(TDEditor_TD[14], 255);
+TextDrawFont(TDEditor_TD[14], 4);
+TextDrawSetProportional(TDEditor_TD[14], 0);
+TextDrawSetShadow(TDEditor_TD[14], 0);
+
+TDEditor_TD[15] = TextDrawCreate(276.498352, 237.949310, "box");
+TextDrawLetterSize(TDEditor_TD[15], 0.000000, 2.360996);
+TextDrawTextSize(TDEditor_TD[15], 300.594604, 0.000000);
+TextDrawAlignment(TDEditor_TD[15], 1);
+TextDrawColor(TDEditor_TD[15], -1);
+TextDrawUseBox(TDEditor_TD[15], 1);
+TextDrawBoxColor(TDEditor_TD[15], -16776961);
+TextDrawSetShadow(TDEditor_TD[15], 0);
+TextDrawSetOutline(TDEditor_TD[15], 0);
+TextDrawBackgroundColor(TDEditor_TD[15], 255);
+TextDrawFont(TDEditor_TD[15], 1);
+TextDrawSetProportional(TDEditor_TD[15], 1);
+TextDrawSetShadow(TDEditor_TD[15], 0);
+
+TDEditor_TD[16] = TextDrawCreate(263.698486, 237.837158, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[16], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[16], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[16], 1);
+TextDrawColor(TDEditor_TD[16], 255);
+TextDrawSetShadow(TDEditor_TD[16], 0);
+TextDrawSetOutline(TDEditor_TD[16], 0);
+TextDrawBackgroundColor(TDEditor_TD[16], 255);
+TextDrawFont(TDEditor_TD[16], 4);
+TextDrawSetProportional(TDEditor_TD[16], 0);
+TextDrawSetShadow(TDEditor_TD[16], 0);
+
+TDEditor_TD[17] = TextDrawCreate(290.500091, 237.981536, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[17], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[17], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[17], 1);
+TextDrawColor(TDEditor_TD[17], 255);
+TextDrawSetShadow(TDEditor_TD[17], 0);
+TextDrawSetOutline(TDEditor_TD[17], 0);
+TextDrawBackgroundColor(TDEditor_TD[17], 255);
+TextDrawFont(TDEditor_TD[17], 4);
+TextDrawSetProportional(TDEditor_TD[17], 0);
+TextDrawSetShadow(TDEditor_TD[17], 0);
+
+TDEditor_TD[18] = TextDrawCreate(277.998443, 240.327270, "box");
+TextDrawLetterSize(TDEditor_TD[18], 0.000000, 1.903010);
+TextDrawTextSize(TDEditor_TD[18], 298.541809, 0.000000);
+TextDrawAlignment(TDEditor_TD[18], 1);
+TextDrawColor(TDEditor_TD[18], -1);
+TextDrawUseBox(TDEditor_TD[18], 1);
+TextDrawBoxColor(TDEditor_TD[18], 255);
+TextDrawSetShadow(TDEditor_TD[18], 0);
+TextDrawSetOutline(TDEditor_TD[18], 0);
+TextDrawBackgroundColor(TDEditor_TD[18], 255);
+TextDrawFont(TDEditor_TD[18], 1);
+TextDrawSetProportional(TDEditor_TD[18], 1);
+TextDrawSetShadow(TDEditor_TD[18], 0);
+
+TDEditor_TD[19] = TextDrawCreate(321.603698, 235.772155, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[19], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[19], 25.000000, 27.000000);
+TextDrawAlignment(TDEditor_TD[19], 1);
+TextDrawColor(TDEditor_TD[19], -1378294017);
+TextDrawSetShadow(TDEditor_TD[19], 0);
+TextDrawSetOutline(TDEditor_TD[19], 0);
+TextDrawBackgroundColor(TDEditor_TD[19], 255);
+TextDrawFont(TDEditor_TD[19], 4);
+TextDrawSetProportional(TDEditor_TD[19], 0);
+TextDrawSetShadow(TDEditor_TD[19], 0);
+
+TDEditor_TD[20] = TextDrawCreate(348.105316, 235.872161, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[20], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[20], 25.000000, 27.000000);
+TextDrawAlignment(TDEditor_TD[20], 1);
+TextDrawColor(TDEditor_TD[20], -1378294017);
+TextDrawSetShadow(TDEditor_TD[20], 0);
+TextDrawSetOutline(TDEditor_TD[20], 0);
+TextDrawBackgroundColor(TDEditor_TD[20], 255);
+TextDrawFont(TDEditor_TD[20], 4);
+TextDrawSetProportional(TDEditor_TD[20], 0);
+TextDrawSetShadow(TDEditor_TD[20], 0);
+
+TDEditor_TD[21] = TextDrawCreate(334.601867, 238.471527, "box");
+TextDrawLetterSize(TDEditor_TD[21], 0.000000, 2.332998);
+TextDrawTextSize(TDEditor_TD[21], 360.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[21], 1);
+TextDrawColor(TDEditor_TD[21], -1);
+TextDrawUseBox(TDEditor_TD[21], 1);
+TextDrawBoxColor(TDEditor_TD[21], -1378294017);
+TextDrawSetShadow(TDEditor_TD[21], 0);
+TextDrawSetOutline(TDEditor_TD[21], 0);
+TextDrawBackgroundColor(TDEditor_TD[21], 255);
+TextDrawFont(TDEditor_TD[21], 1);
+TextDrawSetProportional(TDEditor_TD[21], 1);
+TextDrawSetShadow(TDEditor_TD[21], 0);
+
+TDEditor_TD[22] = TextDrawCreate(323.902160, 238.137176, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[22], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[22], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[22], 1);
+TextDrawColor(TDEditor_TD[22], 255);
+TextDrawSetShadow(TDEditor_TD[22], 0);
+TextDrawSetOutline(TDEditor_TD[22], 0);
+TextDrawBackgroundColor(TDEditor_TD[22], 255);
+TextDrawFont(TDEditor_TD[22], 4);
+TextDrawSetProportional(TDEditor_TD[22], 0);
+TextDrawSetShadow(TDEditor_TD[22], 0);
+
+TDEditor_TD[23] = TextDrawCreate(348.403656, 238.637207, "ld_pool:ball");
+TextDrawLetterSize(TDEditor_TD[23], 0.000000, 0.000000);
+TextDrawTextSize(TDEditor_TD[23], 22.739948, 22.069910);
+TextDrawAlignment(TDEditor_TD[23], 1);
+TextDrawColor(TDEditor_TD[23], 255);
+TextDrawSetShadow(TDEditor_TD[23], 0);
+TextDrawSetOutline(TDEditor_TD[23], 0);
+TextDrawBackgroundColor(TDEditor_TD[23], 255);
+TextDrawFont(TDEditor_TD[23], 4);
+TextDrawSetProportional(TDEditor_TD[23], 0);
+TextDrawSetShadow(TDEditor_TD[23], 0);
+
+TDEditor_TD[24] = TextDrawCreate(336.201995, 240.949493, "box");
+TextDrawLetterSize(TDEditor_TD[24], 0.000000, 1.903010);
+TextDrawTextSize(TDEditor_TD[24], 357.000000, 0.000000);
+TextDrawAlignment(TDEditor_TD[24], 1);
+TextDrawColor(TDEditor_TD[24], -1);
+TextDrawUseBox(TDEditor_TD[24], 1);
+TextDrawBoxColor(TDEditor_TD[24], 255);
+TextDrawSetShadow(TDEditor_TD[24], 0);
+TextDrawSetOutline(TDEditor_TD[24], 0);
+TextDrawBackgroundColor(TDEditor_TD[24], 255);
+TextDrawFont(TDEditor_TD[24], 1);
+TextDrawSetProportional(TDEditor_TD[24], 1);
+TextDrawSetShadow(TDEditor_TD[24], 0);
+
+TDEditor_TD[25] = TextDrawCreate(259.000000, 299.511169, "Nao_tem_conta?");
+TextDrawLetterSize(TDEditor_TD[25], 0.224500, 1.214221);
+TextDrawAlignment(TDEditor_TD[25], 1);
+TextDrawColor(TDEditor_TD[25], -1);
+TextDrawSetShadow(TDEditor_TD[25], 0);
+TextDrawSetOutline(TDEditor_TD[25], -1);
+TextDrawBackgroundColor(TDEditor_TD[25], 255);
+TextDrawFont(TDEditor_TD[25], 1);
+TextDrawSetProportional(TDEditor_TD[25], 1);
+TextDrawSetShadow(TDEditor_TD[25], 0);
+
+TDEditor_TD[26] = TextDrawCreate(264.500000, 100.255195, "VIDA_REAL_CRIAS");
+TextDrawLetterSize(TDEditor_TD[26], 0.400000, 1.600000);
+TextDrawAlignment(TDEditor_TD[26], 1);
+TextDrawColor(TDEditor_TD[26], -5963521);
+TextDrawSetShadow(TDEditor_TD[26], -1);
+TextDrawSetOutline(TDEditor_TD[26], 1);
+TextDrawBackgroundColor(TDEditor_TD[26], 255);
+TextDrawFont(TDEditor_TD[26], 3);
+TextDrawSetProportional(TDEditor_TD[26], 1);
+TextDrawSetShadow(TDEditor_TD[26], -1);
+
+TDEditor_TD[27] = TextDrawCreate(301.598724, 115.366539, "Copyright_2020_-_RPG");
+TextDrawLetterSize(TDEditor_TD[27], 0.180500, 0.834664);
+TextDrawAlignment(TDEditor_TD[27], 1);
+TextDrawColor(TDEditor_TD[27], -1);
+TextDrawSetShadow(TDEditor_TD[27], 0);
+TextDrawSetOutline(TDEditor_TD[27], 1);
+TextDrawBackgroundColor(TDEditor_TD[27], 255);
+TextDrawFont(TDEditor_TD[27], 1);
+TextDrawSetProportional(TDEditor_TD[27], 1);
+TextDrawSetShadow(TDEditor_TD[27], 0);
+
+
+
+//Player TextDraws: 
+
+
+new PlayerText:TDEditor_PTD[MAX_PLAYERS][5];
+
+TDEditor_PTD[playerid][0] = CreatePlayerTextDraw(playerid, 318.000000, 153.111022, "CLIQUE_AQUI_PARA_COLOCAR_SEU_NOME");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][0], 0.095999, 0.927999);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][0], 2);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][0], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][0], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][0], 0);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][0], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][0], 2);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][0], 1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][0], 0);
+PlayerTextDrawSetSelectable(playerid, TDEditor_PTD[playerid][0], true);
+
+TDEditor_PTD[playerid][1] = CreatePlayerTextDraw(playerid, 318.000000, 199.713867, "CLIQUE_AQUI_PARA_COLOCAR_SUA_SENHA");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][1], 0.096999, 0.927999);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][1], 2);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][1], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][1], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][1], 0);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][1], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][1], 2);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][1], 1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][1], 0);
+PlayerTextDrawSetSelectable(playerid, TDEditor_PTD[playerid][1], true);
+
+TDEditor_PTD[playerid][2] = CreatePlayerTextDraw(playerid, 273.500000, 240.277862, "Entrar");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][2], 0.306000, 1.506666);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][2], 1);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][2], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][2], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][2], 0);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][2], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][2], 1);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][2], 1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][2], 0);
+PlayerTextDrawSetSelectable(playerid, TDEditor_PTD[playerid][2], true);
+
+TDEditor_PTD[playerid][3] = CreatePlayerTextDraw(playerid, 331.003509, 241.877960, "Recuperar");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][3], 0.218001, 1.316666);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][3], 1);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][3], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][3], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][3], 0);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][3], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][3], 1);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][3], 1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][3], 0);
+PlayerTextDrawSetSelectable(playerid, TDEditor_PTD[playerid][3], true);
+
+TDEditor_PTD[playerid][4] = CreatePlayerTextDraw(playerid, 318.003601, 299.511169, "Registrar-se");
+PlayerTextDrawLetterSize(playerid, TDEditor_PTD[playerid][4], 0.224500, 1.214221);
+PlayerTextDrawAlignment(playerid, TDEditor_PTD[playerid][4], 1);
+PlayerTextDrawColor(playerid, TDEditor_PTD[playerid][4], -1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][4], 0);
+PlayerTextDrawSetOutline(playerid, TDEditor_PTD[playerid][4], -1);
+PlayerTextDrawBackgroundColor(playerid, TDEditor_PTD[playerid][4], 255);
+PlayerTextDrawFont(playerid, TDEditor_PTD[playerid][4], 1);
+PlayerTextDrawSetProportional(playerid, TDEditor_PTD[playerid][4], 1);
+PlayerTextDrawSetShadow(playerid, TDEditor_PTD[playerid][4], 0);
+PlayerTextDrawSetSelectable(playerid, TDEditor_PTD[playerid][4], true);
+
+
+
+
+//Total textdraws exported: 33 (28 global textdraws / 5 player textdraws) ~ 16/3/2020 ~ 22:37:8
+TDEditor V1.17 BY ADRI1
