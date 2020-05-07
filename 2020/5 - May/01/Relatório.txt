@@ -1,0 +1,13 @@
+Removido bug 1 dia de VIP para novato;
+Removido bug desconectar em (Empresas, Casas, Arena e Locais Públicos);
+Removido bug Barra de Status mobile;
+Removido bug última entrada ( plural/singular );
+Removido bug primeira animação;
+Removido bug OnPlayerTexts;
+Removido salvar interior;
+Atualizado Pickups de Entradas/Saidas;
+Atualizado Enter/Exits;
+Atualizado mensagens randons;
+Atualizado uniformizar-se;
+Criado interior Light;
+Criado profissão Light( Honesta );

@@ -1,0 +1,5 @@
+Atualizado Anti-Cheats ativado assim que iniciar o servidor;
+Atualizado vacinas temporarias;
+Atualizado o CargoAdmin( Masculino e Feminino );
+Adicionado VIP de 1 dia para novatos automatico ( /ativar );
+Adicionado quebra de linha quando o texto é muito grande;
