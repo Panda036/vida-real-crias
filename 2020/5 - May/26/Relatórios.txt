@@ -1,0 +1,2 @@
+Removido bug do veículo explodir após conectar;
+Alterado comando ( /Consertar );
