@@ -1,0 +1,5 @@
+Removido bug GariTrash[ LastVehicles[playerid] ] estava armazendo -1;
+Alterado OnPlayerDeath( Hospital );
+Alterado sistema de criar veículos;
+Terminando Thief;
+Adicionado Plugin YSF;
