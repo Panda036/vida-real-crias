@@ -1,0 +1,1 @@
+Removido o bug da Bike não se mover;
