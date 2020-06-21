@@ -1,0 +1,3 @@
+Adicionado JordanCSG à coordenação;
+Alterado permissão de veículos;
+Alterado nome "HQ" para "LT(Local de Trabalho)";

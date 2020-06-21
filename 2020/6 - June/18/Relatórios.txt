@@ -1,0 +1,5 @@
+Adicionado nova stock em profissão;
+Adicionado profissão Carregador;
+Alterado DestroyVehicles;
+Alterado mercadorias Bayside, é dependente da profissão Carregador;
+Removido bug localizar veículo próprio;
