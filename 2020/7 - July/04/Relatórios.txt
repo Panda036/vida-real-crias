@@ -1,2 +1,4 @@
-Otimizado sistema de Level UP;
-Sistema de Base em finalização;
+Finalizado sistema de Bases;
+Alterado quantia de linhas para limpar Chat;
+Otimizado & modificado sistema de Chat;
+Modificado sistema de mensagem agencia;
