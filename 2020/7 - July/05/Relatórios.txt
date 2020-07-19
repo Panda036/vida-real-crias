@@ -1,0 +1,4 @@
+Adicionado permissões menu base;
+Adicionado chat base;
+Removido bug de permissão de veículos base;
+Alterado mensagem de adicionar funcionario em empresa;

@@ -1,0 +1,2 @@
+Removido bug gps de abrir gps android;
+Alterado textdraw status player/veiculos;

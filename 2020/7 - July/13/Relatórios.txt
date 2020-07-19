@@ -1,0 +1,6 @@
+Removido bug carregando dados;
+Removido bug /Consertar;
+Removido bug /Cb;
+Removido bug checkpoints das lojas;
+Adicionado Matheus_RP como estagiário;
+Adicionado Armas na escostas;
