@@ -1,0 +1,6 @@
+Removido bug criar varios veículo Gari;
+Removido bug veículo próprio segurança;
+Removido bug usar jetpack procurado(a);
+Removido bug disconectar abordado, algemado ou ambos;
+Removido bug /Cancelar - Carregador;
+Removido bug /Localizar;

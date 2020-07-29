@@ -1,0 +1,3 @@
+Adicionado logs todos comandos;
+Adicionado nova base(Las Venturas);
+Alterado local de lixo de Las Venturas;

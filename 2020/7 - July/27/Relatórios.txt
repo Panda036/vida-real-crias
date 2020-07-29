@@ -1,0 +1,13 @@
+Alterado ClearChat;
+Alterado /Creditos;
+Alterado as Radios;
+Alterado sistema de carteira de habilitação( 80% );
+Adicionado /Procurados;
+Adicionado skin ID:23 na loja;
+Removido necessidade da skin adm;
+Removido o uso do /Colete em bases;
+Removido bug Carregador;
+Removido bug de banimento;
+Removido bug Pedágio;
+Removido bug Concessionaria;
+Removido bug neon só funcionar em alguns veículos;
