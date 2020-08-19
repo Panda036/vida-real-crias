@@ -1,0 +1,2 @@
+Adicionar gorjeta AS VEZES em ALGUMAS profissão;
+Removido bug do /GPS no Android;

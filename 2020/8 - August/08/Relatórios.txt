@@ -1,0 +1,5 @@
+Adicionado comando /Codigo;
+Adicionado comando /Estudar;
+Adicionado uma parede no interiores das Bases;
+Adicionado /CoresID;
+Adicionado Imposto Empresas/Casas(Após 7 ou mais imposto perde à casa/empresa);
