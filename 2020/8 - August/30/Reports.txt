@@ -1,0 +1,5 @@
+Adicionado à necessidade do código para liberar Base;
+Adicionado Presente à cada 30 minutos;
+Alterado tela de Entrada/Registro;
+Alterado local do Banco de San Fierro;
+Alterado tempo do carregamento do gás( 1 minuto );

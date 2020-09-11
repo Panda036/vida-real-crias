@@ -1,0 +1,8 @@
+Removido bug só ajudante para cima poder usar auto reparo;
+Removido bug imposto empresa;
+Removido uso da mochila em veículo;
+Removido bug limpar chat;
+Removido bug /Localizar;
+Removido bug /abastecer;
+Removido bug /reabastecer; 
+Alterado valor de prisão ( $200 por estrela );
