@@ -1,0 +1,4 @@
+Alterado Safety para mês 11;
+Alterado ClearChat;
+Adicionado neon vermelho;
+Adicionado mensagem de entrada do jogador no discord;
