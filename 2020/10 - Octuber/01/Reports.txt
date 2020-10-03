@@ -1,0 +1,3 @@
+Adicionado novo comando ( /192 );
+Adicionado mensagem de parabéns ao alcançar os leveis (100, 500 e 1000);
+Removido bug Plantador de Cannabis;

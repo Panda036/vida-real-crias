@@ -1,0 +1,2 @@
+Adicionado função de registro automatico com mesmo nome no servidor ( &Registro );
+Adicionado profissão Motoboy;
