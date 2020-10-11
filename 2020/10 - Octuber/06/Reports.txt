@@ -1,0 +1,7 @@
+Removido bug de status jogador(a) atualizando antes de entrar;
+Removido bug sultan não receber multa;
+Atualizado quantidade máxima de acessórios(Limite 10);
+Atualizado quantidade máxima de acessórios conectados(Limite 5);
+Atualizado upgrade/downgrade(Cada up/down se ganha/perde 50% do valor padrão da casa);
+Adicionado bloqueio de alguns veículos(/CriarVeiculo);
+Adicionado excessão de multas para veículos do governos;
