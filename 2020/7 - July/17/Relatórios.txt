@@ -1,3 +1,0 @@
-Alterado os pickups, maps e labels no interior 0 e virtual 0; 
-Alterado left_profission_pizzaboy;
-Alterado senhas normais para senhas increptadas com MD5();

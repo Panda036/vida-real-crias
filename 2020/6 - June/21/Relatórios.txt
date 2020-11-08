@@ -1,2 +1,0 @@
-Removido bug Área VIP;
-Removido bug StrongCarDriver;

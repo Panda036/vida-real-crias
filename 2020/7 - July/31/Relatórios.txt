@@ -1,3 +1,0 @@
-Removido bug Discord Codigo;
-Removido bug de entrar na arena com colete;
-Adicionado 50% do colete na ammunation;

@@ -1,3 +1,0 @@
-Removido o bug do vip;
-Atualizado o db vehicles( somente compilado );
-Atualizado o lastlogin;

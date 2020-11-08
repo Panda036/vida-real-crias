@@ -1,5 +1,0 @@
-Criado cargo Ladrão;
-Criado profissão Motorista de Carro Forte;
-Alterado codigo/mensagens privada discord;
-Removido bug pegar armas mochila;
-Removido bug de precisar de veículo para abastecer galão;

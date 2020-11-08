@@ -1,3 +1,0 @@
-Adicionado gás jetpack;
-Adicionado abastecimento de gás jetpack;
-Alterado GasolineState;

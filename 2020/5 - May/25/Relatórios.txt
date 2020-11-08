@@ -1,7 +1,0 @@
-Adicionado tempo para fazer login/registro;
-Adicionado à quebra de veículos( Kit Reparos: compra em qualquer Utilitários e /Consertar );
-Alterado sistema de código bot Discord;
-Alterado /admins;
-Alterado tempo das mensagens de entrada de Casas/Empresas;
-Removido bug da gasolina negativa;
-Removido bug do /banir;

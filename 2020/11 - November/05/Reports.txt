@@ -1,0 +1,21 @@
+Adicionado comando (/Desbugar);
+Adicionado comando (/Congelar);
+Adicionado comando (/Desbanir);
+Adicionado BOT-VRC ~ Anti divulgação;
+Adicionado comando (/Anuncio);
+Adicionado bloqueio no (/duvida e /relatorio);
+Adicionado tanques de combustivel(Idlewood);
+Adicionado no GPS local de encaminhamento máfia (Área da Máfia);
+
+Removido bug não salvar KM/H e Gasolina;
+Removido bug de não ser punido ao sair(algemado, abordado ou perseguição);
+Removido bug de não sair abordagem, algema ou perseguição;
+Removido bug demorar alguns segundos para carregar os dados;
+Removido bug de comprar/vender veículo e não salvar;
+Removido bug não salvar skin;
+Removido bug não spawnar na casa;
+Removido presente bike dado a todo novato;
+
+Atualizado permissões dos comandos policiais;
+Atualizado /Cancelar;
+Atualizado /Profissao;

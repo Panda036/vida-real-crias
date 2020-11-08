@@ -1,4 +1,0 @@
-Removido bug de cair após entrar em um veículo profissão;
-Removido gasolina Infinita( Veículos Públicos );
-Adicionado sistema de Gasolina( Veículos Públicos );
-Adicionado contagem de Km/Rodado( Veículos Públicos );

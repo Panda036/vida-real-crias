@@ -1,0 +1,10 @@
+Removido bug de não ser punido ao sair(algemado, abordado ou perseguição);
+Removido bug de não sair abordagem, algema ou perseguição;
+Removido bug não salvar skin;
+Removido bug demorar algeuns segundos para carregar os dados;
+Removido bug não spawnar na casa;
+Removido presente bike dado a todo novato;
+
+Otimizado tax;
+
+Atualizado (HUD);

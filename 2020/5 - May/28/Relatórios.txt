@@ -1,3 +1,0 @@
-Adicionado Left_Pfs_PotPlanter;
-Adicionado início da profissão Ladrão;
-Bug Agencia pegar profissão;

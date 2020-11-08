@@ -1,5 +1,0 @@
-Removido 40% do valor recebido após descarregar Carro Forte;
-Adicionado Segurança de Carro Forte;
-Adicionado comando /AssaltarCarroForte;
-
-Obs: Remover Profissão dos Jogadores;

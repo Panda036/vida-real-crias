@@ -1,0 +1,7 @@
+Adicionado HUD personalizado (/HUD);
+Adicionado bloqueio de tempo no assalto a Carro Forte;
+Adicionado o bloqueio de assaltar nos bancos;
+Removido bug de roubar veículo;
+Removido bug de não bloquer transferencias bancárias e em mãos;
+Removido bug Auto Escola;
+Removido bug Segurança de Carro Forte;

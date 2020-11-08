@@ -1,0 +1,9 @@
+Adicionado comando (/Desbugar);
+Adicionado comando (/Congelar);
+Adicionado comando (/Desbanir);
+Adicionado BOT-VRC ~ Anti divulgação;
+Adicionado comando (/Anuncio);
+Adicionado bloqueio no (/duvida e /relatorio);
+Adicionado tanques de combustivel(Idlewood);
+Adicionado no GPS local de encaminhamento máfia (Área da Máfia);
+Removido bug não salvar KM/H e Gasolina;

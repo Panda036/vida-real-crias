@@ -1,3 +1,0 @@
-Removido bug veículo petroleiro;
-Removido bug vacina infinita;
-Atualizado compra de VIP;

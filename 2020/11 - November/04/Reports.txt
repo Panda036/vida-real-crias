@@ -1,0 +1,2 @@
+Removido alguns bug de casa;
+Tentativa de remover bug de login;

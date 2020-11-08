@@ -1,3 +1,0 @@
-Removido Jordan coordenador;
-Promovido Alex à Administrador;
-Alterado codigo discord;

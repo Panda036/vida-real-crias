@@ -1,9 +1,0 @@
-Adicionado include crashdetect;
-Adicionado +4 Casas;
-Adicionado +1 Empresa;
-Adicionado históricos de tansferências;
-Atualizado serverconfig;
-
-Obs: Possívelmente resolvido o /localizar;
-
-Versiao 1.0.0 > 0.0.1;

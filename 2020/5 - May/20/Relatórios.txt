@@ -1,4 +1,0 @@
-Atualizado /Identidade para PC;
-Atualizado TopDinheiro e TopLevel;
-Adicionado TopKill e TopProcurado;
-Adicionado MAX_PING em /Identidade;

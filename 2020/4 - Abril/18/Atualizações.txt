@@ -1,3 +1,0 @@
-Adicionado novo cargo Assaltante;
-Adicionado 21 Caixas eletrônicos;
-Removido o salvamento de model vehicles;

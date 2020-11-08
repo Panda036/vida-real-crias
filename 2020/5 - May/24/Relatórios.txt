@@ -1,5 +1,0 @@
-Atualizado TopDinheiro;
-Adicionado BOT Discord/Servidor;
-Adicionado o envio de código da admininstração automatico;
-Adicionado o envio de mensagem do /v no chat vip do Discorde;
-Adicionado o envio de mensagem do /ac no chat staff do Discorde;

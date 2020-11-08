@@ -1,0 +1,5 @@
+Adicionado congelamento na tentativa de roubo;
+Adicionado mensagem de aviso (GMX E iniciamento);
+Adicionado destruição do veículo profissão não em uso(Respawn Veiculos);
+Removido bug de não enviar código diariamente;
+Removido bug veículo profissão não ser destruido quando mudar de trabalho;

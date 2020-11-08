@@ -1,4 +1,0 @@
-Alterado permissão entrar veículo público;
-Alterado status gasolina;
-Removido bug de veículos permissões;
-Removido bug de deletar veículo admininstração;

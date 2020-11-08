@@ -1,0 +1,8 @@
+Removido bug de veículos e acessórios;
+Removido bug da (agencia e mochila) Android;
+Removido bug veículos profissão sendo deletados;
+Removido uso total da mochila em veículos;
+Adicionado arena Android;
+Atualizado VIDA do Carro Forte;
+Otimizado comandos da administração;
+Otimizado comandos vip;
