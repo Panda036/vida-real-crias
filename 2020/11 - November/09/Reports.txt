@@ -1,0 +1,23 @@
+D.M - 10 minutos automaticamente pelo BOT;
+
+
+
+Exeções:
+
+
+
+Permitido Policial **FARDADO** matar máfia(Não recebe estrelas);
+
+Permitido Policial **SEM FARDA** matar máfia(+5 Estrelas);
+
+Permitido Máfia matar Policial(+5 Estrelas);
+
+Removido tag base antes do nome no chat;
+Adicionado tag base em cima do(a) jogador(a);
+Adicionado +2 Bases;
+
+Base 0 Fallen Tree;
+Base 1 Blackfield;
+Base 2 Whitewood Estates;
+Base 3 Whitewood Estates;
+Base 4 Red County;

@@ -1,7 +1,0 @@
-Adicionado transferência bancária(Limite de 50.000 até 1.000.000);
-Adicionado sistema de IPTU( Empresas e Casas ), acumulhando 7 impostos perde á propriedade. Pagamento é feito na prefeitura;
-Removido bug do gás;
-Removido bug permissão de veículo;
-Removido bug Detran;
-Removido bug Banco;
-Alterado sistema de imposto;

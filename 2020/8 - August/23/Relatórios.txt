@@ -1,3 +1,0 @@
-Removido bug IPTU;
-Removido bug banco;
-Adicionado rafael billa à estágiario

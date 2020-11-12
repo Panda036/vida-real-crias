@@ -1,0 +1,7 @@
+Adicionado permissão do (/AntiCheats) para Coordenatores;
+Atualizado preço de um carro da concessionaria;
+Atualizado salvamento de IP e o comando (/VerificarIP);
+Atualizado comando (/Anuncio para /Anuncios);
+Atualizado sistema de comida;
+Removido bug saldo bancario;
+Removido bug prisão;

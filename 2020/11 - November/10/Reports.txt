@@ -1,0 +1,3 @@
+Removido comando /VerIP;
+Adicionado comando /VerificarIP;
+Atualizado anti-cheats(fly, money, speed, fakekill, weapon);

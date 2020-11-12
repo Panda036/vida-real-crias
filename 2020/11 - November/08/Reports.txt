@@ -1,0 +1,9 @@
+Removido bug checkpoints CNH Áereo e Aquatico; 
+Removido bug GPS propriedades;
+Removido bug de assaltar carro forte;
+Removido bug não ir para prisão;
+Removido bug mostrar/ocultar HUD;
+Removido probição de não falar na prisão;
+Removido conflito entre bases;
+Adicionado comando(/MudarSenha);
+Adicionado comando(/MudarEmail);
