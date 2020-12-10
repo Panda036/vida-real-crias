@@ -1,0 +1,11 @@
+Atualizado interior do banco;
+
+Adicionado função assaltar banco;
+
+Removido bug de permissão de veículo profissão;
+Removido bug Petroleiro android;
+
+STAFFs
+
+Adicionado sistema de enquete ( /enquete, /analisarenquete, finalizarenquete, /sim e /nao );
+Atualizado comando ( /punicao e /despunicao ) - Funçào agendar e desagendar(Agora só funciona por NOME);

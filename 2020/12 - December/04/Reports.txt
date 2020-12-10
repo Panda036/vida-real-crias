@@ -1,0 +1,6 @@
+Adicionado um delay de 1minuto no comando ( /colete );
+Adicionado a necessidade do uso de uniforme para criar veículo polícia;
+
+Atualizado anti-afk;
+
+Removido bug da auto escola;

@@ -1,0 +1,4 @@
+Removido punição automática por DM;
+Removido KICK quando está ausente;
+Removido um possível bug Entregador de Jornais e Removido -$500 ao cancelar;
+Adicionado permissão da staff usar comandos na prisão;

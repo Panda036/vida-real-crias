@@ -1,0 +1,8 @@
+Atualizado houses.inc;
+Adicionado bloqueio de procurado(a) não ficar em base;
+Adicionado comando (/Procurar);
+Removido bug comando (/Espiar);
+Removido bug KM/H;
+Removido bug de terceiros(Outros Policiais) poder prender o detido por outro Policial;
+
+Desativado Acessorios;

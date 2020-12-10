@@ -1,0 +1,5 @@
+Atualizado sistema de criar veículo nos departamentos de policia;
+Adicionado bloqueio de 30 segundos após o(a) detento(a) mandar mensagem para o(a) advogado(a);
+Adicionado função alterar cor da TAG da base;
+Adicionado função ativar/desativar invasão de base;
+Removido bug de não mostrar que está em uma base;

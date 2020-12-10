@@ -1,0 +1,7 @@
+Removido bug dos acessórios e armas mochila;
+Removido bug do comando (/despunicao);
+Removido bug do MapIcon Banco;
+Removido bug qualquer um usar Carro Forte;
+Removido bug do Anti-FakeKill;
+Atualizado sistema de login no Android/PC;
+Adicionado +1 Casa;

@@ -1,0 +1,2 @@
+Atualizado comando (/GPS);
+Adicionado comando (/ArrombarCasa);

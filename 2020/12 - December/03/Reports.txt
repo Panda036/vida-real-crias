@@ -1,0 +1,8 @@
+Adicionado função mandar mensagem na tela para Youtuber;
+Atualizado comando (/Comandar);
+Atualizado anti-fake kill;
+Otimizado sistema de bases;
+Removido bug ao remover membro base;
+Removido bug último veículo;
+Removido bug taxi;
+Removido portas do 

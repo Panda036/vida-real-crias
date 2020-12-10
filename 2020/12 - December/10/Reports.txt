@@ -1,0 +1,11 @@
+Adicionado musicas de login;
+Adicionado novo sistema de morte;
+Adicionado a profissão Guarda Municipal;
+
+Atualizado level da profissão(Segurança de Carro Forte para 40 leveis);
+
+Removido á necessidade de level para todas profissões exceto(Governamentais e Policiais);
+Removido profissão Sorveteiro;
+Removido bug motoboy;
+Removido bug de poder usar localizar fora do táxi;
+Removido bug de não salvar vida do veículo;

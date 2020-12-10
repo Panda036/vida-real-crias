@@ -1,0 +1,18 @@
+Adicionado gorro na tela de login/registro;
+Adicionado evento presente(especial natal);
+Adicionado opção de ocultar o presente(/HUD);
+Adicionado a necessidade da renovação de base;
+Adicionado a função colocar base à venda;
+Adicionado comando ( /Celular );
+
+Alterado as TAGs em cima do nome;
+
+Removido bug não salvar K/D arena;
+Removido os comandos (/sms e /gps);
+
+STAFFs:
+
+Adicionado comando ( /Comandar );
+Adicionado comando ( /PrenderArmas );
+Adicionado comando ( /Extrato );
+Adicionado bloqueio de usar comandos enquanto está congelado;
