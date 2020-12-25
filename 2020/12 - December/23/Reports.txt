@@ -1,0 +1,7 @@
+Removido bug do auto reparo( Blindagem );
+Removido bug do nitro infinito;
+Removido bug neon;
+
+Adicionado a profissão Taxi Aério;
+Adicionado a profissão Transportador(a) de minérios;
+Adicionado a profissão Mecânico(a);

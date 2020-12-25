@@ -1,0 +1,6 @@
+Removido bug /profissão (Transportador(a) de minérios);
+Removido bug casa com o limite de máximo upgrades 21;
+Removido bug não pagar por requisição;
+Removido bug de não perder requisição quando compra casa/empresa;
+
+Adicionado profissão Transportador(a) de Madeiras;

@@ -1,0 +1,7 @@
+Removido bug de usar "G" quando Renascendo;
+
+Atualizado comando (/toplevel e meulevel para /TopHoras e /MinhasHoras);
+Atualizado os leveis profissões do Governo;
+Atualizado comando ( /192 );
+
+Adicionado à funcionalidade de criar veículo profissão paramédico e pegar o uniforme automaticamente;
