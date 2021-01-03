@@ -1,3 +1,0 @@
-Removido bug de banimento;
-Removido bug de compra de acessórios;
-Atualizado tempo de consumo de gasolina;

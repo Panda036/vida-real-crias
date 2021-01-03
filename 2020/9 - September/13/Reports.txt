@@ -1,4 +1,0 @@
-Atualizado textdraws de carregamentos (Conserto, Gari, Ladrão e adicionada em WeaponProducer);
-Otimizado códigos de sono;
-Criado Cargo Produtor de Armas;
-Criado /HUD;

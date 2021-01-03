@@ -1,9 +1,0 @@
-Removido bug do ( /Abastecer );
-Removido bug do ( /Fornecedor );
-Removido bug do ( /Reparar );
-Removido bug do HUD ficar sendo atualizado mesmo estando desativado;
-Removido bug advogado não conseguir abrir portões do departamento;
-Removido bug morador(a) não poder dormir na casa;
-Removido bug de dormir infinitamente;
-Removido bug vender arma de qualquer lugar;
-Atualizado velocidade do velocimetro;

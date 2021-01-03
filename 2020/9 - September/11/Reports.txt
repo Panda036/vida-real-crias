@@ -1,4 +1,0 @@
-Adicionado arquivo própio para DIALOGS;
-Alterado alguns bugs possíveis de Adm ser VIP;
-Alterado local das funções para o arquivo py_functions;
-Alterado algumas variáveis para o arquivo variables;

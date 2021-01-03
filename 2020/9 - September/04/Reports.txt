@@ -1,5 +1,0 @@
-Removido bug do /localizar;
-Adicionado nova função de retornar porcentagem;
-Alterado script de Comprar armas;
-
-Obs: Começando a criação de Produtor de Armas.

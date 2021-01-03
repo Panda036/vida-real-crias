@@ -1,0 +1,9 @@
+Desativado evento de presentes;
+Desativado evento de natal;
+Desativado Anti-Fly;
+
+Adicionado VOIP( Voz sobre IP );
+Adicionado aviso de impostos após logar;
+Adicionado profissão Piloto( Categoria Transporte );
+
+Removido possível bug de continuar morto após ser preso;

@@ -1,0 +1,6 @@
+Adicionado a necessidade da skin da administração;
+Adicionado bloqueio de membro da administração ir Arena;
+Atualizado sistema de chat;
+Atualizado os icones no mapa;
+Removido tags VIP, Youtube, base e administração ( Chat e em Cima );
+Removido os icones de casas;

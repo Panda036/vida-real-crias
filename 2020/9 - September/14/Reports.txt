@@ -1,2 +1,0 @@
-Desativado sistema de presentes;
-Alterado preços de upgrade e downgrade casas;
