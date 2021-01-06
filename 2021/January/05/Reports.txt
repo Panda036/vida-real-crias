@@ -1,0 +1,7 @@
+Adicionado cargo máfioso terrorista;
+Atualizado sistema da agência de empregos;
+Atualizado sistema de morte;
+Atualizado permissão do comando ( /reanimar ) para membros da administração;
+Removido bug membro da administração não poder usar comando morto;
+Removido bug da agência de empregos;
+Removido bug profissão piloto;
