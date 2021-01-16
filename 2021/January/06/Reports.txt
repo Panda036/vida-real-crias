@@ -1,0 +1,2 @@
+Removido bloqueio de 5 segundos por roubo;
+Removido bug carregador;

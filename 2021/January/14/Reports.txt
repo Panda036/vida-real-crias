@@ -1,0 +1,8 @@
+Adicionado alteração automática no canal "Jogadores" do discord;
+Adicionado comando /Info;
+Adicionado mensagens no chat;
+Atualizado icones do mapa;
+Atualizado dinheiro inicial para $2.000;
+Atualizado /Celular;
+Removido comando /VenderCelular;
+Removido bug do GPS;

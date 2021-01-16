@@ -1,0 +1,4 @@
+Removido bug do /iniciar light;
+Removido bug de usar /celular sem ter;
+Adicionado ao GPS lojas e postos de combustíveis mais próximos;
+Adicionado função de dormir em Hotel;
