@@ -1,4 +1,0 @@
-Adicionado a perda de $500 quando cancela algum pedido/entrega da profissao;
-Adicionado chapeu de bruxa tela de entrada/registro;
-Adicionado e atualizado sistema de presentes;
-Atualizado ID do discord Rafael Billa;

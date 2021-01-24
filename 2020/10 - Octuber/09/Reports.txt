@@ -1,5 +1,0 @@
-Removido bug de algumas mensagens não irem para o discord(Chat: VIP e Admin);
-Removido portão da área de drogas lv;
-Removido bug Ladrão de Gás;
-Adicionado sistema de doces;
-Adicionado arvore em especial halloween em frente Spawn novatos;

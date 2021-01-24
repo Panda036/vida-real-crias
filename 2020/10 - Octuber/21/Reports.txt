@@ -1,3 +1,0 @@
-Otimizado sistema de dados do(a) jogador(a)(10%);
-Otimizado sistema de concessionaria(60%);
-Otimizado sistema de veículos(40%);

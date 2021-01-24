@@ -1,9 +1,0 @@
-Otimizado sistema da agência de empregos(30%);
-Otimizado sistema do banco;
-Otimizado sistema de sexo;
-Otimizado Agencia;
-
-Removido NameProfission;
-
-Atualizado /Cancelar;
-Atualizado /Profissao;

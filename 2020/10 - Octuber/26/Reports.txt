@@ -1,8 +1,0 @@
-Adicionado viaturas nas localidades(Angel Pine, Dillimore e El quebrados);
-Adicionado comando(/Doentes);
-
-Atualizado /Localizar;
-
-Removido bug não salvar SKIN;
-Removido bug /SairAfk;
-Removido bug 20 multas não perder CNH;
