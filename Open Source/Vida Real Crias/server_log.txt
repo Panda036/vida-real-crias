@@ -1,0 +1,257 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:49:42] 
+[21:49:42] Server Plugins
+[21:49:42] --------------
+[21:49:42]  Loading plugin: crashdetect
+[21:49:42]   CrashDetect plugin 4.19.4
+[21:49:42]   Loaded.
+[21:49:42]  Loading plugin: streamer
+[21:49:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:49:42]   Loaded.
+[21:49:42]  Loading plugin: sscanf
+[21:49:42] 
+
+[21:49:42]  ===============================
+
+[21:49:42]       sscanf plugin loaded.     
+
+[21:49:42]          Version:  2.8.3        
+
+[21:49:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:49:42]  ===============================
+
+[21:49:42]   Loaded.
+[21:49:42]  Loading plugin: mysql
+[21:49:42]  >> plugin.mysql: R41-4 successfully loaded.
+[21:49:42]   Loaded.
+[21:49:42]  Loading plugin: pawncmd
+[21:49:43] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:49:43]   Loaded.
+[21:49:43]  Loading plugin: discord-connector
+[21:49:43]  >> plugin.dc-connector: bot token not specified in environment variable or server config.
+[21:49:43]   Failed.
+[21:49:43]  Loading plugin: YSF
+[21:49:43] 
+[21:49:43]  ===============================
+[21:49:43]         YSF - kurta999's version 2.0 loaded
+[21:49:43]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[21:49:43]     Server version: 0.3.7 R2-1 or R2-2
+[21:49:43]     Operating System: Windows
+[21:49:43]     Built on: May 24 2020 at 14:42:02
+[21:49:43]  ===============================
+[21:49:43] 
+[21:49:43]   Loaded.
+[21:49:43]  Loaded 6 plugins.
+
+[21:49:43] 
+[21:49:43] Filterscripts
+[21:49:43] ---------------
+[21:49:43]   Loaded 0 filterscripts.
+
+[21:49:43]  
+[21:49:43]  ======================================= 
+[21:49:43]  |                                     | 
+[21:49:43]  |        YSI version 1.04.0000        | 
+[21:49:43]  |        By Alex "Y_Less" Cole        | 
+[21:49:43]  |                                     | 
+[21:49:43]  ======================================= 
+[21:49:43]  
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:15:10] 
+[22:15:10] Server Plugins
+[22:15:10] --------------
+[22:15:10]  Loading plugin: crashdetect
+[22:15:10]   CrashDetect plugin 4.19.4
+[22:15:10]   Loaded.
+[22:15:10]  Loading plugin: streamer
+[22:15:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:15:10]   Loaded.
+[22:15:10]  Loading plugin: sscanf
+[22:15:10] 
+
+[22:15:10]  ===============================
+
+[22:15:10]       sscanf plugin loaded.     
+
+[22:15:10]          Version:  2.8.3        
+
+[22:15:10]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:15:10]  ===============================
+
+[22:15:10]   Loaded.
+[22:15:10]  Loading plugin: mysql
+[22:15:10]  >> plugin.mysql: R41-4 successfully loaded.
+[22:15:10]   Loaded.
+[22:15:10]  Loading plugin: pawncmd
+[22:15:10] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:15:10]   Loaded.
+[22:15:10]  Loading plugin: discord-connector
+[22:15:10]  >> plugin.dc-connector: bot token not specified in environment variable or server config.
+[22:15:10]   Failed.
+[22:15:10]  Loading plugin: YSF
+[22:15:10] 
+[22:15:10]  ===============================
+[22:15:10]         YSF - kurta999's version 2.0 loaded
+[22:15:10]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:15:10]     Server version: 0.3.7 R2-1 or R2-2
+[22:15:10]     Operating System: Windows
+[22:15:10]     Built on: May 24 2020 at 14:42:02
+[22:15:10]  ===============================
+[22:15:10] 
+[22:15:10]   Loaded.
+[22:15:10]  Loaded 6 plugins.
+
+[22:15:10] 
+[22:15:10] Filterscripts
+[22:15:10] ---------------
+[22:15:10]   Loaded 0 filterscripts.
+
+[22:15:10]  
+[22:15:10]  ======================================= 
+[22:15:10]  |                                     | 
+[22:15:10]  |        YSI version 1.04.0000        | 
+[22:15:10]  |        By Alex "Y_Less" Cole        | 
+[22:15:10]  |                                     | 
+[22:15:10]  ======================================= 
+[22:15:10]  
+[22:15:10]  =======================================
+[22:15:10]  |                                     |
+[22:15:10]  |           Banco de Dados            |
+[22:15:10]  |               Falhou                |
+[22:15:10]  |                                     |
+[22:15:10]  =======================================
+[22:15:12]  =============[ PAGSEGURO ]=============
+[22:15:12]  |                                     |
+[22:15:12]  |           Banco de Dados            |
+[22:15:12]  |               Falhou                |
+[22:15:12]  |                                     |
+[22:15:12]  =============[ PAGSEGURO ]=============
+[22:15:12] Number of vehicle models: 9
+[22:15:12] --- Server Shutting Down.
+[22:15:12] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[22:15:12] 
+
+[22:15:12]  ===============================
+
+[22:15:12]      sscanf plugin unloaded.    
+
+[22:15:12]  ===============================
+
+[22:15:12] plugin.mysql: Unloading plugin...
+[22:15:12] plugin.mysql: Plugin unloaded.
+[22:15:12] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[22:15:12] 
+[22:15:12]  ==============
+[22:15:12]   YSF - kurta999's version 2.0 unloaded
+[22:15:12]  ==============
+[22:15:12] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:15:58] 
+[22:15:58] Server Plugins
+[22:15:58] --------------
+[22:15:58]  Loading plugin: crashdetect
+[22:15:58]   CrashDetect plugin 4.19.4
+[22:15:58]   Loaded.
+[22:15:58]  Loading plugin: streamer
+[22:15:58] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:15:58]   Loaded.
+[22:15:58]  Loading plugin: sscanf
+[22:15:58] 
+
+[22:15:58]  ===============================
+
+[22:15:58]       sscanf plugin loaded.     
+
+[22:15:58]          Version:  2.8.3        
+
+[22:15:58]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:15:58]  ===============================
+
+[22:15:58]   Loaded.
+[22:15:58]  Loading plugin: mysql
+[22:15:58]  >> plugin.mysql: R41-4 successfully loaded.
+[22:15:58]   Loaded.
+[22:15:58]  Loading plugin: pawncmd
+[22:15:58] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:15:58]   Loaded.
+[22:15:58]  Loading plugin: discord-connector
+[22:15:58]  >> plugin.dc-connector: bot token not specified in environment variable or server config.
+[22:15:58]   Failed.
+[22:15:58]  Loading plugin: YSF
+[22:15:59] 
+[22:15:59]  ===============================
+[22:15:59]         YSF - kurta999's version 2.0 loaded
+[22:15:59]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[22:15:59]     Server version: 0.3.7 R2-1 or R2-2
+[22:15:59]     Operating System: Windows
+[22:15:59]     Built on: May 24 2020 at 14:42:02
+[22:15:59]  ===============================
+[22:15:59] 
+[22:15:59]   Loaded.
+[22:15:59]  Loaded 6 plugins.
+
+[22:15:59] 
+[22:15:59] Filterscripts
+[22:15:59] ---------------
+[22:15:59]   Loaded 0 filterscripts.
+
+[22:15:59]  
+[22:15:59]  ======================================= 
+[22:15:59]  |                                     | 
+[22:15:59]  |        YSI version 1.04.0000        | 
+[22:15:59]  |        By Alex "Y_Less" Cole        | 
+[22:15:59]  |                                     | 
+[22:15:59]  ======================================= 
+[22:15:59]  
+[22:15:59]  =======================================
+[22:15:59]  |                                     |
+[22:15:59]  |           Banco de Dados            |
+[22:15:59]  |        Conectado com sucesso        |
+[22:15:59]  |                                     |
+[22:15:59]  =======================================
+[22:16:01]  =============[ PAGSEGURO ]=============
+[22:16:01]  |                                     |
+[22:16:01]  |           Banco de Dados            |
+[22:16:01]  |               Falhou                |
+[22:16:01]  |                                     |
+[22:16:01]  =============[ PAGSEGURO ]=============
+[22:16:01] Number of vehicle models: 9

@@ -1,0 +1,30 @@
+#include YSI\y_hooks
+
+hook OnGameModeInit()
+{
+    new db_timers[500];
+    strins(db_timers, "CREATE TABLE IF NOT EXISTS `Timers` (", strlen(db_timers));
+    strins(db_timers, "`id` int AUTO_INCREMENT, ", strlen(db_timers));
+    strins(db_timers, "`timeburglar` int NOT NULL, ", strlen(db_timers));
+    strins(db_timers, "`burglarbox` int NOT NULL, ", strlen(db_timers));
+    strins(db_timers, "`burglarstrongcar` int NOT NULL, ", strlen(db_timers));
+    strins(db_timers, "`transactionbox` int NOT NULL, ", strlen(db_timers));
+    strins(db_timers, "`burglarbank` int NOT NULL, ", strlen(db_timers));
+    strins(db_timers, "`transactionbox` int NOT NULL, ", strlen(db_timers));
+    strins(db_timers, "`id_contas` int NOT NULL, ", strlen(db_timers));
+    strins(db_timers, "PRIMARY KEY(`id`), ", strlen(db_timers));
+    strins(db_timers, "FOREIGN KEY(`id_contas`) REFERENCES `Contas`(`id`) ON DELETE CASCADE )", strlen(db_timers));
+    mysql_query(IDConexao, db_timers, false);
+    return 1;
+}
+
+forward DB_LoadTimers(playerid);
+public DB_LoadTimers(playerid)
+{
+    if(cache_num_rows()) return 0;
+
+    new query[200];
+    mysql_format(IDConexao, query, 200, "INSERT INTO `Timers` (`id_contas`) VALUES ('%d')", PlayerInfo[playerid][ID]);
+    mysql_query(IDConexao, query);
+    return 1;
+}

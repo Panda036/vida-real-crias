@@ -1,0 +1,39 @@
+[21:49:43] [WARNING] mysql_connect: no password specified
+[21:49:45] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:49:47] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[21:49:49] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to MySQL server on '127.0.0.1' (10061)'
+[22:15:10] [WARNING] mysql_connect: no password specified
+[22:15:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:15:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:15:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:15:10] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'samp''
+[22:15:10] [ERROR] mysql_format: can't escape string 'qaxs9lnh826xefgiwy5e1fs4mbu261'
+[22:15:10] [ERROR] cache_get_row_count: no active cache
+[22:15:10] [ERROR] mysql_format: can't escape string 'qaxs9lnh826xefgiwy5e1fs4mbu261'
+[22:15:10] [ERROR] mysql_format: can't escape string '3g1yq687e985er8661cua65x93zfd0'
+[22:15:10] [ERROR] cache_get_row_count: no active cache
+[22:15:10] [ERROR] mysql_format: can't escape string '3g1yq687e985er8661cua65x93zfd0'
+[22:15:10] [ERROR] mysql_format: can't escape string 'yg20mj8a84omr58t72szizx6a4q47t'
+[22:15:10] [ERROR] cache_get_row_count: no active cache
+[22:15:10] [ERROR] mysql_format: can't escape string 'yg20mj8a84omr58t72szizx6a4q47t'
+[22:15:10] [ERROR] mysql_format: can't escape string '7t41672qfzwa4h32ys7k5yjldwf6ap'
+[22:15:10] [ERROR] cache_get_row_count: no active cache
+[22:15:10] [ERROR] mysql_format: can't escape string '7t41672qfzwa4h32ys7k5yjldwf6ap'
+[22:15:10] [ERROR] mysql_format: can't escape string '8g1em63i622756q7l5c0k0bi51esq9'
+[22:15:10] [ERROR] cache_get_row_count: no active cache
+[22:15:10] [ERROR] mysql_format: can't escape string '8g1em63i622756q7l5c0k0bi51esq9'
+[22:15:10] [ERROR] mysql_format: can't escape string 'inu6n923wg07u9sh670lfvxiucsjrp'
+[22:15:10] [ERROR] cache_get_row_count: no active cache
+[22:15:10] [ERROR] mysql_format: can't escape string 'inu6n923wg07u9sh670lfvxiucsjrp'
+[22:15:10] [ERROR] cache_get_row_count: no active cache
+[22:15:10] [ERROR] cache_delete: invalid cache id '0'
+[22:15:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
+[22:15:11] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
+[22:15:12] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
+[22:15:12] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
+[22:15:59] [WARNING] mysql_connect: no password specified
+[22:15:59] [ERROR] error #1060 while executing query "CREATE TABLE IF NOT EXISTS `Timers` (`id` int AUTO_INCREMENT, `timeburglar` int NOT NULL, `burglarbox` int NOT NULL, `burglarstrongcar` int NOT NULL, `transactionbox` int NOT NULL, `burglarbank` int NOT NULL, `transactionbox` int NOT NULL, `id_contas` int NOT NULL, PRIMARY KEY(`id`), FOREIGN KEY(`id_contas`) REFERENCES `Contas`(`id`) ON DELETE CASCADE )": Duplicate column name 'transactionbox'
+[22:16:00] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
+[22:16:00] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
+[22:16:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
+[22:16:01] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'vidare19_pagseguro'@'170.233.34.140' (using password: YES)'
